@@ -1,0 +1,83 @@
+{
+    "$schema" : "http://json-schema.org/schema",
+    "$id" : "#/fg-parametric-items-schema.json",
+
+    "definitions" : {
+        "modifier" : {
+            "$id" : "#modifier",
+            "type" : "array",
+            "items" : {
+                "type" : "object",
+                "properties" : {
+                    "key" : { "type" : "string" },
+                    "name" : { "type" : "string" },
+                    "desc" : { "type" : "string" },
+                    "mod_cost" : { 
+                        "anyOf" : [ { "type" : "number" }, { "type" : "string" } ]
+                    },
+                    "mod_weight" : { 
+                        "anyOf" : [ { "type" : "number" }, { "type" : "string" } ]
+                    }
+                },
+                "required" : [ "key" ] 
+            }
+        },
+        "base" : {
+            "$id" : "base",
+            "type" : "object",
+            "properties" : {
+                "base_name" : { "type" : "string" },
+                "type" : { "type" : "string" },
+                "subtype" : { "type" : "string" },
+                "base_cost" : { "type" : "number" },
+                "cost_ceiling" : { "type" : "number" },
+                "cost_floor" : { "type" : "number" },
+                "cost_whole_num" : { "type" : "boolean" },
+                "cost_units" : { "type" : "string" },
+                "base_weight" : { "type" : "number" },
+                "weight_ceiling" : { "type" : "number" },
+                "weight_floor" : { "type" : "number" },
+                "weight_whole_num" : { "type" : "boolean" },
+                "name" : { "type" : "string" },
+                "description" : { "type" : "string" },
+                "nonid_name" : { "type" : "string" },
+                "nonid_description" : { "type" : "string" },
+                "locked" : { "type" : "integer" },
+                "identified" : { "type" : "integer" },
+                "modifiers" : { 
+                    "type" : "object",
+                    "additionalProperties" : { "type" : "array" }
+                },
+                "colors" : { 
+                    "type" : "array",
+                    "items" : {
+                        "type" : "object",
+                        "properties" : {
+                            "name" : { "type" : "string" },
+                            "desc" : { "type" : "string" },
+                            "base_cost" : { "type" : "number" },
+                            "base_weight" : { "type" : "number" }
+                        },
+                        "required": [ "name" ]
+                    }
+                }
+            }
+        }
+    },
+
+    "type" : "object",
+    "properties" : {
+        "modifiers" : {
+            "type" : "object",
+            "additionalProperties": { 
+                "$ref" : "#/definitions/modifier"
+            }
+        },
+        "bases" : {
+            "type" : "array",
+            "items" : {
+                "$ref" : "#definitions/base"
+            }
+        }
+    }
+}

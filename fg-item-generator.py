@@ -397,10 +397,10 @@ def xml_prettify(xml_root: ET.ElementTree) -> str:
 if __name__ == "__main__":
     # build our command line and parse any arguments we get
     help_desc = (
-        'Generate a Fantasy Grounds Module Database XML file filled with '
-        'procedurally-generated items based on a JSON File input which '
-        'defines the items to be generated. Note that this process is not '
-        'random - it will generate every possible item.'
+        'Generate a Fantasy Grounds Module filled with procedurally-generated '
+        'items based on a JSON File input which defines the items to be '
+        'generated. Note that this process is not random - it will generate '
+        'every possible item.'
     )
     parser = argparse.ArgumentParser(description=help_desc)
     parser.add_argument('--input', default='item_defs.json',

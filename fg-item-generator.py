@@ -4,6 +4,7 @@ from xml.dom import minidom
 from itertools import product
 import argparse
 import sys
+import os
 
 
 class FGItem:
@@ -107,6 +108,51 @@ def read_definitions(filename: str) -> dict:
         print(msg)
         sys.exit()
     return definitions
+
+
+def parse_mod_def(definitions: dict) -> dict:
+    mod_def = {}
+    if 'version' in definitions.keys():
+        mod_def['version'] = definitions['version']
+    else:
+        mod_def['version'] = '4'
+    if 'release' in definitions.keys():
+        mod_def['release'] = definitions['release']
+    else:
+        mod_def['release'] = '8|CoreRPG:4'
+    if 'name' in definitions.keys():
+        mod_def['name'] = definitions['name']
+    else:
+        print('Error! Missing "name" in module definition! Exiting...')
+        sys.exit()
+    if 'category' in definitions.keys():
+        mod_def['category'] = definitions['category']
+    else:
+        mod_def['category'] = 'Accessories'
+    if 'author' in definitions.keys():
+        mod_def['author'] = definitions['author']
+    else:
+        print('Error! Missing "author" in module definition! Exiting...')
+        sys.exit()
+    if 'ruleset' in definitions.keys():
+        mod_def['ruleset'] = definitions['ruleset']
+    else:
+        mod_def['ruleset'] = 'Any'
+    return mod_def
+
+
+def generate_mod_def(mod_defs: dict) -> ET.Element:
+    def_root = ET.Element('root', {'version': mod_defs['version'],
+                                   'release': mod_defs['release']})
+    elem_name = ET.SubElement(def_root, 'name')
+    elem_name.text = mod_defs['name']
+    elem_category = ET.SubElement(def_root, 'category')
+    elem_category.text = mod_defs['category']
+    elem_author = ET.SubElement(def_root, 'author')
+    elem_author.text = mod_defs['author']
+    elem_ruleset = ET.SubElement(def_root, 'ruleset')
+    elem_ruleset.text = mod_defs['ruleset']
+    return def_root
 
 
 def generate_items(definitions: dict) -> list:
@@ -243,10 +289,8 @@ def generate_items(definitions: dict) -> list:
             if weight is not None:
                 for mod in mod_combo:
                     if 'mod_weight' in mod.keys():
-                        print(f'base_weight: {weight}')
                         mod_wt_in = mod["mod_weight"]
                         mod_wt_str = str(mod_wt_in)
-                        print(f'modifier: {mod_wt_in}')
                         if (mod_wt_str[0] in 'x+-'
                                 and mod_wt_str[1:].isdecimal()):
                             if mod_wt_str[0] == 'x':
@@ -263,7 +307,6 @@ def generate_items(definitions: dict) -> list:
                                 f'in Modifier "{mod}". Ignoring...'
                             )
                             print(msg)
-                        print(f'modified weight: {weight}')
             # cap weight at weight_ceiling and weight_floor
             if 'weight_ceiling' in base_item.keys():
                 weight_ceiling = base_item['weight_ceiling']
@@ -295,7 +338,7 @@ def generate_items(definitions: dict) -> list:
                 weight = int(weight)
             # item type, subtype, is it locked (default yes),
             # is it identified (default no)
-            if 'item_type' in base_item.keys():
+            if 'type' in base_item.keys():
                 item_type = base_item['type']
             else:
                 item_type = None
@@ -363,34 +406,60 @@ if __name__ == "__main__":
     parser.add_argument('--input', default='item_defs.json',
                         help='''JSON file of definitions for the items.
                                  Default: ./item_defs.json''')
-    parser.add_argument('--output', default='itemdb.xml',
-                        help='''Filename to output the XML file to.
-                                 Default: ./itemdb.xml''')
+    parser.add_argument('--output', default='itemdb',
+                        help='''Name of the directory to output the XML files to.
+                                 Default: ./itemdb/''')
     parser.add_argument('--id', default=1,
                         help='''Item ID number to start with. Default: 1''')
     args = parser.parse_args()
     infile = args.input
     outfile = args.output
     id_num = int(args.id)
+    # check to make sure our output argument isn't an existing file
+    if os.path.isfile(outfile):
+        msg = (
+            f'Error! Output argument "{outfile}" is an existing file, '
+            'not a directory!'
+        )
+        print(msg)
+        sys.exit()
     print(f'Generating items based on {infile} and outputting to {outfile}...')
-    # read in the item definitions file
+    # read in the module definitions file
     defs = read_definitions(infile)
+    # generate the definition.xml file
+    mod_defs = parse_mod_def(defs['module'])
+    mod_def_root = generate_mod_def(mod_defs)
+    mod_def_out = xml_prettify(mod_def_root)
     # generate the items
-    items = generate_items(defs)
-    # set up our XML root and item element
-    root = ET.Element('root', {'version': '4',
-                               'dataversion': '20201016',
-                               'release': '8|CoreRPG:4'})
+    items = generate_items(defs['items'])
+    print(f'Generated {len(items)} items!')
+    # set up our db.xml root
+    db_root = ET.Element('root', {'version': mod_defs['version'],
+                                  'release': mod_defs['release']})
+    # set up our item element and tree
     item_element = ET.Element('item')
-    root.append(item_element)
+    db_root.append(item_element)
     # add all our items, and give them unique IDs
     for item in items:
         item.ident = id_num
         item_element.append(item.gen_xml())
         id_num = id_num + 1
-    # prettify our XML tree
-    xml_out = xml_prettify(root)
-    # write our tree to a file
-    with open(outfile, 'w') as outfh:
-        outfh.write(xml_out)
-    print(f'Generated {len(items)} items!')
+    # prettify our database XML tree
+    db_xml_out = xml_prettify(db_root)
+    # create a directory for our module if it does not exist
+    try:
+        os.makedirs(outfile, exist_ok=True)
+    except Exception as e:
+        msg = (
+            f'Error! Could not create directory {outfile}! {e}'
+        )
+        print(msg)
+    # write our definition.xml module definitions to a file
+    out_db = outfile + '/definition.xml'
+    with open(out_db, 'w') as outfh:
+        outfh.write(mod_def_out)
+    # write our db.xml database tree to a file
+    out_db = outfile + '/db.xml'
+    with open(out_db, 'w') as outfh:
+        outfh.write(db_xml_out)
+    print(f'Module XML files written to {outfile}. Done!')

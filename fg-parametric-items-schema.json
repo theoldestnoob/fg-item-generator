@@ -67,17 +67,40 @@
 
     "type" : "object",
     "properties" : {
-        "modifiers" : {
+        "module" : {
             "type" : "object",
-            "additionalProperties": { 
-                "$ref" : "#/definitions/modifier"
-            }
+            "properties" : {
+                "version" : { "type" : "string" },
+                "release" : { "type" : "string" },
+                "name" : { "type" : "string" },
+                "category" : { "type" : "string" },
+                "author" : { "type" : "string" },
+                "contributors" : { 
+                    "type" : "array",
+                    "items" : { "type" : "string" }
+                },
+                "ruleset" : { "type" : "string" }
+            },
+            "required" : [ "name", "author" ]
         },
-        "bases" : {
-            "type" : "array",
-            "items" : {
-                "$ref" : "#definitions/base"
-            }
+        "items" : {
+            "type" : "object",
+            "properties" : {
+                "modifiers" : {
+                    "type" : "object",
+                    "additionalProperties": { 
+                        "$ref" : "#/definitions/modifier"
+                    }
+                },
+                "bases" : {
+                    "type" : "array",
+                    "items" : {
+                        "$ref" : "#definitions/base"
+                    }
+                }
+            },
+            "required" : [ "bases", "modifiers" ]
         }
-    }
+    },
+    "required" : [ "module", "items" ]
 }

@@ -399,8 +399,8 @@ def parse_string(string: str, base: dict, mods: list) -> str:
 
 
 def generate_docs(mod_defs: dict) -> ET.Element:
-    def_docs = ET.Element('docs')
-    blocks = ET.SubElement(def_docs, 'blocks')
+    db_docs = ET.Element('docs')
+    blocks = ET.SubElement(db_docs, 'blocks')
     block1 = ET.SubElement(blocks, 'block_001')
     block1type = ET.SubElement(block1, 'blocktype', {'type': 'string'})
     block1type.text = 'header'
@@ -421,14 +421,38 @@ def generate_docs(mod_defs: dict) -> ET.Element:
         for contrib in mod_defs['contributors']:
             block2li = ET.SubElement(block2list, 'li')
             block2li.text = f'{contrib}'
-    return def_docs
+    return db_docs
+
+
+def generate_lists(mod_defs: dict) -> ET.Element:
+    db_lists = ET.Element('lists', {'static': 'true'})
+    items_tag = ET.SubElement(db_lists, 'items_bycost')
+    name_tag = ET.SubElement(items_tag, 'name', {'type': 'string'})
+    name_tag.text = 'Items'
+    rec_tag = ET.SubElement(items_tag, 'recordtype', {'type': 'string'})
+    rec_tag.text = 'item'
+    src_tag = ET.SubElement(items_tag, 'source', {'type': 'string'})
+    src_tag.text = 'item'
+    col_tag = ET.SubElement(items_tag, 'columns')
+    col1 = ET.SubElement(col_tag, 'column1')
+    name_tag = ET.SubElement(col1, 'name', {'type': 'string'})
+    name_tag.text = 'name'
+    head_tag = ET.SubElement(col1, 'heading', {'type': 'string'})
+    head_tag.text = 'Name'
+    width_tag = ET.SubElement(col1, 'width', {'type': 'number'})
+    width_tag.text = '400'
+    grp_tag = ET.SubElement(items_tag, 'groups')
+    grp1 = ET.SubElement(grp_tag, 'group1')
+    field = ET.SubElement(grp1, 'field', {'type': 'string'})
+    field.text = 'cost'
+    return db_lists
 
 
 def generate_library(mod_defs: dict) -> ET.Element:
     name_str = ''.join([token.lower() for token in mod_defs['name'].split()
                         if token.isalnum()])
-    def_lib = ET.Element('library', {'static': 'true'})
-    lib_tag = ET.SubElement(def_lib, name_str)
+    db_lib = ET.Element('library', {'static': 'true'})
+    lib_tag = ET.SubElement(db_lib, name_str)
     name_tag = ET.SubElement(lib_tag, 'name', {'type': 'string'})
     name_tag.text = mod_defs['name']
     cat_tag = ET.SubElement(lib_tag, 'categoryname', {'type': 'string'})
@@ -443,7 +467,16 @@ def generate_library(mod_defs: dict) -> ET.Element:
     record_tag.text = 'docs'
     docs_name = ET.SubElement(docs_tag, 'name', {'type': 'string'})
     docs_name.text = 'Documentation'
-    return def_lib
+    items_tag = ET.SubElement(entry_tag, 'itemlist')
+    link_tag = ET.SubElement(items_tag, 'librarylink',
+                             {'type': 'windowreference'})
+    class_tag = ET.SubElement(link_tag, 'class')
+    class_tag.text = 'reference_groupedlist'
+    record_tag = ET.SubElement(link_tag, 'recordname')
+    record_tag.text = 'lists.items_bycost'
+    items_name = ET.SubElement(items_tag, 'name', {'type': 'string'})
+    items_name.text = 'Items'
+    return db_lib
 
 
 def xml_prettify(xml_root: ET.ElementTree) -> str:
@@ -494,8 +527,14 @@ if __name__ == "__main__":
     db_root = ET.Element('root', {'version': mod_defs['version'],
                                   'release': mod_defs['release']})
     # generate the docs
-    mod_docs = generate_docs(mod_defs)
-    db_root.append(mod_docs)
+    db_docs = generate_docs(mod_defs)
+    db_root.append(db_docs)
+    # generate the library entry
+    db_lib = generate_library(mod_defs)
+    db_root.append(db_lib)
+    # generate the lists entry
+    db_lists = generate_lists(mod_defs)
+    db_root.append(db_lists)
     # generate the items
     items = generate_items(defs['items'])
     print(f'Generated {len(items)} items!')
@@ -507,9 +546,6 @@ if __name__ == "__main__":
         item.ident = id_num
         item_element.append(item.gen_xml())
         id_num = id_num + 1
-    # generate the library entry
-    mod_lib = generate_library(mod_defs)
-    db_root.append(mod_lib)
     # prettify our database XML tree
     db_xml_out = xml_prettify(db_root)
     # create a directory for our module if it does not exist

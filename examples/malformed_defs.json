@@ -257,7 +257,7 @@
 					"size" : [ "T", "S", "M", "L", "V", "H" ],
 					"quality" : [ "G" ]
 				},
-				"colors" : [
+				"varieties" : [
 					{
 						"name" : "blue",
 						"desc" : "vivid blue in color, with lighter and darker blue striations throughout"

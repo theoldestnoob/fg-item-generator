@@ -459,7 +459,7 @@
 				"subtype" : "Gemstones",
 				"base_cost" : 10,
 				"cost_units" : "gp",
-				"colors" : [
+				"varieties" : [
 					{ "name" : "Blue" },
 					{ "name" : "Clear", "base_cost" : 50 },
 					{ "name" : "Rose", "base_cost" : 75 }
@@ -467,7 +467,7 @@
 				"modifiers" : {
 					"size": [ "T", "S", "M", "L", "V", "H" ]
 				},
-				"name" : "|base_name| |colors#name|, |size#name|",
+				"name" : "|base_name| |varieties#name|, |size#name|",
 				"description" : "|size#desc| cut and polished |base_name| gemstone",
 				"locked" : 1,
 				"identified" : 1
@@ -478,7 +478,7 @@
 				"subtype" : "Gemstones",
 				"base_cost" : 10,
 				"cost_units" : "gp",
-				"colors" : [
+				"varieties" : [
 					{ "name" : "Freshwater" },
 					{ "name" : "Golden", "base_cost" : 75 },
 					{ "name" : "White", "base_cost" : 100 },
@@ -489,7 +489,7 @@
 				"modifiers" : {
 					"size": [ "T", "S", "M", "L", "V", "H" ]
 				},
-				"name" : "|base_name| |colors#name|, |size#name|",
+				"name" : "|base_name| |varieties#name|, |size#name|",
 				"description" : "|size#desc| cut and polished |base_name| gemstone",
 				"locked" : 1,
 				"identified" : 1
@@ -500,7 +500,7 @@
 				"subtype" : "Gemstones",
 				"base_cost" : 100,
 				"cost_units" : "gp",
-				"colors" : [
+				"varieties" : [
 					{ "name" : "Green" },
 					{ "name" : "Red", "base_cost" : 150 },
 					{ "name" : "Violet", "base_cost" : 500 }
@@ -508,7 +508,7 @@
 				"modifiers" : {
 					"size": [ "T", "S", "M", "L", "V", "H" ]
 				},
-				"name" : "|base_name| |colors#name|, |size#name|",
+				"name" : "|base_name| |varieties#name|, |size#name|",
 				"description" : "|size#desc| cut and polished |base_name| gemstone",
 				"locked" : 1,
 				"identified" : 1
@@ -519,14 +519,14 @@
 				"subtype" : "Gemstones",
 				"base_cost" : 100,
 				"cost_units" : "gp",
-				"colors" : [
+				"varieties" : [
 					{ "name" : "Red" },
 					{ "name" : "Blue", "base_cost" : 500 }
 				],
 				"modifiers" : {
 					"size": [ "T", "S", "M", "L", "V", "H" ]
 				},
-				"name" : "|base_name| |colors#name|, |size#name|",
+				"name" : "|base_name| |varieties#name|, |size#name|",
 				"description" : "|size#desc| cut and polished |base_name| gemstone",
 				"locked" : 1,
 				"identified" : 1
@@ -537,7 +537,7 @@
 				"subtype" : "Gemstones",
 				"base_cost" : 800,
 				"cost_units" : "gp",
-				"colors" : [
+				"varieties" : [
 					{ "name" : "Firey Yellow" },
 					{ "name" : "Rich Purple", "base_cost" : 1000 }
 				],
@@ -555,7 +555,7 @@
 				"subtype" : "Gemstones",
 				"base_cost" : 800,
 				"cost_units" : "gp",
-				"colors" : [
+				"varieties" : [
 					{ "name" : "Black" },
 					{ "name" : "Blue", "base_cost" : 1000 }
 				],
@@ -573,7 +573,7 @@
 				"subtype" : "Gemstones",
 				"base_cost" : 900,
 				"cost_units" : "gp",
-				"colors" : [
+				"varieties" : [
 					{ "name" : "Black" },
 					{ "name" : "White", "base_cost" : 1000 }
 				],
@@ -591,7 +591,7 @@
 				"subtype" : "Gemstones",
 				"base_cost" : 2500,
 				"cost_units" : "gp",
-				"colors" : [
+				"varieties" : [
 					{ "name" : "Brown" },
 					{ "name" : "Yellow", "base_cost" : 3000 },
 					{ "name" : "Pink", "base_cost" : 4000 },

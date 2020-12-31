@@ -54,7 +54,7 @@
 				"modifiers" : {
 					"size": [ "T", "S", "M", "L", "V", "H" ]
 				},
-				"colors" : [
+				"varieties" : [
 					{ "name" : "Agate", "base_cost" : 10 },
 					{ "name" : "Azurite", "base_cost" : 10 },
 					{ "name" : "Quartz Blue", "base_cost" : 10 },
@@ -110,8 +110,8 @@
 					{ "name" : "Jacinth", "base_cost" : 5000 },
 					{ "name" : "Diamond White", "base_cost" : 6000 }
 				],
-				"name" : "|colors#name|, |size#name|",
-				"description" : "|size#desc| cut and polished |colors#name| gemstone",
+				"name" : "|varieties#name|, |size#name|",
+				"description" : "|size#desc| cut and polished |varieties#name| gemstone",
 				"locked" : 1,
 				"identified" : 1
 			}

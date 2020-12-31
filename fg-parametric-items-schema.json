@@ -48,7 +48,7 @@
                     "type" : "object",
                     "additionalProperties" : { "type" : "array" }
                 },
-                "colors" : { 
+                "varieties" : { 
                     "type" : "array",
                     "items" : {
                         "type" : "object",

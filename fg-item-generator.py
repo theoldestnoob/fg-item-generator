@@ -426,9 +426,22 @@ def generate_docs(mod_defs: dict) -> ET.Element:
 
 def generate_lists(mod_defs: dict) -> ET.Element:
     db_lists = ET.Element('lists', {'static': 'true'})
-    items_tag = ET.SubElement(db_lists, 'items_bycost')
+    # list of all items
+    items_tag = ET.SubElement(db_lists, 'items')
     name_tag = ET.SubElement(items_tag, 'name', {'type': 'string'})
     name_tag.text = 'Items'
+    rec_tag = ET.SubElement(items_tag, 'recordtype', {'type': 'string'})
+    rec_tag.text = 'item'
+    src_tag = ET.SubElement(items_tag, 'source', {'type': 'string'})
+    src_tag.text = 'item'
+    col_tag = ET.SubElement(items_tag, 'columns')
+    col1 = ET.SubElement(col_tag, 'column1')
+    name_tag = ET.SubElement(col1, 'name', {'type': 'string'})
+    name_tag.text = 'name'
+    # list of all items grouped by cost
+    items_tag = ET.SubElement(db_lists, 'items_bycost')
+    name_tag = ET.SubElement(items_tag, 'name', {'type': 'string'})
+    name_tag.text = 'Items By Cost'
     rec_tag = ET.SubElement(items_tag, 'recordtype', {'type': 'string'})
     rec_tag.text = 'item'
     src_tag = ET.SubElement(items_tag, 'source', {'type': 'string'})
@@ -458,6 +471,7 @@ def generate_library(mod_defs: dict) -> ET.Element:
     cat_tag = ET.SubElement(lib_tag, 'categoryname', {'type': 'string'})
     cat_tag.text = mod_defs['category']
     entry_tag = ET.SubElement(lib_tag, 'entries')
+    # Documentation
     docs_tag = ET.SubElement(entry_tag, 'docs')
     link_tag = ET.SubElement(docs_tag, 'librarylink',
                              {'type': 'windowreference'})
@@ -467,7 +481,18 @@ def generate_library(mod_defs: dict) -> ET.Element:
     record_tag.text = 'docs'
     docs_name = ET.SubElement(docs_tag, 'name', {'type': 'string'})
     docs_name.text = 'Documentation'
+    # Items
     items_tag = ET.SubElement(entry_tag, 'itemlist')
+    link_tag = ET.SubElement(items_tag, 'librarylink',
+                             {'type': 'windowreference'})
+    class_tag = ET.SubElement(link_tag, 'class')
+    class_tag.text = 'reference_list'
+    record_tag = ET.SubElement(link_tag, 'recordname')
+    record_tag.text = 'lists.items'
+    items_name = ET.SubElement(items_tag, 'name', {'type': 'string'})
+    items_name.text = 'Items'
+    # Items By Cost
+    items_tag = ET.SubElement(entry_tag, 'itemcostlist')
     link_tag = ET.SubElement(items_tag, 'librarylink',
                              {'type': 'windowreference'})
     class_tag = ET.SubElement(link_tag, 'class')
@@ -475,7 +500,7 @@ def generate_library(mod_defs: dict) -> ET.Element:
     record_tag = ET.SubElement(link_tag, 'recordname')
     record_tag.text = 'lists.items_bycost'
     items_name = ET.SubElement(items_tag, 'name', {'type': 'string'})
-    items_name.text = 'Items'
+    items_name.text = 'Items By Cost'
     return db_lib
 
 

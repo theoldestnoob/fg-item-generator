@@ -227,7 +227,7 @@ def generate_items(definitions: dict) -> list:
             for mod in mod_combo:
                 if (mod['mod_type'] == 'varieties'
                         and 'cost_units' in mod.keys()):
-                    cost = mod['cost_units']
+                    cost_units = mod['cost_units']
             # modify cost as directed by varieties and modifiers
             if cost is not None:
                 for mod in mod_combo:
@@ -235,14 +235,14 @@ def generate_items(definitions: dict) -> list:
                         mod_cost_in = mod["mod_cost"]
                         mod_cost_str = str(mod_cost_in)
                         if (mod_cost_str[0] in 'x+-'
-                                and mod_cost_str[1:].isdecimal()):
+                                and mod_cost_str[1:].replace('.', '1').isdecimal()):
                             if mod_cost_str[0] == 'x':
                                 cost = cost * float(mod_cost_str[1:])
                             elif mod_cost_str[0] == '+':
                                 cost = cost + float(mod_cost_str[1:])
                             elif mod_cost_str[0] == '-':
                                 cost = cost - float(mod_cost_str[1:])
-                        elif str(mod_cost_str).replace('.', '1').isdecimal():
+                        elif mod_cost_str.replace('.', '1').isdecimal():
                             cost = cost * mod_cost_in
                         else:
                             msg = (
@@ -298,7 +298,7 @@ def generate_items(definitions: dict) -> list:
                         mod_wt_in = mod["mod_weight"]
                         mod_wt_str = str(mod_wt_in)
                         if (mod_wt_str[0] in 'x+-'
-                                and mod_wt_str[1:].isdecimal()):
+                                and mod_wt_str[1:].replace('.', '1').isdecimal()):
                             if mod_wt_str[0] == 'x':
                                 weight = weight * float(mod_wt_str[1:])
                             elif mod_wt_str[0] == '+':
@@ -372,7 +372,7 @@ def generate_items(definitions: dict) -> list:
             for mod in mod_combo:
                 if (mod['mod_type'] == 'varieties'
                         and 'identified' in mod.keys()):
-                    item_type = mod['identified']
+                    identified = mod['identified']
             # create the item as an FGItem and add it to our list of items
             all_items.append(FGItem(0, name, desc, nonid_name, nonid_desc,
                              cost_str, weight, item_type, subtype,

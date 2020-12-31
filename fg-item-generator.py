@@ -134,6 +134,8 @@ def parse_mod_def(definitions: dict) -> dict:
     else:
         print('Error! Missing "author" in module definition! Exiting...')
         sys.exit()
+    if 'contributors' in definitions.keys():
+        mod_def['contributors'] = definitions['contributors']
     if 'ruleset' in definitions.keys():
         mod_def['ruleset'] = definitions['ruleset']
     else:
@@ -396,6 +398,54 @@ def parse_string(string: str, base: dict, mods: list) -> str:
     return output_cleaned
 
 
+def generate_docs(mod_defs: dict) -> ET.Element:
+    def_docs = ET.Element('docs')
+    blocks = ET.SubElement(def_docs, 'blocks')
+    block1 = ET.SubElement(blocks, 'block_001')
+    block1type = ET.SubElement(block1, 'blocktype', {'type': 'string'})
+    block1type.text = 'header'
+    block1text = ET.SubElement(block1, 'text', {'type': 'string'})
+    block1text.text = mod_defs['name']
+    block2 = ET.SubElement(blocks, 'block_002')
+    block2frame = ET.SubElement(block2, 'frame', {'type': 'string'})
+    block2frame.text = 'text4'
+    block2text = ET.SubElement(block2, 'text', {'type': 'formattedtext'})
+    block2head = ET.SubElement(block2text, 'h')
+    block2head.text = 'Community Developers'
+    block2par = ET.SubElement(block2text, 'p')
+    block2par.text = f'Author: {mod_defs["author"]}'
+    if 'contributors' in mod_defs.keys():
+        block2par = ET.SubElement(block2text, 'p')
+        block2par.text = 'Contributors:'
+        block2list = ET.SubElement(block2text, 'list')
+        for contrib in mod_defs['contributors']:
+            block2li = ET.SubElement(block2list, 'li')
+            block2li.text = f'{contrib}'
+    return def_docs
+
+
+def generate_library(mod_defs: dict) -> ET.Element:
+    name_str = ''.join([token.lower() for token in mod_defs['name'].split()
+                        if token.isalnum()])
+    def_lib = ET.Element('library', {'static': 'true'})
+    lib_tag = ET.SubElement(def_lib, name_str)
+    name_tag = ET.SubElement(lib_tag, 'name', {'type': 'string'})
+    name_tag.text = mod_defs['name']
+    cat_tag = ET.SubElement(lib_tag, 'categoryname', {'type': 'string'})
+    cat_tag.text = mod_defs['category']
+    entry_tag = ET.SubElement(lib_tag, 'entries')
+    docs_tag = ET.SubElement(entry_tag, 'docs')
+    link_tag = ET.SubElement(docs_tag, 'librarylink',
+                             {'type': 'windowreference'})
+    class_tag = ET.SubElement(link_tag, 'class')
+    class_tag.text = 'referencemanualpage'
+    record_tag = ET.SubElement(link_tag, 'recordname')
+    record_tag.text = 'docs'
+    docs_name = ET.SubElement(docs_tag, 'name', {'type': 'string'})
+    docs_name.text = 'Documentation'
+    return def_lib
+
+
 def xml_prettify(xml_root: ET.ElementTree) -> str:
     # the ElementTree library doesn't use whitespace
     # so we run it through minidom to make it human readable
@@ -440,12 +490,15 @@ if __name__ == "__main__":
     mod_defs = parse_mod_def(defs['module'])
     mod_def_root = generate_mod_def(mod_defs)
     mod_def_out = xml_prettify(mod_def_root)
-    # generate the items
-    items = generate_items(defs['items'])
-    print(f'Generated {len(items)} items!')
     # set up our db.xml root
     db_root = ET.Element('root', {'version': mod_defs['version'],
                                   'release': mod_defs['release']})
+    # generate the docs
+    mod_docs = generate_docs(mod_defs)
+    db_root.append(mod_docs)
+    # generate the items
+    items = generate_items(defs['items'])
+    print(f'Generated {len(items)} items!')
     # set up our item element and tree
     item_element = ET.Element('item')
     db_root.append(item_element)
@@ -454,6 +507,9 @@ if __name__ == "__main__":
         item.ident = id_num
         item_element.append(item.gen_xml())
         id_num = id_num + 1
+    # generate the library entry
+    mod_lib = generate_library(mod_defs)
+    db_root.append(mod_lib)
     # prettify our database XML tree
     db_xml_out = xml_prettify(db_root)
     # create a directory for our module if it does not exist

@@ -1,0 +1,353 @@
+{
+	"$schema": "../fg-parametric-items-schema.json",
+	"module" : {
+		"name" : "Complex Gemstones",
+		"author" : "theoldestnoob"
+	},
+	"items" : {
+		"modifiers" : {
+			"size" : [
+				{
+					"key" : "T",
+					"name" : "tiny",
+					"desc" : "1/8 inch diameter",
+					"mod_cost" : 0.5,
+					"mod_weight" : 0.5
+				},
+				{
+					"key" : "S",
+					"name" : "small",
+					"desc" : "1/4 inch diameter",
+					"mod_cost" : 1,
+					"mod_weight" : 1
+				},
+				{
+					"key" : "M",
+					"name" : "medium",
+					"desc" : "1/2 inch diameter",
+					"mod_cost" : 5,
+					"mod_weight" : 2.5
+				},
+				{
+					"key" : "L",
+					"name" : "large",
+					"desc" : "1 inch diameter",
+					"mod_cost" : 20,
+					"mod_weight" : 5
+				},
+				{
+					"key" : "V",
+					"name" : "very large",
+					"desc" : "2 inch diameter",
+					"mod_cost" : 100,
+					"mod_weight" : 25
+				},
+				{
+					"key" : "H",
+					"name" : "huge",
+					"desc" : "4 inch diameter",
+					"mod_cost" : 1000,
+					"mod_weight" : 50
+				}
+			],
+			"quality" : [
+				{
+					"key" : "F",
+					"name" : "flawed",
+					"desc" : "visibly flawed",
+					"mod_cost" : 0.5
+				},
+				{
+					"key" : "G",
+					"name" : "good",
+					"desc" : "",
+					"mod_cost" : 1
+				},
+				{
+					"key" : "P",
+					"name" : "flawless",
+					"desc" : "",
+					"mod_cost" : 5
+				}
+			],
+			"cut" : [
+				{
+					"key" : "U",
+					"name" : "uncut",
+					"desc" : "uncut",
+					"mod_cost" : 0.1,
+					"mod_weight" : 2
+				},
+				{
+					"key" : "N",
+					"name" : "natural",
+					"desc" : "naturally shaped and polished",
+					"mod_cost" : 0.5
+				},
+				{
+					"key" : "S",
+					"name" : "sphere",
+					"desc" : "cut into a sphere",
+					"mod_cost" : 2
+				},
+				{
+					"key" : "CR",
+					"name" : "round cabochon",
+					"desc" : "round cabochon cut",
+					"mod_cost" : 1
+				},
+				{
+					"key" : "CO",
+					"name" : "oval cabochon",
+					"desc" : "oval cabochon cut",
+					"mod_cost" : 1
+				},
+				{
+					"key" : "CT",
+					"name" : "teardrop cabochon",
+					"desc" : "teardrop cabochon cut",
+					"mod_cost" : 1
+				},
+				{
+					"key" : "SC",
+					"name" : "square cushion",
+					"desc" : "square cushion cut",
+					"mod_cost" : 1
+				},
+				{
+					"key" : "RC",
+					"name" : "rectangle cushion",
+					"desc" : "rectangular cushion cut",
+					"mod_cost" : 1
+				},
+				{
+					"key" : "SR",
+					"name" : "square radiant",
+					"desc" : "square radiant cut",
+					"mod_cost" : 2
+				},
+				{
+					"key" : "RR",
+					"name" : "rectangle radiant",
+					"desc" : "rectangular radiant cut",
+					"mod_cost" : 2
+				},
+				{
+					"key" : "P",
+					"name" : "princess",
+					"desc" : "princess cut",
+					"mod_cost" : 2
+				},
+				{
+					"key" : "A",
+					"name" : "asscher",
+					"desc" : "asscher cut",
+					"mod_cost" : 1
+				},
+				{
+					"key" : "RS",
+					"name" : "round single",
+					"desc" : "round single cut",
+					"mod_cost" : 1
+				},
+				{
+					"key" : "RB",
+					"name" : "round brilliant",
+					"desc" : "round brilliant cut",
+					"mod_cost" : 2
+				},
+				{
+					"key" : "OS",
+					"name" : "oval single",
+					"desc" : "oval single cut",
+					"mod_cost" : 1
+				},
+				{
+					"key" : "OB",
+					"name" : "oval brilliant",
+					"desc" : "oval brilliant cut",
+					"mod_cost" : 2
+				},
+				{
+					"key" : "M",
+					"name" : "marquise",
+					"desc" : "marquise cut",
+					"mod_cost" : 3
+				},
+				{
+					"key" : "P",
+					"name" : "pear",
+					"desc" : "pear cut",
+					"mod_cost" : 3
+				},
+				{
+					"key" : "T",
+					"name" : "trilliant",
+					"desc" : "trilliant cut",
+					"mod_cost" : 3
+				}
+			],
+			"optical_phenomena" : [
+				{
+					"key" : "X",
+					"name" : "regular",
+					"desc" : "",
+					"mod_cost" : 1
+				},
+				{
+					"key" : "AD",
+					"name" : "adularescence",
+					"desc": "The gem appears to glow from within when held in the light.",
+					"mod_cost" : 2
+				},
+				{
+					"key" : "AV",
+					"name" : "aventurescence",
+					"desc": "The gem appears to sparkle when held in the light.",
+					"mod_cost" : 2
+				},
+				{
+					"key" : "CE",
+					"name" : "cat's eye",
+					"desc": "A band of light stretches across the gem's face.",
+					"mod_cost" : 2
+				},
+				{
+					"key" : "C",
+					"name" : "chatoyancy",
+					"desc": "The gem's surface is glossy, and its color shifts subtly darker and lighter as you move it.",
+					"mod_cost" : 2
+				},
+				{
+					"key" : "I",
+					"name" : "iridescence",
+					"desc": "A rainbow of light plays across the gem's surface as you move it.",
+					"mod_cost" : 2
+				},
+				{
+					"key" : "P",
+					"name" : "pleochroism",
+					"desc": "The gem appears to change colors as you move it.",
+					"mod_cost" : 2
+				},
+				{
+					"key" : "CC",
+					"name" : "color change",
+					"desc": "The gem appears to be different colors when viewed in sunlight and firelight.",
+					"mod_cost" : 2
+				}
+			]
+		},
+		"bases" : [
+			{
+				"base_name" : "Agate",
+				"item_type" : "Treasure",
+				"subtype" : "Gemstones",
+				"base_cost" : 10,
+				"cost_units" : "gp",
+				"base_weight": 0.02,
+				"modifiers" : {
+					"size": [ "S", "M", "L", "V", "H" ],
+					"quality": [ "F", "G" ],
+					"cut" : [ "U", "S", "CR" ],
+					"optical_phenomena" : [ "X", "AD" ]
+				},
+				"transparency" : "opaque",
+				"colors" : [
+					{
+						"name" : "red banded",
+						"desc" : "streaked with bands of red, orange, brown, and white"
+					},
+					{
+						"name" : "grey banded",
+						"desc" : "streaked with bands of grey and white"
+					},
+					{
+						"name" : "blue banded",
+						"desc" : "streaked with bands of blue, grey, and white"
+					},
+					{
+						"name" : "orange eye",
+						"desc" : "orange in color, with white circles scattered across its surface"
+					},
+					{
+						"name" : "pink eye",
+						"desc" : "white in color, with pink circles scattered across its surface"
+					},
+					{
+						"name" : "tree",
+						"desc" : "white in color, with green branch-like patterns across its surface"
+					}
+				],
+				"nonid_name" : "Gem, |size#name| |cut#name|",
+				"nonid_description" : "This |quality#desc| |size#desc| gem is |cut#desc|. It is |transparency| and |colors#desc|. |optical_phenomena#desc|",
+				"name" : "|base_name|, |colors#name|, |cut#name|, |size#name|, |quality#name|, |optical_phenomena#name|",
+				"description" : "",
+				"locked" : 1,
+				"identified" : 0
+			},
+			{
+				"base_name" : "Agate",
+				"item_type" : "Treasure",
+				"subtype" : "Gemstones",
+				"base_cost" : 10,
+				"cost_units" : "gp",
+				"base_weight": 0.02,
+				"modifiers" : {
+					"size": [ "S", "M", "L", "V", "H" ],
+					"quality": [ "F", "G" ],
+					"cut" : [ "U", "S", "CR" ],
+					"optical_phenomena" : [ "X", "AD" ]
+				},
+				"transparency" : "translucent",
+				"colors" : [
+					{
+						"name" : "moss",
+						"desc" : "white in color, with green embedded throughout in moss-like patterns"
+					}
+				],
+				"nonid_name" : "Gem, |size#name| |cut#name|",
+				"nonid_description" : "This |quality#desc| |size#desc| gem is |cut#desc|. It is |transparency| and |colors#desc|. |optical_phenomena#desc|",
+				"name" : "|base_name|, |colors#name|, |cut#name|, |size#name|, |quality#name|, |optical_phenomena#name|",
+				"description" : "",
+				"locked" : 1,
+				"identified" : 0
+			},
+			{
+				"base_name" : "Azurite",
+				"item_type" : "Treasure",
+				"subtype" : "Gemstones",
+				"base_cost" : 5,
+				"cost_ceiling" : 1000,
+				"cost_floor" : 1,
+				"cost_whole_num" : false,
+				"cost_units" : "gp",
+				"weight_whole_num" : false,
+				"modifiers" : {
+					"size": [ "S", "M", "L", "V" ],
+					"quality": [ "F", "G" ],
+					"cut" : [ "U", "N", "S", "CR" ],
+					"optical_phenomena" : [ "X" ]
+				},
+				"transparency" : "opaque",
+				"colors" : [
+					{
+						"name" : "blue",
+						"desc" : "vivid blue in color, with lighter and darker blue striations throughout"
+					},
+					{
+						"name" : "azurmalachite",
+						"desc" : "deep blue in color, shot through with splotches of bright green",
+						"base_cost" : 15
+					}
+				],
+				"nonid_name" : "Gem, |size#name| |cut#name|",
+				"nonid_description" : "This |quality#desc| |size#desc| gem is |cut#desc|. It is |transparency| and |colors#desc|. |optical_phenomena#desc|",
+				"name" : "|base_name|, |colors#name|, |cut#name|, |size#name|, |quality#name|, |optical_phenomena#name|",
+				"description" : "",
+				"locked" : 1,
+				"identified" : 0
+			}
+		]
+	}
+}

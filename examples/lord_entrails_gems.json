@@ -1,0 +1,611 @@
+{
+	"$schema": "../fg-parametric-items-schema.json",
+	"module" : {
+		"name" : "Lord Entrails' Gems Module Copy",
+		"author" : "Lord Entrails",
+		"contributors" : [ "Talyn", "theoldestnoob" ]
+	},
+	"items" : {
+		"modifiers" : {
+			"size" : [
+				{
+					"key" : "T",
+					"name" : "Tiny",
+					"desc" : "1/8\" diameter",
+					"mod_cost" : 0.5
+				},
+				{
+					"key" : "S",
+					"name" : "Small",
+					"desc" : "1/4\" diameter",
+					"mod_cost" : 1
+				},
+				{
+					"key" : "M",
+					"name" : "Medium",
+					"desc" : "1/2\" diameter",
+					"mod_cost" : 5
+				},
+				{
+					"key" : "L",
+					"name" : "Large",
+					"desc" : "1\" diameter",
+					"mod_cost" : 20
+				},
+				{
+					"key" : "V",
+					"name" : "Very Large",
+					"desc" : "2\" diameter",
+					"mod_cost" : 100
+				},
+				{
+					"key" : "H",
+					"name" : "Huge",
+					"desc" : "4\" diameter",
+					"mod_cost" : 1000
+				}
+			]
+		},
+		"bases" : [
+			{
+				"base_name" : "Agate",
+				"item_type" : "Treasure",
+				"subtype" : "Gemstones",
+				"base_cost" : 10,
+				"cost_units" : "gp",
+				"modifiers" : {
+					"size": [ "T", "S", "M", "L", "V", "H" ]
+				},
+				"name" : "|base_name|, |size#name|",
+				"description" : "|size#desc| cut and polished |base_name| gemstone",
+				"locked" : 1,
+				"identified" : 1
+			},
+			{
+				"base_name" : "Azurite",
+				"item_type" : "Treasure",
+				"subtype" : "Gemstones",
+				"base_cost" : 10,
+				"cost_units" : "gp",
+				"modifiers" : {
+					"size": [ "T", "S", "M", "L", "V", "H" ]
+				},
+				"name" : "|base_name|, |size#name|",
+				"description" : "|size#desc| cut and polished |base_name| gemstone",
+				"locked" : 1,
+				"identified" : 1
+			},
+			{
+				"base_name" : "Hematite",
+				"item_type" : "Treasure",
+				"subtype" : "Gemstones",
+				"base_cost" : 10,
+				"cost_units" : "gp",
+				"modifiers" : {
+					"size": [ "T", "S", "M", "L", "V", "H" ]
+				},
+				"name" : "|base_name|, |size#name|",
+				"description" : "|size#desc| cut and polished |base_name| gemstone",
+				"locked" : 1,
+				"identified" : 1
+			},
+			{
+				"base_name" : "Lapis Lazuli",
+				"item_type" : "Treasure",
+				"subtype" : "Gemstones",
+				"base_cost" : 10,
+				"cost_units" : "gp",
+				"modifiers" : {
+					"size": [ "T", "S", "M", "L", "V", "H" ]
+				},
+				"name" : "|base_name|, |size#name|",
+				"description" : "|size#desc| cut and polished |base_name| gemstone",
+				"locked" : 1,
+				"identified" : 1
+			},
+			{
+				"base_name" : "Malachite",
+				"item_type" : "Treasure",
+				"subtype" : "Gemstones",
+				"base_cost" : 10,
+				"cost_units" : "gp",
+				"modifiers" : {
+					"size": [ "T", "S", "M", "L", "V", "H" ]
+				},
+				"name" : "|base_name|, |size#name|",
+				"description" : "|size#desc| cut and polished |base_name| gemstone",
+				"locked" : 1,
+				"identified" : 1
+			},
+			{
+				"base_name" : "Obsidian",
+				"item_type" : "Treasure",
+				"subtype" : "Gemstones",
+				"base_cost" : 10,
+				"cost_units" : "gp",
+				"modifiers" : {
+					"size": [ "T", "S", "M", "L", "V", "H" ]
+				},
+				"name" : "|base_name|, |size#name|",
+				"description" : "|size#desc| cut and polished |base_name| gemstone",
+				"locked" : 1,
+				"identified" : 1
+			},
+			{
+				"base_name" : "Tiger Eye",
+				"item_type" : "Treasure",
+				"subtype" : "Gemstones",
+				"base_cost" : 10,
+				"cost_units" : "gp",
+				"modifiers" : {
+					"size": [ "T", "S", "M", "L", "V", "H" ]
+				},
+				"name" : "|base_name|, |size#name|",
+				"description" : "|size#desc| cut and polished |base_name| gemstone",
+				"locked" : 1,
+				"identified" : 1
+			},
+			{
+				"base_name" : "Turquoise",
+				"item_type" : "Treasure",
+				"subtype" : "Gemstones",
+				"base_cost" : 10,
+				"cost_units" : "gp",
+				"modifiers" : {
+					"size": [ "T", "S", "M", "L", "V", "H" ]
+				},
+				"name" : "|base_name|, |size#name|",
+				"description" : "|size#desc| cut and polished |base_name| gemstone",
+				"locked" : 1,
+				"identified" : 1
+			},
+			{
+				"base_name" : "Bloodstone",
+				"item_type" : "Treasure",
+				"subtype" : "Gemstones",
+				"base_cost" : 50,
+				"cost_units" : "gp",
+				"modifiers" : {
+					"size": [ "T", "S", "M", "L", "V", "H" ]
+				},
+				"name" : "|base_name|, |size#name|",
+				"description" : "|size#desc| cut and polished |base_name| gemstone",
+				"locked" : 1,
+				"identified" : 1
+			},
+			{
+				"base_name" : "Carnelian",
+				"item_type" : "Treasure",
+				"subtype" : "Gemstones",
+				"base_cost" : 50,
+				"cost_units" : "gp",
+				"modifiers" : {
+					"size": [ "T", "S", "M", "L", "V", "H" ]
+				},
+				"name" : "|base_name|, |size#name|",
+				"description" : "|size#desc| cut and polished |base_name| gemstone",
+				"locked" : 1,
+				"identified" : 1
+			},
+			{
+				"base_name" : "Citrine",
+				"item_type" : "Treasure",
+				"subtype" : "Gemstones",
+				"base_cost" : 50,
+				"cost_units" : "gp",
+				"modifiers" : {
+					"size": [ "T", "S", "M", "L", "V", "H" ]
+				},
+				"name" : "|base_name|, |size#name|",
+				"description" : "|size#desc| cut and polished |base_name| gemstone",
+				"locked" : 1,
+				"identified" : 1
+			},
+			{
+				"base_name" : "Iolite",
+				"item_type" : "Treasure",
+				"subtype" : "Gemstones",
+				"base_cost" : 50,
+				"cost_units" : "gp",
+				"modifiers" : {
+					"size": [ "T", "S", "M", "L", "V", "H" ]
+				},
+				"name" : "|base_name|, |size#name|",
+				"description" : "|size#desc| cut and polished |base_name| gemstone",
+				"locked" : 1,
+				"identified" : 1
+			},
+			{
+				"base_name" : "Jasper",
+				"item_type" : "Treasure",
+				"subtype" : "Gemstones",
+				"base_cost" : 50,
+				"cost_units" : "gp",
+				"modifiers" : {
+					"size": [ "T", "S", "M", "L", "V", "H" ]
+				},
+				"name" : "|base_name|, |size#name|",
+				"description" : "|size#desc| cut and polished |base_name| gemstone",
+				"locked" : 1,
+				"identified" : 1
+			},
+			{
+				"base_name" : "Moonstone",
+				"item_type" : "Treasure",
+				"subtype" : "Gemstones",
+				"base_cost" : 50,
+				"cost_units" : "gp",
+				"modifiers" : {
+					"size": [ "T", "S", "M", "L", "V", "H" ]
+				},
+				"name" : "|base_name|, |size#name|",
+				"description" : "|size#desc| cut and polished |base_name| gemstone",
+				"locked" : 1,
+				"identified" : 1
+			},
+			{
+				"base_name" : "Onyx",
+				"item_type" : "Treasure",
+				"subtype" : "Gemstones",
+				"base_cost" : 50,
+				"cost_units" : "gp",
+				"modifiers" : {
+					"size": [ "T", "S", "M", "L", "V", "H" ]
+				},
+				"name" : "|base_name|, |size#name|",
+				"description" : "|size#desc| cut and polished |base_name| gemstone",
+				"locked" : 1,
+				"identified" : 1
+			},
+			{
+				"base_name" : "Peridot",
+				"item_type" : "Treasure",
+				"subtype" : "Gemstones",
+				"base_cost" : 50,
+				"cost_units" : "gp",
+				"modifiers" : {
+					"size": [ "T", "S", "M", "L", "V", "H" ]
+				},
+				"name" : "|base_name|, |size#name|",
+				"description" : "|size#desc| cut and polished |base_name| gemstone",
+				"locked" : 1,
+				"identified" : 1
+			},
+			{
+				"base_name" : "Zircon",
+				"item_type" : "Treasure",
+				"subtype" : "Gemstones",
+				"base_cost" : 50,
+				"cost_units" : "gp",
+				"modifiers" : {
+					"size": [ "T", "S", "M", "L", "V", "H" ]
+				},
+				"name" : "|base_name|, |size#name|",
+				"description" : "|size#desc| cut and polished |base_name| gemstone",
+				"locked" : 1,
+				"identified" : 1
+			},
+			{
+				"base_name" : "Amber",
+				"item_type" : "Treasure",
+				"subtype" : "Gemstones",
+				"base_cost" : 100,
+				"cost_units" : "gp",
+				"modifiers" : {
+					"size": [ "T", "S", "M", "L", "V", "H" ]
+				},
+				"name" : "|base_name|, |size#name|",
+				"description" : "|size#desc| cut and polished |base_name| gemstone",
+				"locked" : 1,
+				"identified" : 1
+			},
+			{
+				"base_name" : "Amethyst",
+				"item_type" : "Treasure",
+				"subtype" : "Gemstones",
+				"base_cost" : 100,
+				"cost_units" : "gp",
+				"modifiers" : {
+					"size": [ "T", "S", "M", "L", "V", "H" ]
+				},
+				"name" : "|base_name|, |size#name|",
+				"description" : "|size#desc| cut and polished |base_name| gemstone",
+				"locked" : 1,
+				"identified" : 1
+			},
+			{
+				"base_name" : "Coral",
+				"item_type" : "Treasure",
+				"subtype" : "Gemstones",
+				"base_cost" : 100,
+				"cost_units" : "gp",
+				"modifiers" : {
+					"size": [ "T", "S", "M", "L", "V", "H" ]
+				},
+				"name" : "|base_name|, |size#name|",
+				"description" : "|size#desc| cut and polished |base_name| gemstone",
+				"locked" : 1,
+				"identified" : 1
+			},
+			{
+				"base_name" : "Jade",
+				"item_type" : "Treasure",
+				"subtype" : "Gemstones",
+				"base_cost" : 100,
+				"cost_units" : "gp",
+				"modifiers" : {
+					"size": [ "T", "S", "M", "L", "V", "H" ]
+				},
+				"name" : "|base_name|, |size#name|",
+				"description" : "|size#desc| cut and polished |base_name| gemstone",
+				"locked" : 1,
+				"identified" : 1
+			},
+			{
+				"base_name" : "Jet",
+				"item_type" : "Treasure",
+				"subtype" : "Gemstones",
+				"base_cost" : 100,
+				"cost_units" : "gp",
+				"modifiers" : {
+					"size": [ "T", "S", "M", "L", "V", "H" ]
+				},
+				"name" : "|base_name|, |size#name|",
+				"description" : "|size#desc| cut and polished |base_name| gemstone",
+				"locked" : 1,
+				"identified" : 1
+			},
+			{
+				"base_name" : "Tourmaline",
+				"item_type" : "Treasure",
+				"subtype" : "Gemstones",
+				"base_cost" : 100,
+				"cost_units" : "gp",
+				"modifiers" : {
+					"size": [ "T", "S", "M", "L", "V", "H" ]
+				},
+				"name" : "|base_name|, |size#name|",
+				"description" : "|size#desc| cut and polished |base_name| gemstone",
+				"locked" : 1,
+				"identified" : 1
+			},
+			{
+				"base_name" : "Alexandrite",
+				"item_type" : "Treasure",
+				"subtype" : "Gemstones",
+				"base_cost" : 500,
+				"cost_units" : "gp",
+				"modifiers" : {
+					"size": [ "T", "S", "M", "L", "V", "H" ]
+				},
+				"name" : "|base_name|, |size#name|",
+				"description" : "|size#desc| cut and polished |base_name| gemstone",
+				"locked" : 1,
+				"identified" : 1
+			},
+			{
+				"base_name" : "Aquamarine",
+				"item_type" : "Treasure",
+				"subtype" : "Gemstones",
+				"base_cost" : 500,
+				"cost_units" : "gp",
+				"modifiers" : {
+					"size": [ "T", "S", "M", "L", "V", "H" ]
+				},
+				"name" : "|base_name|, |size#name|",
+				"description" : "|size#desc| cut and polished |base_name| gemstone",
+				"locked" : 1,
+				"identified" : 1
+			},
+			{
+				"base_name" : "Topaz",
+				"item_type" : "Treasure",
+				"subtype" : "Gemstones",
+				"base_cost" : 500,
+				"cost_units" : "gp",
+				"modifiers" : {
+					"size": [ "T", "S", "M", "L", "V", "H" ]
+				},
+				"name" : "|base_name|, |size#name|",
+				"description" : "|size#desc| cut and polished |base_name| gemstone",
+				"locked" : 1,
+				"identified" : 1
+			},
+			{
+				"base_name" : "Emerald",
+				"item_type" : "Treasure",
+				"subtype" : "Gemstones",
+				"base_cost" : 1000,
+				"cost_units" : "gp",
+				"modifiers" : {
+					"size": [ "T", "S", "M", "L", "V", "H" ]
+				},
+				"name" : "|base_name|, |size#name|",
+				"description" : "|size#desc| cut and polished |base_name| gemstone",
+				"locked" : 1,
+				"identified" : 1
+			},
+			{
+				"base_name" : "Ruby",
+				"item_type" : "Treasure",
+				"subtype" : "Gemstones",
+				"base_cost" : 1000,
+				"cost_units" : "gp",
+				"modifiers" : {
+					"size": [ "T", "S", "M", "L", "V", "H" ]
+				},
+				"name" : "|base_name|, |size#name|",
+				"description" : "|size#desc| cut and polished |base_name| gemstone",
+				"locked" : 1,
+				"identified" : 1
+			},
+			{
+				"base_name" : "Jacinth",
+				"item_type" : "Treasure",
+				"subtype" : "Gemstones",
+				"base_cost" : 5000,
+				"cost_units" : "gp",
+				"modifiers" : {
+					"size": [ "T", "S", "M", "L", "V", "H" ]
+				},
+				"name" : "|base_name|, |size#name|",
+				"description" : "|size#desc| cut and polished |base_name| gemstone",
+				"locked" : 1,
+				"identified" : 1
+			},
+			{
+				"base_name" : "Quartz",
+				"item_type" : "Treasure",
+				"subtype" : "Gemstones",
+				"base_cost" : 10,
+				"cost_units" : "gp",
+				"colors" : [
+					{ "name" : "Blue" },
+					{ "name" : "Clear", "base_cost" : 50 },
+					{ "name" : "Rose", "base_cost" : 75 }
+				],
+				"modifiers" : {
+					"size": [ "T", "S", "M", "L", "V", "H" ]
+				},
+				"name" : "|base_name| |colors#name|, |size#name|",
+				"description" : "|size#desc| cut and polished |base_name| gemstone",
+				"locked" : 1,
+				"identified" : 1
+			},
+			{
+				"base_name" : "Pearl",
+				"item_type" : "Treasure",
+				"subtype" : "Gemstones",
+				"base_cost" : 10,
+				"cost_units" : "gp",
+				"colors" : [
+					{ "name" : "Freshwater" },
+					{ "name" : "Golden", "base_cost" : 75 },
+					{ "name" : "White", "base_cost" : 100 },
+					{ "name" : "Pink", "base_cost" : 150 },
+					{ "name" : "Silver", "base_cost" : 200 },
+					{ "name" : "Black", "base_cost" : 500 }
+				],
+				"modifiers" : {
+					"size": [ "T", "S", "M", "L", "V", "H" ]
+				},
+				"name" : "|base_name| |colors#name|, |size#name|",
+				"description" : "|size#desc| cut and polished |base_name| gemstone",
+				"locked" : 1,
+				"identified" : 1
+			},
+			{
+				"base_name" : "Garnet",
+				"item_type" : "Treasure",
+				"subtype" : "Gemstones",
+				"base_cost" : 100,
+				"cost_units" : "gp",
+				"colors" : [
+					{ "name" : "Green" },
+					{ "name" : "Red", "base_cost" : 150 },
+					{ "name" : "Violet", "base_cost" : 500 }
+				],
+				"modifiers" : {
+					"size": [ "T", "S", "M", "L", "V", "H" ]
+				},
+				"name" : "|base_name| |colors#name|, |size#name|",
+				"description" : "|size#desc| cut and polished |base_name| gemstone",
+				"locked" : 1,
+				"identified" : 1
+			},
+			{
+				"base_name" : "Spinel",
+				"item_type" : "Treasure",
+				"subtype" : "Gemstones",
+				"base_cost" : 100,
+				"cost_units" : "gp",
+				"colors" : [
+					{ "name" : "Red" },
+					{ "name" : "Blue", "base_cost" : 500 }
+				],
+				"modifiers" : {
+					"size": [ "T", "S", "M", "L", "V", "H" ]
+				},
+				"name" : "|base_name| |colors#name|, |size#name|",
+				"description" : "|size#desc| cut and polished |base_name| gemstone",
+				"locked" : 1,
+				"identified" : 1
+			},
+			{
+				"base_name" : "Corundum",
+				"item_type" : "Treasure",
+				"subtype" : "Gemstones",
+				"base_cost" : 800,
+				"cost_units" : "gp",
+				"colors" : [
+					{ "name" : "Firey Yellow" },
+					{ "name" : "Rich Purple", "base_cost" : 1000 }
+				],
+				"modifiers" : {
+					"size": [ "T", "S", "M", "L", "V", "H" ]
+				},
+				"name" : "|base_name|, |size#name|",
+				"description" : "|size#desc| cut and polished |base_name| gemstone",
+				"locked" : 1,
+				"identified" : 1
+			},
+			{
+				"base_name" : "Sapphire",
+				"item_type" : "Treasure",
+				"subtype" : "Gemstones",
+				"base_cost" : 800,
+				"cost_units" : "gp",
+				"colors" : [
+					{ "name" : "Black" },
+					{ "name" : "Blue", "base_cost" : 1000 }
+				],
+				"modifiers" : {
+					"size": [ "T", "S", "M", "L", "V", "H" ]
+				},
+				"name" : "|base_name|, |size#name|",
+				"description" : "|size#desc| cut and polished |base_name| gemstone",
+				"locked" : 1,
+				"identified" : 1
+			},
+			{
+				"base_name" : "Opal",
+				"item_type" : "Treasure",
+				"subtype" : "Gemstones",
+				"base_cost" : 900,
+				"cost_units" : "gp",
+				"colors" : [
+					{ "name" : "Black" },
+					{ "name" : "White", "base_cost" : 1000 }
+				],
+				"modifiers" : {
+					"size": [ "T", "S", "M", "L", "V", "H" ]
+				},
+				"name" : "|base_name|, |size#name|",
+				"description" : "|size#desc| cut and polished |base_name| gemstone",
+				"locked" : 1,
+				"identified" : 1
+			},
+			{
+				"base_name" : "Diamond",
+				"item_type" : "Treasure",
+				"subtype" : "Gemstones",
+				"base_cost" : 2500,
+				"cost_units" : "gp",
+				"colors" : [
+					{ "name" : "Brown" },
+					{ "name" : "Yellow", "base_cost" : 3000 },
+					{ "name" : "Pink", "base_cost" : 4000 },
+					{ "name" : "Blue", "base_cost" : 5000 },
+					{ "name" : "White", "base_cost" : 6000 }
+				],
+				"modifiers" : {
+					"size": [ "T", "S", "M", "L", "V", "H" ]
+				},
+				"name" : "|base_name|, |size#name|",
+				"description" : "|size#desc| cut and polished |base_name| gemstone",
+				"locked" : 1,
+				"identified" : 1
+			}
+		]
+	}
+}

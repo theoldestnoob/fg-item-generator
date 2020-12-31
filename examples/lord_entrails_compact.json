@@ -1,0 +1,120 @@
+{
+	"$schema": "../fg-parametric-items-schema.json",
+	"module" : {
+		"name" : "Lord Entrails' Gems - Compact Defined",
+		"author" : "Lord Entrails",
+		"contributors" : [ "Talyn", "theoldestnoob" ]
+	},
+	"items" : {
+		"modifiers" : {
+			"size" : [
+				{
+					"key" : "T",
+					"name" : "Tiny",
+					"desc" : "1/8\" diameter",
+					"mod_cost" : 0.5
+				},
+				{
+					"key" : "S",
+					"name" : "Small",
+					"desc" : "1/4\" diameter",
+					"mod_cost" : 1
+				},
+				{
+					"key" : "M",
+					"name" : "Medium",
+					"desc" : "1/2\" diameter",
+					"mod_cost" : 5
+				},
+				{
+					"key" : "L",
+					"name" : "Large",
+					"desc" : "1\" diameter",
+					"mod_cost" : 20
+				},
+				{
+					"key" : "V",
+					"name" : "Very Large",
+					"desc" : "2\" diameter",
+					"mod_cost" : 100
+				},
+				{
+					"key" : "H",
+					"name" : "Huge",
+					"desc" : "4\" diameter",
+					"mod_cost" : 1000
+				}
+			]
+		},
+		"bases" : [
+			{
+				"item_type" : "Treasure",
+				"subtype" : "Gem",
+				"cost_units" : "gp",
+				"modifiers" : {
+					"size": [ "T", "S", "M", "L", "V", "H" ]
+				},
+				"colors" : [
+					{ "name" : "Agate", "base_cost" : 10 },
+					{ "name" : "Azurite", "base_cost" : 10 },
+					{ "name" : "Quartz Blue", "base_cost" : 10 },
+					{ "name" : "Hematite", "base_cost" : 10 },
+					{ "name" : "Lapis Lazuli", "base_cost" : 10 },
+					{ "name" : "Malachite", "base_cost" : 10 },
+					{ "name" : "Obsidian", "base_cost" : 10 },
+					{ "name" : "Tiger Eye", "base_cost" : 10 },
+					{ "name" : "Turquoise", "base_cost" : 10 },
+					{ "name" : "Pearl Freshwater", "base_cost" : 10 },
+					{ "name" : "Bloodstone", "base_cost" : 50 },
+					{ "name" : "Carnelian", "base_cost" : 50 },
+					{ "name" : "Citrine", "base_cost" : 50 },
+					{ "name" : "Iolite", "base_cost" : 50 },
+					{ "name" : "Jasper", "base_cost" : 50 },
+					{ "name" : "Moonstone", "base_cost" : 50 },
+					{ "name" : "Onyx", "base_cost" : 50 },
+					{ "name" : "Peridot", "base_cost" : 50 },
+					{ "name" : "Quartz Clear", "base_cost" : 50 },
+					{ "name" : "Zircon", "base_cost" : 50 },
+					{ "name" : "Pearl Golden", "base_cost" : 75 },
+					{ "name" : "Quartz Rose", "base_cost" : 75 },
+					{ "name" : "Amber", "base_cost" : 100 },
+					{ "name" : "Amethyst", "base_cost" : 100 },
+					{ "name" : "Coral", "base_cost" : 100 },
+					{ "name" : "Garnet Green", "base_cost" : 100 },
+					{ "name" : "Jade", "base_cost" : 100 },
+					{ "name" : "Jet", "base_cost" : 100 },
+					{ "name" : "Pearl White", "base_cost" : 100 },
+					{ "name" : "Spinel Red", "base_cost" : 100 },
+					{ "name" : "Tourmaline", "base_cost" : 100 },
+					{ "name" : "Pearl Pink", "base_cost" : 150 },
+					{ "name" : "Garnet Red", "base_cost" : 150 },
+					{ "name" : "Pearl Silver", "base_cost" : 200 },
+					{ "name" : "Alexandrite", "base_cost" : 500 },
+					{ "name" : "Aquamarine", "base_cost" : 500 },
+					{ "name" : "Garnet Violet", "base_cost" : 500 },
+					{ "name" : "Pearl Black", "base_cost" : 500 },
+					{ "name" : "Spinel Blue", "base_cost" : 500 },
+					{ "name" : "Topaz", "base_cost" : 500 },
+					{ "name" : "Corundum Firey Yellow", "base_cost" : 800 },
+					{ "name" : "Sapphire Black", "base_cost" : 800 },
+					{ "name" : "Opal Black", "base_cost" : 900 },
+					{ "name" : "Corundum Rich Purple", "base_cost" : 1000 },
+					{ "name" : "Emerald", "base_cost" : 1000 },
+					{ "name" : "Opal White", "base_cost" : 1000 },
+					{ "name" : "Sapphire Blue", "base_cost" : 1000 },
+					{ "name" : "Ruby", "base_cost" : 1000 },
+					{ "name" : "Diamond Brown", "base_cost" : 2500 },
+					{ "name" : "Diamond Yellow", "base_cost" : 3000 },
+					{ "name" : "Diamond Pink", "base_cost" : 4000 },
+					{ "name" : "Diamond Blue", "base_cost" : 5000 },
+					{ "name" : "Jacinth", "base_cost" : 5000 },
+					{ "name" : "Diamond White", "base_cost" : 6000 }
+				],
+				"name" : "|colors#name|, |size#name|",
+				"description" : "|size#desc| cut and polished |colors#name| gemstone",
+				"locked" : 1,
+				"identified" : 1
+			}
+		]
+	}
+}

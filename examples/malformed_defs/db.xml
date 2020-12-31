@@ -1,0 +1,277 @@
+<?xml version="1.0" ?>
+<root version="3.1" release="7|CoreRPG:3">
+	<docs>
+		<blocks>
+			<block_001>
+				<blocktype type="string">header</blocktype>
+				<text type="string">Test Module - Malformed Item Definitions</text>
+			</block_001>
+			<block_002>
+				<frame type="string">text4</frame>
+				<text type="formattedtext">
+					<h>Community Developers</h>
+					<p>Author: theoldestnoob</p>
+					<p>Contributors:</p>
+					<list>
+						<li>Barney</li>
+						<li>Temeraire</li>
+						<li>Smaug</li>
+						<li>Mushu</li>
+					</list>
+				</text>
+			</block_002>
+		</blocks>
+	</docs>
+	<library static="true">
+		<testmodulemalformeditemdefinitions>
+			<name type="string">Test Module - Malformed Item Definitions</name>
+			<categoryname type="string">Accessories</categoryname>
+			<entries>
+				<docs>
+					<librarylink type="windowreference">
+						<class>referencemanualpage</class>
+						<recordname>docs</recordname>
+					</librarylink>
+					<name type="string">Documentation</name>
+				</docs>
+				<itemlist>
+					<librarylink type="windowreference">
+						<class>reference_list</class>
+						<recordname>lists.items</recordname>
+					</librarylink>
+					<name type="string">Items</name>
+				</itemlist>
+				<itemcostlist>
+					<librarylink type="windowreference">
+						<class>reference_groupedlist</class>
+						<recordname>lists.items_bycost</recordname>
+					</librarylink>
+					<name type="string">Items By Cost</name>
+				</itemcostlist>
+			</entries>
+		</testmodulemalformeditemdefinitions>
+	</library>
+	<lists static="true">
+		<items>
+			<name type="string">Items</name>
+			<recordtype type="string">item</recordtype>
+			<source type="string">item</source>
+			<columns>
+				<column1>
+					<name type="string">name</name>
+				</column1>
+			</columns>
+		</items>
+		<items_bycost>
+			<name type="string">Items By Cost</name>
+			<recordtype type="string">item</recordtype>
+			<source type="string">item</source>
+			<columns>
+				<column1>
+					<name type="string">name</name>
+					<heading type="string">Name</heading>
+					<width type="number">400</width>
+				</column1>
+			</columns>
+			<groups>
+				<group1>
+					<field type="string">cost</field>
+				</group1>
+			</groups>
+		</items_bycost>
+	</lists>
+	<item>
+		<id-00001>
+			<name type="string">Malformed, , tiny, good</name>
+			<description type="formattedtext"/>
+			<flavor type="string"/>
+			<notes type="formattedtext"/>
+			<text type="formattedtext"/>
+			<nonid_name type="string">Gem, tiny</nonid_name>
+			<nonidentified type="string">This 1/8 inch diameter gem is . It is opaque and .</nonidentified>
+			<nonid_notes type="string">This 1/8 inch diameter gem is . It is opaque and .</nonid_notes>
+			<type type="string">Malformed</type>
+			<subtype type="string">Malformed</subtype>
+			<cost type="string">10 gp</cost>
+			<weight type="number">0.5</weight>
+			<isidentified type="number">0</isidentified>
+			<locked type="number">1</locked>
+		</id-00001>
+		<id-00002>
+			<name type="string">Malformed, , small, good</name>
+			<description type="formattedtext"/>
+			<flavor type="string"/>
+			<notes type="formattedtext"/>
+			<text type="formattedtext"/>
+			<nonid_name type="string">Gem, small</nonid_name>
+			<nonidentified type="string">This 1/4 inch diameter gem is . It is opaque and .</nonidentified>
+			<nonid_notes type="string">This 1/4 inch diameter gem is . It is opaque and .</nonid_notes>
+			<type type="string">Malformed</type>
+			<subtype type="string">Malformed</subtype>
+			<cost type="string">10 gp</cost>
+			<weight type="number">1.02</weight>
+			<isidentified type="number">0</isidentified>
+			<locked type="number">1</locked>
+		</id-00002>
+		<id-00003>
+			<name type="string">Malformed, , medium, good</name>
+			<description type="formattedtext"/>
+			<flavor type="string"/>
+			<notes type="formattedtext"/>
+			<text type="formattedtext"/>
+			<nonid_name type="string">Gem, medium</nonid_name>
+			<nonidentified type="string">This 1/2 inch diameter gem is . It is opaque and .</nonidentified>
+			<nonid_notes type="string">This 1/2 inch diameter gem is . It is opaque and .</nonid_notes>
+			<type type="string">Malformed</type>
+			<subtype type="string">Malformed</subtype>
+			<cost type="string">50 gp</cost>
+			<weight type="number">0.5</weight>
+			<isidentified type="number">0</isidentified>
+			<locked type="number">1</locked>
+		</id-00003>
+		<id-00004>
+			<name type="string">Malformed, , large, good</name>
+			<description type="formattedtext"/>
+			<flavor type="string"/>
+			<notes type="formattedtext"/>
+			<text type="formattedtext"/>
+			<nonid_name type="string">Gem, large</nonid_name>
+			<nonidentified type="string">This 1 inch diameter gem is . It is opaque and .</nonidentified>
+			<nonid_notes type="string">This 1 inch diameter gem is . It is opaque and .</nonid_notes>
+			<type type="string">Malformed</type>
+			<subtype type="string">Malformed</subtype>
+			<cost type="string">100 gp</cost>
+			<weight type="number">0.5</weight>
+			<isidentified type="number">0</isidentified>
+			<locked type="number">1</locked>
+		</id-00004>
+		<id-00005>
+			<name type="string">Malformed, , very large, good</name>
+			<description type="formattedtext"/>
+			<flavor type="string"/>
+			<notes type="formattedtext"/>
+			<text type="formattedtext"/>
+			<nonid_name type="string">Gem, very large</nonid_name>
+			<nonidentified type="string">This 2 inch diameter gem is . It is opaque and .</nonidentified>
+			<nonid_notes type="string">This 2 inch diameter gem is . It is opaque and .</nonid_notes>
+			<type type="string">Malformed</type>
+			<subtype type="string">Malformed</subtype>
+			<cost type="string">100 gp</cost>
+			<weight type="number">0.5</weight>
+			<isidentified type="number">0</isidentified>
+			<locked type="number">1</locked>
+		</id-00005>
+		<id-00006>
+			<name type="string">Malformed, , huge, good</name>
+			<description type="formattedtext"/>
+			<flavor type="string"/>
+			<notes type="formattedtext"/>
+			<text type="formattedtext"/>
+			<nonid_name type="string">Gem, huge</nonid_name>
+			<nonidentified type="string">This 4 inch diameter gem is . It is opaque and .</nonidentified>
+			<nonid_notes type="string">This 4 inch diameter gem is . It is opaque and .</nonid_notes>
+			<type type="string">Malformed</type>
+			<subtype type="string">Malformed</subtype>
+			<cost type="string">100 gp</cost>
+			<weight type="number">2</weight>
+			<isidentified type="number">0</isidentified>
+			<locked type="number">1</locked>
+		</id-00006>
+		<id-00007>
+			<name type="string">Malformed, , tiny, good</name>
+			<description type="formattedtext"/>
+			<flavor type="string"/>
+			<notes type="formattedtext"/>
+			<text type="formattedtext"/>
+			<nonid_name type="string">Gem, tiny</nonid_name>
+			<nonidentified type="string">This 1/8 inch diameter gem is . It is opaque and .</nonidentified>
+			<nonid_notes type="string">This 1/8 inch diameter gem is . It is opaque and .</nonid_notes>
+			<type type="string">Malformed</type>
+			<subtype type="string">Malformed</subtype>
+			<cost type="string">15 gp</cost>
+			<weight type="number">0.5</weight>
+			<isidentified type="number">0</isidentified>
+			<locked type="number">1</locked>
+		</id-00007>
+		<id-00008>
+			<name type="string">Malformed, , small, good</name>
+			<description type="formattedtext"/>
+			<flavor type="string"/>
+			<notes type="formattedtext"/>
+			<text type="formattedtext"/>
+			<nonid_name type="string">Gem, small</nonid_name>
+			<nonidentified type="string">This 1/4 inch diameter gem is . It is opaque and .</nonidentified>
+			<nonid_notes type="string">This 1/4 inch diameter gem is . It is opaque and .</nonid_notes>
+			<type type="string">Malformed</type>
+			<subtype type="string">Malformed</subtype>
+			<cost type="string">15 gp</cost>
+			<weight type="number">1.02</weight>
+			<isidentified type="number">0</isidentified>
+			<locked type="number">1</locked>
+		</id-00008>
+		<id-00009>
+			<name type="string">Malformed, , medium, good</name>
+			<description type="formattedtext"/>
+			<flavor type="string"/>
+			<notes type="formattedtext"/>
+			<text type="formattedtext"/>
+			<nonid_name type="string">Gem, medium</nonid_name>
+			<nonidentified type="string">This 1/2 inch diameter gem is . It is opaque and .</nonidentified>
+			<nonid_notes type="string">This 1/2 inch diameter gem is . It is opaque and .</nonid_notes>
+			<type type="string">Malformed</type>
+			<subtype type="string">Malformed</subtype>
+			<cost type="string">75 gp</cost>
+			<weight type="number">0.5</weight>
+			<isidentified type="number">0</isidentified>
+			<locked type="number">1</locked>
+		</id-00009>
+		<id-00010>
+			<name type="string">Malformed, , large, good</name>
+			<description type="formattedtext"/>
+			<flavor type="string"/>
+			<notes type="formattedtext"/>
+			<text type="formattedtext"/>
+			<nonid_name type="string">Gem, large</nonid_name>
+			<nonidentified type="string">This 1 inch diameter gem is . It is opaque and .</nonidentified>
+			<nonid_notes type="string">This 1 inch diameter gem is . It is opaque and .</nonid_notes>
+			<type type="string">Malformed</type>
+			<subtype type="string">Malformed</subtype>
+			<cost type="string">100 gp</cost>
+			<weight type="number">0.5</weight>
+			<isidentified type="number">0</isidentified>
+			<locked type="number">1</locked>
+		</id-00010>
+		<id-00011>
+			<name type="string">Malformed, , very large, good</name>
+			<description type="formattedtext"/>
+			<flavor type="string"/>
+			<notes type="formattedtext"/>
+			<text type="formattedtext"/>
+			<nonid_name type="string">Gem, very large</nonid_name>
+			<nonidentified type="string">This 2 inch diameter gem is . It is opaque and .</nonidentified>
+			<nonid_notes type="string">This 2 inch diameter gem is . It is opaque and .</nonid_notes>
+			<type type="string">Malformed</type>
+			<subtype type="string">Malformed</subtype>
+			<cost type="string">100 gp</cost>
+			<weight type="number">0.5</weight>
+			<isidentified type="number">0</isidentified>
+			<locked type="number">1</locked>
+		</id-00011>
+		<id-00012>
+			<name type="string">Malformed, , huge, good</name>
+			<description type="formattedtext"/>
+			<flavor type="string"/>
+			<notes type="formattedtext"/>
+			<text type="formattedtext"/>
+			<nonid_name type="string">Gem, huge</nonid_name>
+			<nonidentified type="string">This 4 inch diameter gem is . It is opaque and .</nonidentified>
+			<nonid_notes type="string">This 4 inch diameter gem is . It is opaque and .</nonid_notes>
+			<type type="string">Malformed</type>
+			<subtype type="string">Malformed</subtype>
+			<cost type="string">100 gp</cost>
+			<weight type="number">2</weight>
+			<isidentified type="number">0</isidentified>
+			<locked type="number">1</locked>
+		</id-00012>
+	</item>
+</root>

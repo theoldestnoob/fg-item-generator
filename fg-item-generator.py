@@ -163,7 +163,7 @@ def generate_items(definitions: dict) -> list:
         if 'colors' in base_item.keys():
             mod_lists.append(base_item['colors'])
             for color in mod_lists[0]:
-                color['type'] = 'colors'
+                color['mod_type'] = 'colors'
         if 'modifiers' in base_item.keys():
             base_mods = base_item['modifiers']
             for base_mod, val in zip(base_mods.keys(), base_mods.values()):
@@ -180,50 +180,51 @@ def generate_items(definitions: dict) -> list:
                         )
                         print(msg)
                     else:
-                        mod_def[0]['type'] = base_mod
+                        mod_def[0]['mod_type'] = base_mod
                         mod_vals.extend(mod_def)
                 if mod_vals:
                     mod_lists.append(mod_vals)
         # build a list of all unique permutations for this base item
         perms = product(*mod_lists)
         # parse each unique permutation to build an FGItem
+        # colors can override base item settings, but no other modifier can
+        # colors can not override:
+        #       "name", "description", "nonid_name", or "nonid_description"
         for mod_combo in perms:
             # name and description defintions are strings of tokens
             # so we substitute in defined words and phrases from the
             # base and modifier definitions
+            # all names default to None
+            name = None
             if 'name' in base_item.keys():
                 name = parse_string(base_item['name'], base_item, mod_combo)
-            else:
-                name = None
+            desc = None
             if 'description' in base_item.keys():
                 desc = parse_string(base_item['description'], base_item,
                                     mod_combo)
-            else:
-                desc = None
+            nonid_name = None
             if 'nonid_name' in base_item.keys():
                 nonid_name = parse_string(base_item['nonid_name'],
                                           base_item, mod_combo)
-            else:
-                nonid_name = None
+            nonid_desc = None
             if 'nonid_description' in base_item.keys():
                 nonid_desc = parse_string(base_item['nonid_description'],
                                           base_item, mod_combo)
-            else:
-                nonid_desc = None
-            # base cost, cost modifiers, cost ceiling, cost floor, cost unit,
-            # cost whole numbers or fractional (default whole numbers)
+            # get base cost - default None
+            cost = None
             if 'base_cost' in base_item.keys():
                 cost = base_item['base_cost']
-            else:
-                cost = None
+            for mod in mod_combo:
+                if mod['mod_type'] == 'colors' and 'base_cost' in mod.keys():
+                    cost = mod['base_cost']
+            # get cost units - default None
+            cost_units = None
             if 'cost_units' in base_item.keys():
                 cost_units = base_item['cost_units']
-            else:
-                cost_units = None
-            # modify cost as directed by colors and modifiers
             for mod in mod_combo:
-                if 'base_cost' in mod.keys():
-                    cost = mod['base_cost']
+                if mod['mod_type'] == 'colors' and 'cost_units' in mod.keys():
+                    cost = mod['cost_units']
+            # modify cost as directed by colors and modifiers
             if cost is not None:
                 for mod in mod_combo:
                     if 'mod_cost' in mod.keys():
@@ -245,45 +246,43 @@ def generate_items(definitions: dict) -> list:
                                 f'in Modifier "{mod}". Ignoring...'
                             )
                             print(msg)
-            # cap cost at cost_ceiling and cost_floor
+            # cap cost at cost_ceiling - default None
+            cost_ceiling = None
             if 'cost_ceiling' in base_item.keys():
                 cost_ceiling = base_item['cost_ceiling']
-            else:
-                cost_ceiling = None
             for mod in mod_combo:
-                if 'cost_ceiling' in mod.keys():
+                if (mod['mod_type'] == 'colors'
+                        and 'cost_ceiling' in mod.keys()):
                     cost_ceiling = mod['cost_ceiling']
-            if 'cost_floor' in base_item.keys():
-                cost_floor = base_item['cost_floor']
-            else:
-                cost_floor = None
-            for mod in mod_combo:
-                if 'cost_floor' in mod.keys():
-                    cost_floor = mod['cost_floor']
             if cost_ceiling is not None and cost > cost_ceiling:
                 cost = cost_ceiling
+            # cap cost at cost_floor - default None
+            cost_floor = None
+            if 'cost_floor' in base_item.keys():
+                cost_floor = base_item['cost_floor']
+            for mod in mod_combo:
+                if mod['mod_type'] == 'colors' and 'cost_floor' in mod.keys():
+                    cost_floor = mod['cost_floor']
             if cost_floor is not None and cost < cost_floor:
                 cost = cost_floor
-            # drop the decimal if it's supposed to be a wole number
+            # do we drop the cost decimal - default yes
+            cost_whole_num = True
             if 'cost_whole_num' in base_item.keys():
                 cost_whole_num = base_item['cost_whole_num']
-            else:
-                cost_whole_num = True
             for mod in mod_combo:
-                if 'cost_whole_num' in mod.keys():
+                if (mod['mod_type'] == 'colors'
+                        and 'cost_whole_num' in mod.keys()):
                     cost_whole_num = mod['cost_whole_num']
             if cost is not None and cost_whole_num:
                 cost = int(cost)
             if cost is not None:
                 cost_str = f'{cost} {cost_units}'
-            # base weight, weight modifiers, weight ceiling, weight floor,
-            # weight whole numbers or fractional (default fractional)
+            # get base weight - default None
+            weight = None
             if 'base_weight' in base_item.keys():
                 weight = base_item['base_weight']
-            else:
-                weight = None
             for mod in mod_combo:
-                if 'base_weight' in mod.keys():
+                if mod['mod_type'] == 'colors' and 'base_weight' in mod.keys():
                     weight = mod['base_weight']
             # modify weight as directed by colors and modifiers
             if weight is not None:
@@ -307,53 +306,64 @@ def generate_items(definitions: dict) -> list:
                                 f'in Modifier "{mod}". Ignoring...'
                             )
                             print(msg)
-            # cap weight at weight_ceiling and weight_floor
+            # cap weight at weight_ceiling - default None
+            weight_ceiling = None
             if 'weight_ceiling' in base_item.keys():
                 weight_ceiling = base_item['weight_ceiling']
-            else:
-                weight_ceiling = None
             for mod in mod_combo:
-                if 'weight_ceiling' in mod.keys():
+                if (mod['mod_type'] == 'colors' and
+                        'weight_ceiling' in mod.keys()):
                     weight_ceiling = mod['weight_ceiling']
-            if 'weight_floor' in base_item.keys():
-                weight_floor = base_item['weight_floor']
-            else:
-                weight_floor = None
             if weight_ceiling is not None and weight > weight_ceiling:
                 weight = weight_ceiling
+            # cap weight at weight_floor - default None
+            weight_floor = None
+            if 'weight_floor' in base_item.keys():
+                weight_floor = base_item['weight_floor']
+            for mod in mod_combo:
+                if (mod['mod_type'] == 'colors' and
+                        'weight_floor' in mod.keys()):
+                    weight_floor = mod['weight_floor']
             if weight_floor is not None and weight < weight_floor:
                 weight = weight_floor
-            for mod in mod_combo:
-                if 'weight_floor' in mod.keys():
-                    weight_floor = mod['weight_floor']
-            # drop the decimal if it's supposed to be a whole number
+            # do we drop the weight decimal - default no
+            weight_whole_num = False
             if 'weight_whole_num' in base_item.keys():
                 weight_whole_num = base_item['weight_whole_num']
-            else:
-                weight_whole_num = False
             for mod in mod_combo:
-                if 'weight_whole_num' in mod.keys():
+                if (mod['mod_type'] == 'colors' and
+                        'weight_whole_num' in mod.keys()):
                     weight_whole_num = mod['weight_whole_num']
             if weight is not None and weight_whole_num:
                 weight = int(weight)
-            # item type, subtype, is it locked (default yes),
-            # is it identified (default no)
-            if 'type' in base_item.keys():
-                item_type = base_item['type']
-            else:
-                item_type = None
+            # get item type - default None
+            item_type = None
+            if 'item_type' in base_item.keys():
+                item_type = base_item['item_type']
+            for mod in mod_combo:
+                if mod['mod_type'] == 'colors' and 'item_type' in mod.keys():
+                    item_type = mod['item_type']
+            # get item subtype - default None
+            subtype = None
             if 'subtype' in base_item.keys():
                 subtype = base_item['subtype']
-            else:
-                subtype = None
+            for mod in mod_combo:
+                if mod['mod_type'] == 'colors' and 'subtype' in mod.keys():
+                    item_type = mod['subtype']
+            # is the item locked - default yes
+            locked = 1
             if 'locked' in base_item.keys():
                 locked = base_item['locked']
-            else:
-                locked = 1
+            for mod in mod_combo:
+                if mod['mod_type'] == 'colors' and 'locked' in mod.keys():
+                    item_type = mod['locked']
+            # is the item identified - default yes
+            identified = 1
             if 'identified' in base_item.keys():
                 identified = base_item['identified']
-            else:
-                identified = 1
+            for mod in mod_combo:
+                if mod['mod_type'] == 'colors' and 'identified' in mod.keys():
+                    item_type = mod['identified']
             # create the item as an FGItem and add it to our list of items
             all_items.append(FGItem(0, name, desc, nonid_name, nonid_desc,
                              cost_str, weight, item_type, subtype,
@@ -372,7 +382,7 @@ def parse_string(string: str, base: dict, mods: list) -> str:
         elif '#' in token:
             mod_type, key = token.split('#')
             for mod in mods:
-                if mod['type'] == mod_type and key in mod.keys():
+                if mod['mod_type'] == mod_type and key in mod.keys():
                     output_raw = output_raw + mod[key]
         else:
             output_raw = output_raw + token

@@ -27,7 +27,7 @@
             "type" : "object",
             "properties" : {
                 "base_name" : { "type" : "string" },
-                "type" : { "type" : "string" },
+                "item_type" : { "type" : "string" },
                 "subtype" : { "type" : "string" },
                 "base_cost" : { "type" : "number" },
                 "cost_ceiling" : { "type" : "number" },

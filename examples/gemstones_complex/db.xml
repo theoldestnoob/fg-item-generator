@@ -86,6 +86,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">0 gp</cost>
+			<price type="string">0 gp</price>
 			<weight type="number">0.04</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -102,6 +103,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">1 gp</cost>
+			<price type="string">1 gp</price>
 			<weight type="number">0.04</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -118,6 +120,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">10 gp</cost>
+			<price type="string">10 gp</price>
 			<weight type="number">0.02</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -134,6 +137,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">20 gp</cost>
+			<price type="string">20 gp</price>
 			<weight type="number">0.02</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -150,6 +154,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">5 gp</cost>
+			<price type="string">5 gp</price>
 			<weight type="number">0.02</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -166,6 +171,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">10 gp</cost>
+			<price type="string">10 gp</price>
 			<weight type="number">0.02</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -182,6 +188,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">1 gp</cost>
+			<price type="string">1 gp</price>
 			<weight type="number">0.04</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -198,6 +205,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">2 gp</cost>
+			<price type="string">2 gp</price>
 			<weight type="number">0.04</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -214,6 +222,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">20 gp</cost>
+			<price type="string">20 gp</price>
 			<weight type="number">0.02</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -230,6 +239,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">40 gp</cost>
+			<price type="string">40 gp</price>
 			<weight type="number">0.02</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -246,6 +256,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">10 gp</cost>
+			<price type="string">10 gp</price>
 			<weight type="number">0.02</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -262,6 +273,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">20 gp</cost>
+			<price type="string">20 gp</price>
 			<weight type="number">0.02</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -278,6 +290,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">2 gp</cost>
+			<price type="string">2 gp</price>
 			<weight type="number">0.1</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -294,6 +307,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">5 gp</cost>
+			<price type="string">5 gp</price>
 			<weight type="number">0.1</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -310,6 +324,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">50 gp</cost>
+			<price type="string">50 gp</price>
 			<weight type="number">0.05</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -326,6 +341,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">100 gp</cost>
+			<price type="string">100 gp</price>
 			<weight type="number">0.05</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -342,6 +358,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">25 gp</cost>
+			<price type="string">25 gp</price>
 			<weight type="number">0.05</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -358,6 +375,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">50 gp</cost>
+			<price type="string">50 gp</price>
 			<weight type="number">0.05</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -374,6 +392,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">5 gp</cost>
+			<price type="string">5 gp</price>
 			<weight type="number">0.1</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -390,6 +409,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">10 gp</cost>
+			<price type="string">10 gp</price>
 			<weight type="number">0.1</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -406,6 +426,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">100 gp</cost>
+			<price type="string">100 gp</price>
 			<weight type="number">0.05</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -422,6 +443,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">200 gp</cost>
+			<price type="string">200 gp</price>
 			<weight type="number">0.05</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -438,6 +460,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">50 gp</cost>
+			<price type="string">50 gp</price>
 			<weight type="number">0.05</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -454,6 +477,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">100 gp</cost>
+			<price type="string">100 gp</price>
 			<weight type="number">0.05</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -470,6 +494,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">10 gp</cost>
+			<price type="string">10 gp</price>
 			<weight type="number">0.2</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -486,6 +511,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">20 gp</cost>
+			<price type="string">20 gp</price>
 			<weight type="number">0.2</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -502,6 +528,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">200 gp</cost>
+			<price type="string">200 gp</price>
 			<weight type="number">0.1</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -518,6 +545,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">400 gp</cost>
+			<price type="string">400 gp</price>
 			<weight type="number">0.1</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -534,6 +562,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">100 gp</cost>
+			<price type="string">100 gp</price>
 			<weight type="number">0.1</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -550,6 +579,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">200 gp</cost>
+			<price type="string">200 gp</price>
 			<weight type="number">0.1</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -566,6 +596,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">20 gp</cost>
+			<price type="string">20 gp</price>
 			<weight type="number">0.2</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -582,6 +613,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">40 gp</cost>
+			<price type="string">40 gp</price>
 			<weight type="number">0.2</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -598,6 +630,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">400 gp</cost>
+			<price type="string">400 gp</price>
 			<weight type="number">0.1</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -614,6 +647,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">800 gp</cost>
+			<price type="string">800 gp</price>
 			<weight type="number">0.1</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -630,6 +664,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">200 gp</cost>
+			<price type="string">200 gp</price>
 			<weight type="number">0.1</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -646,6 +681,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">400 gp</cost>
+			<price type="string">400 gp</price>
 			<weight type="number">0.1</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -662,6 +698,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">50 gp</cost>
+			<price type="string">50 gp</price>
 			<weight type="number">1.0</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -678,6 +715,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">100 gp</cost>
+			<price type="string">100 gp</price>
 			<weight type="number">1.0</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -694,6 +732,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">1000 gp</cost>
+			<price type="string">1000 gp</price>
 			<weight type="number">0.5</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -710,6 +749,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">2000 gp</cost>
+			<price type="string">2000 gp</price>
 			<weight type="number">0.5</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -726,6 +766,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">500 gp</cost>
+			<price type="string">500 gp</price>
 			<weight type="number">0.5</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -742,6 +783,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">1000 gp</cost>
+			<price type="string">1000 gp</price>
 			<weight type="number">0.5</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -758,6 +800,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">100 gp</cost>
+			<price type="string">100 gp</price>
 			<weight type="number">1.0</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -774,6 +817,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">200 gp</cost>
+			<price type="string">200 gp</price>
 			<weight type="number">1.0</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -790,6 +834,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">2000 gp</cost>
+			<price type="string">2000 gp</price>
 			<weight type="number">0.5</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -806,6 +851,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">4000 gp</cost>
+			<price type="string">4000 gp</price>
 			<weight type="number">0.5</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -822,6 +868,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">1000 gp</cost>
+			<price type="string">1000 gp</price>
 			<weight type="number">0.5</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -838,6 +885,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">2000 gp</cost>
+			<price type="string">2000 gp</price>
 			<weight type="number">0.5</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -854,6 +902,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">500 gp</cost>
+			<price type="string">500 gp</price>
 			<weight type="number">2.0</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -870,6 +919,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">1000 gp</cost>
+			<price type="string">1000 gp</price>
 			<weight type="number">2.0</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -886,6 +936,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">10000 gp</cost>
+			<price type="string">10000 gp</price>
 			<weight type="number">1.0</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -902,6 +953,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">20000 gp</cost>
+			<price type="string">20000 gp</price>
 			<weight type="number">1.0</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -918,6 +970,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">5000 gp</cost>
+			<price type="string">5000 gp</price>
 			<weight type="number">1.0</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -934,6 +987,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">10000 gp</cost>
+			<price type="string">10000 gp</price>
 			<weight type="number">1.0</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -950,6 +1004,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">1000 gp</cost>
+			<price type="string">1000 gp</price>
 			<weight type="number">2.0</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -966,6 +1021,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">2000 gp</cost>
+			<price type="string">2000 gp</price>
 			<weight type="number">2.0</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -982,6 +1038,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">20000 gp</cost>
+			<price type="string">20000 gp</price>
 			<weight type="number">1.0</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -998,6 +1055,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">40000 gp</cost>
+			<price type="string">40000 gp</price>
 			<weight type="number">1.0</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -1014,6 +1072,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">10000 gp</cost>
+			<price type="string">10000 gp</price>
 			<weight type="number">1.0</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -1030,6 +1089,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">20000 gp</cost>
+			<price type="string">20000 gp</price>
 			<weight type="number">1.0</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -1046,6 +1106,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">0 gp</cost>
+			<price type="string">0 gp</price>
 			<weight type="number">0.04</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -1062,6 +1123,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">1 gp</cost>
+			<price type="string">1 gp</price>
 			<weight type="number">0.04</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -1078,6 +1140,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">10 gp</cost>
+			<price type="string">10 gp</price>
 			<weight type="number">0.02</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -1094,6 +1157,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">20 gp</cost>
+			<price type="string">20 gp</price>
 			<weight type="number">0.02</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -1110,6 +1174,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">5 gp</cost>
+			<price type="string">5 gp</price>
 			<weight type="number">0.02</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -1126,6 +1191,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">10 gp</cost>
+			<price type="string">10 gp</price>
 			<weight type="number">0.02</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -1142,6 +1208,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">1 gp</cost>
+			<price type="string">1 gp</price>
 			<weight type="number">0.04</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -1158,6 +1225,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">2 gp</cost>
+			<price type="string">2 gp</price>
 			<weight type="number">0.04</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -1174,6 +1242,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">20 gp</cost>
+			<price type="string">20 gp</price>
 			<weight type="number">0.02</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -1190,6 +1259,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">40 gp</cost>
+			<price type="string">40 gp</price>
 			<weight type="number">0.02</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -1206,6 +1276,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">10 gp</cost>
+			<price type="string">10 gp</price>
 			<weight type="number">0.02</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -1222,6 +1293,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">20 gp</cost>
+			<price type="string">20 gp</price>
 			<weight type="number">0.02</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -1238,6 +1310,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">2 gp</cost>
+			<price type="string">2 gp</price>
 			<weight type="number">0.1</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -1254,6 +1327,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">5 gp</cost>
+			<price type="string">5 gp</price>
 			<weight type="number">0.1</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -1270,6 +1344,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">50 gp</cost>
+			<price type="string">50 gp</price>
 			<weight type="number">0.05</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -1286,6 +1361,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">100 gp</cost>
+			<price type="string">100 gp</price>
 			<weight type="number">0.05</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -1302,6 +1378,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">25 gp</cost>
+			<price type="string">25 gp</price>
 			<weight type="number">0.05</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -1318,6 +1395,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">50 gp</cost>
+			<price type="string">50 gp</price>
 			<weight type="number">0.05</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -1334,6 +1412,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">5 gp</cost>
+			<price type="string">5 gp</price>
 			<weight type="number">0.1</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -1350,6 +1429,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">10 gp</cost>
+			<price type="string">10 gp</price>
 			<weight type="number">0.1</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -1366,6 +1446,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">100 gp</cost>
+			<price type="string">100 gp</price>
 			<weight type="number">0.05</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -1382,6 +1463,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">200 gp</cost>
+			<price type="string">200 gp</price>
 			<weight type="number">0.05</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -1398,6 +1480,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">50 gp</cost>
+			<price type="string">50 gp</price>
 			<weight type="number">0.05</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -1414,6 +1497,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">100 gp</cost>
+			<price type="string">100 gp</price>
 			<weight type="number">0.05</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -1430,6 +1514,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">10 gp</cost>
+			<price type="string">10 gp</price>
 			<weight type="number">0.2</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -1446,6 +1531,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">20 gp</cost>
+			<price type="string">20 gp</price>
 			<weight type="number">0.2</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -1462,6 +1548,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">200 gp</cost>
+			<price type="string">200 gp</price>
 			<weight type="number">0.1</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -1478,6 +1565,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">400 gp</cost>
+			<price type="string">400 gp</price>
 			<weight type="number">0.1</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -1494,6 +1582,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">100 gp</cost>
+			<price type="string">100 gp</price>
 			<weight type="number">0.1</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -1510,6 +1599,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">200 gp</cost>
+			<price type="string">200 gp</price>
 			<weight type="number">0.1</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -1526,6 +1616,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">20 gp</cost>
+			<price type="string">20 gp</price>
 			<weight type="number">0.2</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -1542,6 +1633,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">40 gp</cost>
+			<price type="string">40 gp</price>
 			<weight type="number">0.2</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -1558,6 +1650,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">400 gp</cost>
+			<price type="string">400 gp</price>
 			<weight type="number">0.1</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -1574,6 +1667,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">800 gp</cost>
+			<price type="string">800 gp</price>
 			<weight type="number">0.1</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -1590,6 +1684,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">200 gp</cost>
+			<price type="string">200 gp</price>
 			<weight type="number">0.1</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -1606,6 +1701,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">400 gp</cost>
+			<price type="string">400 gp</price>
 			<weight type="number">0.1</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -1622,6 +1718,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">50 gp</cost>
+			<price type="string">50 gp</price>
 			<weight type="number">1.0</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -1638,6 +1735,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">100 gp</cost>
+			<price type="string">100 gp</price>
 			<weight type="number">1.0</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -1654,6 +1752,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">1000 gp</cost>
+			<price type="string">1000 gp</price>
 			<weight type="number">0.5</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -1670,6 +1769,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">2000 gp</cost>
+			<price type="string">2000 gp</price>
 			<weight type="number">0.5</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -1686,6 +1786,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">500 gp</cost>
+			<price type="string">500 gp</price>
 			<weight type="number">0.5</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -1702,6 +1803,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">1000 gp</cost>
+			<price type="string">1000 gp</price>
 			<weight type="number">0.5</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -1718,6 +1820,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">100 gp</cost>
+			<price type="string">100 gp</price>
 			<weight type="number">1.0</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -1734,6 +1837,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">200 gp</cost>
+			<price type="string">200 gp</price>
 			<weight type="number">1.0</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -1750,6 +1854,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">2000 gp</cost>
+			<price type="string">2000 gp</price>
 			<weight type="number">0.5</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -1766,6 +1871,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">4000 gp</cost>
+			<price type="string">4000 gp</price>
 			<weight type="number">0.5</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -1782,6 +1888,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">1000 gp</cost>
+			<price type="string">1000 gp</price>
 			<weight type="number">0.5</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -1798,6 +1905,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">2000 gp</cost>
+			<price type="string">2000 gp</price>
 			<weight type="number">0.5</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -1814,6 +1922,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">500 gp</cost>
+			<price type="string">500 gp</price>
 			<weight type="number">2.0</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -1830,6 +1939,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">1000 gp</cost>
+			<price type="string">1000 gp</price>
 			<weight type="number">2.0</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -1846,6 +1956,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">10000 gp</cost>
+			<price type="string">10000 gp</price>
 			<weight type="number">1.0</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -1862,6 +1973,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">20000 gp</cost>
+			<price type="string">20000 gp</price>
 			<weight type="number">1.0</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -1878,6 +1990,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">5000 gp</cost>
+			<price type="string">5000 gp</price>
 			<weight type="number">1.0</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -1894,6 +2007,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">10000 gp</cost>
+			<price type="string">10000 gp</price>
 			<weight type="number">1.0</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -1910,6 +2024,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">1000 gp</cost>
+			<price type="string">1000 gp</price>
 			<weight type="number">2.0</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -1926,6 +2041,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">2000 gp</cost>
+			<price type="string">2000 gp</price>
 			<weight type="number">2.0</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -1942,6 +2058,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">20000 gp</cost>
+			<price type="string">20000 gp</price>
 			<weight type="number">1.0</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -1958,6 +2075,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">40000 gp</cost>
+			<price type="string">40000 gp</price>
 			<weight type="number">1.0</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -1974,6 +2092,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">10000 gp</cost>
+			<price type="string">10000 gp</price>
 			<weight type="number">1.0</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -1990,6 +2109,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">20000 gp</cost>
+			<price type="string">20000 gp</price>
 			<weight type="number">1.0</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -2006,6 +2126,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">0 gp</cost>
+			<price type="string">0 gp</price>
 			<weight type="number">0.04</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -2022,6 +2143,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">1 gp</cost>
+			<price type="string">1 gp</price>
 			<weight type="number">0.04</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -2038,6 +2160,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">10 gp</cost>
+			<price type="string">10 gp</price>
 			<weight type="number">0.02</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -2054,6 +2177,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">20 gp</cost>
+			<price type="string">20 gp</price>
 			<weight type="number">0.02</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -2070,6 +2194,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">5 gp</cost>
+			<price type="string">5 gp</price>
 			<weight type="number">0.02</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -2086,6 +2211,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">10 gp</cost>
+			<price type="string">10 gp</price>
 			<weight type="number">0.02</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -2102,6 +2228,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">1 gp</cost>
+			<price type="string">1 gp</price>
 			<weight type="number">0.04</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -2118,6 +2245,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">2 gp</cost>
+			<price type="string">2 gp</price>
 			<weight type="number">0.04</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -2134,6 +2262,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">20 gp</cost>
+			<price type="string">20 gp</price>
 			<weight type="number">0.02</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -2150,6 +2279,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">40 gp</cost>
+			<price type="string">40 gp</price>
 			<weight type="number">0.02</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -2166,6 +2296,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">10 gp</cost>
+			<price type="string">10 gp</price>
 			<weight type="number">0.02</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -2182,6 +2313,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">20 gp</cost>
+			<price type="string">20 gp</price>
 			<weight type="number">0.02</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -2198,6 +2330,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">2 gp</cost>
+			<price type="string">2 gp</price>
 			<weight type="number">0.1</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -2214,6 +2347,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">5 gp</cost>
+			<price type="string">5 gp</price>
 			<weight type="number">0.1</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -2230,6 +2364,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">50 gp</cost>
+			<price type="string">50 gp</price>
 			<weight type="number">0.05</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -2246,6 +2381,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">100 gp</cost>
+			<price type="string">100 gp</price>
 			<weight type="number">0.05</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -2262,6 +2398,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">25 gp</cost>
+			<price type="string">25 gp</price>
 			<weight type="number">0.05</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -2278,6 +2415,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">50 gp</cost>
+			<price type="string">50 gp</price>
 			<weight type="number">0.05</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -2294,6 +2432,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">5 gp</cost>
+			<price type="string">5 gp</price>
 			<weight type="number">0.1</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -2310,6 +2449,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">10 gp</cost>
+			<price type="string">10 gp</price>
 			<weight type="number">0.1</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -2326,6 +2466,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">100 gp</cost>
+			<price type="string">100 gp</price>
 			<weight type="number">0.05</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -2342,6 +2483,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">200 gp</cost>
+			<price type="string">200 gp</price>
 			<weight type="number">0.05</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -2358,6 +2500,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">50 gp</cost>
+			<price type="string">50 gp</price>
 			<weight type="number">0.05</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -2374,6 +2517,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">100 gp</cost>
+			<price type="string">100 gp</price>
 			<weight type="number">0.05</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -2390,6 +2534,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">10 gp</cost>
+			<price type="string">10 gp</price>
 			<weight type="number">0.2</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -2406,6 +2551,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">20 gp</cost>
+			<price type="string">20 gp</price>
 			<weight type="number">0.2</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -2422,6 +2568,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">200 gp</cost>
+			<price type="string">200 gp</price>
 			<weight type="number">0.1</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -2438,6 +2585,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">400 gp</cost>
+			<price type="string">400 gp</price>
 			<weight type="number">0.1</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -2454,6 +2602,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">100 gp</cost>
+			<price type="string">100 gp</price>
 			<weight type="number">0.1</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -2470,6 +2619,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">200 gp</cost>
+			<price type="string">200 gp</price>
 			<weight type="number">0.1</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -2486,6 +2636,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">20 gp</cost>
+			<price type="string">20 gp</price>
 			<weight type="number">0.2</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -2502,6 +2653,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">40 gp</cost>
+			<price type="string">40 gp</price>
 			<weight type="number">0.2</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -2518,6 +2670,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">400 gp</cost>
+			<price type="string">400 gp</price>
 			<weight type="number">0.1</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -2534,6 +2687,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">800 gp</cost>
+			<price type="string">800 gp</price>
 			<weight type="number">0.1</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -2550,6 +2704,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">200 gp</cost>
+			<price type="string">200 gp</price>
 			<weight type="number">0.1</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -2566,6 +2721,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">400 gp</cost>
+			<price type="string">400 gp</price>
 			<weight type="number">0.1</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -2582,6 +2738,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">50 gp</cost>
+			<price type="string">50 gp</price>
 			<weight type="number">1.0</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -2598,6 +2755,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">100 gp</cost>
+			<price type="string">100 gp</price>
 			<weight type="number">1.0</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -2614,6 +2772,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">1000 gp</cost>
+			<price type="string">1000 gp</price>
 			<weight type="number">0.5</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -2630,6 +2789,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">2000 gp</cost>
+			<price type="string">2000 gp</price>
 			<weight type="number">0.5</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -2646,6 +2806,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">500 gp</cost>
+			<price type="string">500 gp</price>
 			<weight type="number">0.5</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -2662,6 +2823,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">1000 gp</cost>
+			<price type="string">1000 gp</price>
 			<weight type="number">0.5</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -2678,6 +2840,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">100 gp</cost>
+			<price type="string">100 gp</price>
 			<weight type="number">1.0</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -2694,6 +2857,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">200 gp</cost>
+			<price type="string">200 gp</price>
 			<weight type="number">1.0</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -2710,6 +2874,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">2000 gp</cost>
+			<price type="string">2000 gp</price>
 			<weight type="number">0.5</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -2726,6 +2891,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">4000 gp</cost>
+			<price type="string">4000 gp</price>
 			<weight type="number">0.5</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -2742,6 +2908,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">1000 gp</cost>
+			<price type="string">1000 gp</price>
 			<weight type="number">0.5</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -2758,6 +2925,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">2000 gp</cost>
+			<price type="string">2000 gp</price>
 			<weight type="number">0.5</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -2774,6 +2942,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">500 gp</cost>
+			<price type="string">500 gp</price>
 			<weight type="number">2.0</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -2790,6 +2959,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">1000 gp</cost>
+			<price type="string">1000 gp</price>
 			<weight type="number">2.0</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -2806,6 +2976,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">10000 gp</cost>
+			<price type="string">10000 gp</price>
 			<weight type="number">1.0</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -2822,6 +2993,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">20000 gp</cost>
+			<price type="string">20000 gp</price>
 			<weight type="number">1.0</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -2838,6 +3010,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">5000 gp</cost>
+			<price type="string">5000 gp</price>
 			<weight type="number">1.0</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -2854,6 +3027,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">10000 gp</cost>
+			<price type="string">10000 gp</price>
 			<weight type="number">1.0</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -2870,6 +3044,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">1000 gp</cost>
+			<price type="string">1000 gp</price>
 			<weight type="number">2.0</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -2886,6 +3061,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">2000 gp</cost>
+			<price type="string">2000 gp</price>
 			<weight type="number">2.0</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -2902,6 +3078,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">20000 gp</cost>
+			<price type="string">20000 gp</price>
 			<weight type="number">1.0</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -2918,6 +3095,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">40000 gp</cost>
+			<price type="string">40000 gp</price>
 			<weight type="number">1.0</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -2934,6 +3112,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">10000 gp</cost>
+			<price type="string">10000 gp</price>
 			<weight type="number">1.0</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -2950,6 +3129,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">20000 gp</cost>
+			<price type="string">20000 gp</price>
 			<weight type="number">1.0</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -2966,6 +3146,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">0 gp</cost>
+			<price type="string">0 gp</price>
 			<weight type="number">0.04</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -2982,6 +3163,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">1 gp</cost>
+			<price type="string">1 gp</price>
 			<weight type="number">0.04</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -2998,6 +3180,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">10 gp</cost>
+			<price type="string">10 gp</price>
 			<weight type="number">0.02</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -3014,6 +3197,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">20 gp</cost>
+			<price type="string">20 gp</price>
 			<weight type="number">0.02</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -3030,6 +3214,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">5 gp</cost>
+			<price type="string">5 gp</price>
 			<weight type="number">0.02</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -3046,6 +3231,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">10 gp</cost>
+			<price type="string">10 gp</price>
 			<weight type="number">0.02</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -3062,6 +3248,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">1 gp</cost>
+			<price type="string">1 gp</price>
 			<weight type="number">0.04</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -3078,6 +3265,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">2 gp</cost>
+			<price type="string">2 gp</price>
 			<weight type="number">0.04</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -3094,6 +3282,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">20 gp</cost>
+			<price type="string">20 gp</price>
 			<weight type="number">0.02</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -3110,6 +3299,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">40 gp</cost>
+			<price type="string">40 gp</price>
 			<weight type="number">0.02</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -3126,6 +3316,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">10 gp</cost>
+			<price type="string">10 gp</price>
 			<weight type="number">0.02</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -3142,6 +3333,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">20 gp</cost>
+			<price type="string">20 gp</price>
 			<weight type="number">0.02</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -3158,6 +3350,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">2 gp</cost>
+			<price type="string">2 gp</price>
 			<weight type="number">0.1</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -3174,6 +3367,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">5 gp</cost>
+			<price type="string">5 gp</price>
 			<weight type="number">0.1</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -3190,6 +3384,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">50 gp</cost>
+			<price type="string">50 gp</price>
 			<weight type="number">0.05</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -3206,6 +3401,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">100 gp</cost>
+			<price type="string">100 gp</price>
 			<weight type="number">0.05</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -3222,6 +3418,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">25 gp</cost>
+			<price type="string">25 gp</price>
 			<weight type="number">0.05</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -3238,6 +3435,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">50 gp</cost>
+			<price type="string">50 gp</price>
 			<weight type="number">0.05</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -3254,6 +3452,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">5 gp</cost>
+			<price type="string">5 gp</price>
 			<weight type="number">0.1</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -3270,6 +3469,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">10 gp</cost>
+			<price type="string">10 gp</price>
 			<weight type="number">0.1</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -3286,6 +3486,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">100 gp</cost>
+			<price type="string">100 gp</price>
 			<weight type="number">0.05</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -3302,6 +3503,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">200 gp</cost>
+			<price type="string">200 gp</price>
 			<weight type="number">0.05</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -3318,6 +3520,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">50 gp</cost>
+			<price type="string">50 gp</price>
 			<weight type="number">0.05</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -3334,6 +3537,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">100 gp</cost>
+			<price type="string">100 gp</price>
 			<weight type="number">0.05</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -3350,6 +3554,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">10 gp</cost>
+			<price type="string">10 gp</price>
 			<weight type="number">0.2</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -3366,6 +3571,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">20 gp</cost>
+			<price type="string">20 gp</price>
 			<weight type="number">0.2</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -3382,6 +3588,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">200 gp</cost>
+			<price type="string">200 gp</price>
 			<weight type="number">0.1</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -3398,6 +3605,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">400 gp</cost>
+			<price type="string">400 gp</price>
 			<weight type="number">0.1</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -3414,6 +3622,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">100 gp</cost>
+			<price type="string">100 gp</price>
 			<weight type="number">0.1</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -3430,6 +3639,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">200 gp</cost>
+			<price type="string">200 gp</price>
 			<weight type="number">0.1</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -3446,6 +3656,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">20 gp</cost>
+			<price type="string">20 gp</price>
 			<weight type="number">0.2</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -3462,6 +3673,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">40 gp</cost>
+			<price type="string">40 gp</price>
 			<weight type="number">0.2</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -3478,6 +3690,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">400 gp</cost>
+			<price type="string">400 gp</price>
 			<weight type="number">0.1</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -3494,6 +3707,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">800 gp</cost>
+			<price type="string">800 gp</price>
 			<weight type="number">0.1</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -3510,6 +3724,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">200 gp</cost>
+			<price type="string">200 gp</price>
 			<weight type="number">0.1</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -3526,6 +3741,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">400 gp</cost>
+			<price type="string">400 gp</price>
 			<weight type="number">0.1</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -3542,6 +3758,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">50 gp</cost>
+			<price type="string">50 gp</price>
 			<weight type="number">1.0</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -3558,6 +3775,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">100 gp</cost>
+			<price type="string">100 gp</price>
 			<weight type="number">1.0</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -3574,6 +3792,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">1000 gp</cost>
+			<price type="string">1000 gp</price>
 			<weight type="number">0.5</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -3590,6 +3809,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">2000 gp</cost>
+			<price type="string">2000 gp</price>
 			<weight type="number">0.5</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -3606,6 +3826,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">500 gp</cost>
+			<price type="string">500 gp</price>
 			<weight type="number">0.5</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -3622,6 +3843,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">1000 gp</cost>
+			<price type="string">1000 gp</price>
 			<weight type="number">0.5</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -3638,6 +3860,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">100 gp</cost>
+			<price type="string">100 gp</price>
 			<weight type="number">1.0</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -3654,6 +3877,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">200 gp</cost>
+			<price type="string">200 gp</price>
 			<weight type="number">1.0</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -3670,6 +3894,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">2000 gp</cost>
+			<price type="string">2000 gp</price>
 			<weight type="number">0.5</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -3686,6 +3911,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">4000 gp</cost>
+			<price type="string">4000 gp</price>
 			<weight type="number">0.5</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -3702,6 +3928,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">1000 gp</cost>
+			<price type="string">1000 gp</price>
 			<weight type="number">0.5</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -3718,6 +3945,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">2000 gp</cost>
+			<price type="string">2000 gp</price>
 			<weight type="number">0.5</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -3734,6 +3962,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">500 gp</cost>
+			<price type="string">500 gp</price>
 			<weight type="number">2.0</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -3750,6 +3979,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">1000 gp</cost>
+			<price type="string">1000 gp</price>
 			<weight type="number">2.0</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -3766,6 +3996,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">10000 gp</cost>
+			<price type="string">10000 gp</price>
 			<weight type="number">1.0</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -3782,6 +4013,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">20000 gp</cost>
+			<price type="string">20000 gp</price>
 			<weight type="number">1.0</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -3798,6 +4030,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">5000 gp</cost>
+			<price type="string">5000 gp</price>
 			<weight type="number">1.0</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -3814,6 +4047,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">10000 gp</cost>
+			<price type="string">10000 gp</price>
 			<weight type="number">1.0</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -3830,6 +4064,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">1000 gp</cost>
+			<price type="string">1000 gp</price>
 			<weight type="number">2.0</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -3846,6 +4081,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">2000 gp</cost>
+			<price type="string">2000 gp</price>
 			<weight type="number">2.0</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -3862,6 +4098,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">20000 gp</cost>
+			<price type="string">20000 gp</price>
 			<weight type="number">1.0</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -3878,6 +4115,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">40000 gp</cost>
+			<price type="string">40000 gp</price>
 			<weight type="number">1.0</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -3894,6 +4132,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">10000 gp</cost>
+			<price type="string">10000 gp</price>
 			<weight type="number">1.0</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -3910,6 +4149,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">20000 gp</cost>
+			<price type="string">20000 gp</price>
 			<weight type="number">1.0</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -3926,6 +4166,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">0 gp</cost>
+			<price type="string">0 gp</price>
 			<weight type="number">0.04</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -3942,6 +4183,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">1 gp</cost>
+			<price type="string">1 gp</price>
 			<weight type="number">0.04</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -3958,6 +4200,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">10 gp</cost>
+			<price type="string">10 gp</price>
 			<weight type="number">0.02</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -3974,6 +4217,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">20 gp</cost>
+			<price type="string">20 gp</price>
 			<weight type="number">0.02</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -3990,6 +4234,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">5 gp</cost>
+			<price type="string">5 gp</price>
 			<weight type="number">0.02</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -4006,6 +4251,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">10 gp</cost>
+			<price type="string">10 gp</price>
 			<weight type="number">0.02</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -4022,6 +4268,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">1 gp</cost>
+			<price type="string">1 gp</price>
 			<weight type="number">0.04</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -4038,6 +4285,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">2 gp</cost>
+			<price type="string">2 gp</price>
 			<weight type="number">0.04</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -4054,6 +4302,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">20 gp</cost>
+			<price type="string">20 gp</price>
 			<weight type="number">0.02</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -4070,6 +4319,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">40 gp</cost>
+			<price type="string">40 gp</price>
 			<weight type="number">0.02</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -4086,6 +4336,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">10 gp</cost>
+			<price type="string">10 gp</price>
 			<weight type="number">0.02</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -4102,6 +4353,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">20 gp</cost>
+			<price type="string">20 gp</price>
 			<weight type="number">0.02</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -4118,6 +4370,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">2 gp</cost>
+			<price type="string">2 gp</price>
 			<weight type="number">0.1</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -4134,6 +4387,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">5 gp</cost>
+			<price type="string">5 gp</price>
 			<weight type="number">0.1</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -4150,6 +4404,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">50 gp</cost>
+			<price type="string">50 gp</price>
 			<weight type="number">0.05</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -4166,6 +4421,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">100 gp</cost>
+			<price type="string">100 gp</price>
 			<weight type="number">0.05</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -4182,6 +4438,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">25 gp</cost>
+			<price type="string">25 gp</price>
 			<weight type="number">0.05</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -4198,6 +4455,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">50 gp</cost>
+			<price type="string">50 gp</price>
 			<weight type="number">0.05</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -4214,6 +4472,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">5 gp</cost>
+			<price type="string">5 gp</price>
 			<weight type="number">0.1</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -4230,6 +4489,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">10 gp</cost>
+			<price type="string">10 gp</price>
 			<weight type="number">0.1</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -4246,6 +4506,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">100 gp</cost>
+			<price type="string">100 gp</price>
 			<weight type="number">0.05</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -4262,6 +4523,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">200 gp</cost>
+			<price type="string">200 gp</price>
 			<weight type="number">0.05</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -4278,6 +4540,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">50 gp</cost>
+			<price type="string">50 gp</price>
 			<weight type="number">0.05</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -4294,6 +4557,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">100 gp</cost>
+			<price type="string">100 gp</price>
 			<weight type="number">0.05</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -4310,6 +4574,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">10 gp</cost>
+			<price type="string">10 gp</price>
 			<weight type="number">0.2</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -4326,6 +4591,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">20 gp</cost>
+			<price type="string">20 gp</price>
 			<weight type="number">0.2</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -4342,6 +4608,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">200 gp</cost>
+			<price type="string">200 gp</price>
 			<weight type="number">0.1</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -4358,6 +4625,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">400 gp</cost>
+			<price type="string">400 gp</price>
 			<weight type="number">0.1</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -4374,6 +4642,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">100 gp</cost>
+			<price type="string">100 gp</price>
 			<weight type="number">0.1</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -4390,6 +4659,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">200 gp</cost>
+			<price type="string">200 gp</price>
 			<weight type="number">0.1</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -4406,6 +4676,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">20 gp</cost>
+			<price type="string">20 gp</price>
 			<weight type="number">0.2</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -4422,6 +4693,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">40 gp</cost>
+			<price type="string">40 gp</price>
 			<weight type="number">0.2</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -4438,6 +4710,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">400 gp</cost>
+			<price type="string">400 gp</price>
 			<weight type="number">0.1</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -4454,6 +4727,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">800 gp</cost>
+			<price type="string">800 gp</price>
 			<weight type="number">0.1</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -4470,6 +4744,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">200 gp</cost>
+			<price type="string">200 gp</price>
 			<weight type="number">0.1</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -4486,6 +4761,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">400 gp</cost>
+			<price type="string">400 gp</price>
 			<weight type="number">0.1</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -4502,6 +4778,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">50 gp</cost>
+			<price type="string">50 gp</price>
 			<weight type="number">1.0</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -4518,6 +4795,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">100 gp</cost>
+			<price type="string">100 gp</price>
 			<weight type="number">1.0</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -4534,6 +4812,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">1000 gp</cost>
+			<price type="string">1000 gp</price>
 			<weight type="number">0.5</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -4550,6 +4829,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">2000 gp</cost>
+			<price type="string">2000 gp</price>
 			<weight type="number">0.5</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -4566,6 +4846,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">500 gp</cost>
+			<price type="string">500 gp</price>
 			<weight type="number">0.5</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -4582,6 +4863,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">1000 gp</cost>
+			<price type="string">1000 gp</price>
 			<weight type="number">0.5</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -4598,6 +4880,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">100 gp</cost>
+			<price type="string">100 gp</price>
 			<weight type="number">1.0</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -4614,6 +4897,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">200 gp</cost>
+			<price type="string">200 gp</price>
 			<weight type="number">1.0</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -4630,6 +4914,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">2000 gp</cost>
+			<price type="string">2000 gp</price>
 			<weight type="number">0.5</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -4646,6 +4931,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">4000 gp</cost>
+			<price type="string">4000 gp</price>
 			<weight type="number">0.5</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -4662,6 +4948,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">1000 gp</cost>
+			<price type="string">1000 gp</price>
 			<weight type="number">0.5</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -4678,6 +4965,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">2000 gp</cost>
+			<price type="string">2000 gp</price>
 			<weight type="number">0.5</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -4694,6 +4982,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">500 gp</cost>
+			<price type="string">500 gp</price>
 			<weight type="number">2.0</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -4710,6 +4999,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">1000 gp</cost>
+			<price type="string">1000 gp</price>
 			<weight type="number">2.0</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -4726,6 +5016,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">10000 gp</cost>
+			<price type="string">10000 gp</price>
 			<weight type="number">1.0</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -4742,6 +5033,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">20000 gp</cost>
+			<price type="string">20000 gp</price>
 			<weight type="number">1.0</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -4758,6 +5050,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">5000 gp</cost>
+			<price type="string">5000 gp</price>
 			<weight type="number">1.0</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -4774,6 +5067,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">10000 gp</cost>
+			<price type="string">10000 gp</price>
 			<weight type="number">1.0</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -4790,6 +5084,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">1000 gp</cost>
+			<price type="string">1000 gp</price>
 			<weight type="number">2.0</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -4806,6 +5101,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">2000 gp</cost>
+			<price type="string">2000 gp</price>
 			<weight type="number">2.0</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -4822,6 +5118,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">20000 gp</cost>
+			<price type="string">20000 gp</price>
 			<weight type="number">1.0</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -4838,6 +5135,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">40000 gp</cost>
+			<price type="string">40000 gp</price>
 			<weight type="number">1.0</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -4854,6 +5152,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">10000 gp</cost>
+			<price type="string">10000 gp</price>
 			<weight type="number">1.0</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -4870,6 +5169,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">20000 gp</cost>
+			<price type="string">20000 gp</price>
 			<weight type="number">1.0</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -4886,6 +5186,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">0 gp</cost>
+			<price type="string">0 gp</price>
 			<weight type="number">0.04</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -4902,6 +5203,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">1 gp</cost>
+			<price type="string">1 gp</price>
 			<weight type="number">0.04</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -4918,6 +5220,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">10 gp</cost>
+			<price type="string">10 gp</price>
 			<weight type="number">0.02</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -4934,6 +5237,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">20 gp</cost>
+			<price type="string">20 gp</price>
 			<weight type="number">0.02</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -4950,6 +5254,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">5 gp</cost>
+			<price type="string">5 gp</price>
 			<weight type="number">0.02</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -4966,6 +5271,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">10 gp</cost>
+			<price type="string">10 gp</price>
 			<weight type="number">0.02</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -4982,6 +5288,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">1 gp</cost>
+			<price type="string">1 gp</price>
 			<weight type="number">0.04</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -4998,6 +5305,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">2 gp</cost>
+			<price type="string">2 gp</price>
 			<weight type="number">0.04</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -5014,6 +5322,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">20 gp</cost>
+			<price type="string">20 gp</price>
 			<weight type="number">0.02</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -5030,6 +5339,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">40 gp</cost>
+			<price type="string">40 gp</price>
 			<weight type="number">0.02</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -5046,6 +5356,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">10 gp</cost>
+			<price type="string">10 gp</price>
 			<weight type="number">0.02</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -5062,6 +5373,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">20 gp</cost>
+			<price type="string">20 gp</price>
 			<weight type="number">0.02</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -5078,6 +5390,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">2 gp</cost>
+			<price type="string">2 gp</price>
 			<weight type="number">0.1</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -5094,6 +5407,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">5 gp</cost>
+			<price type="string">5 gp</price>
 			<weight type="number">0.1</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -5110,6 +5424,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">50 gp</cost>
+			<price type="string">50 gp</price>
 			<weight type="number">0.05</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -5126,6 +5441,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">100 gp</cost>
+			<price type="string">100 gp</price>
 			<weight type="number">0.05</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -5142,6 +5458,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">25 gp</cost>
+			<price type="string">25 gp</price>
 			<weight type="number">0.05</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -5158,6 +5475,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">50 gp</cost>
+			<price type="string">50 gp</price>
 			<weight type="number">0.05</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -5174,6 +5492,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">5 gp</cost>
+			<price type="string">5 gp</price>
 			<weight type="number">0.1</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -5190,6 +5509,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">10 gp</cost>
+			<price type="string">10 gp</price>
 			<weight type="number">0.1</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -5206,6 +5526,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">100 gp</cost>
+			<price type="string">100 gp</price>
 			<weight type="number">0.05</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -5222,6 +5543,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">200 gp</cost>
+			<price type="string">200 gp</price>
 			<weight type="number">0.05</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -5238,6 +5560,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">50 gp</cost>
+			<price type="string">50 gp</price>
 			<weight type="number">0.05</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -5254,6 +5577,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">100 gp</cost>
+			<price type="string">100 gp</price>
 			<weight type="number">0.05</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -5270,6 +5594,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">10 gp</cost>
+			<price type="string">10 gp</price>
 			<weight type="number">0.2</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -5286,6 +5611,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">20 gp</cost>
+			<price type="string">20 gp</price>
 			<weight type="number">0.2</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -5302,6 +5628,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">200 gp</cost>
+			<price type="string">200 gp</price>
 			<weight type="number">0.1</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -5318,6 +5645,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">400 gp</cost>
+			<price type="string">400 gp</price>
 			<weight type="number">0.1</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -5334,6 +5662,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">100 gp</cost>
+			<price type="string">100 gp</price>
 			<weight type="number">0.1</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -5350,6 +5679,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">200 gp</cost>
+			<price type="string">200 gp</price>
 			<weight type="number">0.1</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -5366,6 +5696,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">20 gp</cost>
+			<price type="string">20 gp</price>
 			<weight type="number">0.2</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -5382,6 +5713,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">40 gp</cost>
+			<price type="string">40 gp</price>
 			<weight type="number">0.2</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -5398,6 +5730,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">400 gp</cost>
+			<price type="string">400 gp</price>
 			<weight type="number">0.1</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -5414,6 +5747,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">800 gp</cost>
+			<price type="string">800 gp</price>
 			<weight type="number">0.1</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -5430,6 +5764,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">200 gp</cost>
+			<price type="string">200 gp</price>
 			<weight type="number">0.1</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -5446,6 +5781,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">400 gp</cost>
+			<price type="string">400 gp</price>
 			<weight type="number">0.1</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -5462,6 +5798,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">50 gp</cost>
+			<price type="string">50 gp</price>
 			<weight type="number">1.0</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -5478,6 +5815,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">100 gp</cost>
+			<price type="string">100 gp</price>
 			<weight type="number">1.0</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -5494,6 +5832,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">1000 gp</cost>
+			<price type="string">1000 gp</price>
 			<weight type="number">0.5</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -5510,6 +5849,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">2000 gp</cost>
+			<price type="string">2000 gp</price>
 			<weight type="number">0.5</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -5526,6 +5866,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">500 gp</cost>
+			<price type="string">500 gp</price>
 			<weight type="number">0.5</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -5542,6 +5883,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">1000 gp</cost>
+			<price type="string">1000 gp</price>
 			<weight type="number">0.5</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -5558,6 +5900,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">100 gp</cost>
+			<price type="string">100 gp</price>
 			<weight type="number">1.0</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -5574,6 +5917,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">200 gp</cost>
+			<price type="string">200 gp</price>
 			<weight type="number">1.0</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -5590,6 +5934,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">2000 gp</cost>
+			<price type="string">2000 gp</price>
 			<weight type="number">0.5</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -5606,6 +5951,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">4000 gp</cost>
+			<price type="string">4000 gp</price>
 			<weight type="number">0.5</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -5622,6 +5968,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">1000 gp</cost>
+			<price type="string">1000 gp</price>
 			<weight type="number">0.5</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -5638,6 +5985,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">2000 gp</cost>
+			<price type="string">2000 gp</price>
 			<weight type="number">0.5</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -5654,6 +6002,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">500 gp</cost>
+			<price type="string">500 gp</price>
 			<weight type="number">2.0</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -5670,6 +6019,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">1000 gp</cost>
+			<price type="string">1000 gp</price>
 			<weight type="number">2.0</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -5686,6 +6036,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">10000 gp</cost>
+			<price type="string">10000 gp</price>
 			<weight type="number">1.0</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -5702,6 +6053,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">20000 gp</cost>
+			<price type="string">20000 gp</price>
 			<weight type="number">1.0</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -5718,6 +6070,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">5000 gp</cost>
+			<price type="string">5000 gp</price>
 			<weight type="number">1.0</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -5734,6 +6087,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">10000 gp</cost>
+			<price type="string">10000 gp</price>
 			<weight type="number">1.0</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -5750,6 +6104,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">1000 gp</cost>
+			<price type="string">1000 gp</price>
 			<weight type="number">2.0</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -5766,6 +6121,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">2000 gp</cost>
+			<price type="string">2000 gp</price>
 			<weight type="number">2.0</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -5782,6 +6138,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">20000 gp</cost>
+			<price type="string">20000 gp</price>
 			<weight type="number">1.0</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -5798,6 +6155,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">40000 gp</cost>
+			<price type="string">40000 gp</price>
 			<weight type="number">1.0</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -5814,6 +6172,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">10000 gp</cost>
+			<price type="string">10000 gp</price>
 			<weight type="number">1.0</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -5830,6 +6189,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">20000 gp</cost>
+			<price type="string">20000 gp</price>
 			<weight type="number">1.0</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -5846,6 +6206,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">0 gp</cost>
+			<price type="string">0 gp</price>
 			<weight type="number">0.04</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -5862,6 +6223,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">1 gp</cost>
+			<price type="string">1 gp</price>
 			<weight type="number">0.04</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -5878,6 +6240,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">10 gp</cost>
+			<price type="string">10 gp</price>
 			<weight type="number">0.02</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -5894,6 +6257,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">20 gp</cost>
+			<price type="string">20 gp</price>
 			<weight type="number">0.02</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -5910,6 +6274,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">5 gp</cost>
+			<price type="string">5 gp</price>
 			<weight type="number">0.02</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -5926,6 +6291,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">10 gp</cost>
+			<price type="string">10 gp</price>
 			<weight type="number">0.02</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -5942,6 +6308,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">1 gp</cost>
+			<price type="string">1 gp</price>
 			<weight type="number">0.04</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -5958,6 +6325,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">2 gp</cost>
+			<price type="string">2 gp</price>
 			<weight type="number">0.04</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -5974,6 +6342,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">20 gp</cost>
+			<price type="string">20 gp</price>
 			<weight type="number">0.02</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -5990,6 +6359,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">40 gp</cost>
+			<price type="string">40 gp</price>
 			<weight type="number">0.02</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -6006,6 +6376,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">10 gp</cost>
+			<price type="string">10 gp</price>
 			<weight type="number">0.02</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -6022,6 +6393,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">20 gp</cost>
+			<price type="string">20 gp</price>
 			<weight type="number">0.02</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -6038,6 +6410,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">2 gp</cost>
+			<price type="string">2 gp</price>
 			<weight type="number">0.1</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -6054,6 +6427,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">5 gp</cost>
+			<price type="string">5 gp</price>
 			<weight type="number">0.1</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -6070,6 +6444,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">50 gp</cost>
+			<price type="string">50 gp</price>
 			<weight type="number">0.05</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -6086,6 +6461,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">100 gp</cost>
+			<price type="string">100 gp</price>
 			<weight type="number">0.05</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -6102,6 +6478,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">25 gp</cost>
+			<price type="string">25 gp</price>
 			<weight type="number">0.05</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -6118,6 +6495,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">50 gp</cost>
+			<price type="string">50 gp</price>
 			<weight type="number">0.05</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -6134,6 +6512,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">5 gp</cost>
+			<price type="string">5 gp</price>
 			<weight type="number">0.1</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -6150,6 +6529,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">10 gp</cost>
+			<price type="string">10 gp</price>
 			<weight type="number">0.1</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -6166,6 +6546,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">100 gp</cost>
+			<price type="string">100 gp</price>
 			<weight type="number">0.05</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -6182,6 +6563,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">200 gp</cost>
+			<price type="string">200 gp</price>
 			<weight type="number">0.05</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -6198,6 +6580,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">50 gp</cost>
+			<price type="string">50 gp</price>
 			<weight type="number">0.05</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -6214,6 +6597,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">100 gp</cost>
+			<price type="string">100 gp</price>
 			<weight type="number">0.05</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -6230,6 +6614,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">10 gp</cost>
+			<price type="string">10 gp</price>
 			<weight type="number">0.2</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -6246,6 +6631,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">20 gp</cost>
+			<price type="string">20 gp</price>
 			<weight type="number">0.2</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -6262,6 +6648,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">200 gp</cost>
+			<price type="string">200 gp</price>
 			<weight type="number">0.1</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -6278,6 +6665,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">400 gp</cost>
+			<price type="string">400 gp</price>
 			<weight type="number">0.1</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -6294,6 +6682,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">100 gp</cost>
+			<price type="string">100 gp</price>
 			<weight type="number">0.1</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -6310,6 +6699,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">200 gp</cost>
+			<price type="string">200 gp</price>
 			<weight type="number">0.1</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -6326,6 +6716,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">20 gp</cost>
+			<price type="string">20 gp</price>
 			<weight type="number">0.2</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -6342,6 +6733,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">40 gp</cost>
+			<price type="string">40 gp</price>
 			<weight type="number">0.2</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -6358,6 +6750,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">400 gp</cost>
+			<price type="string">400 gp</price>
 			<weight type="number">0.1</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -6374,6 +6767,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">800 gp</cost>
+			<price type="string">800 gp</price>
 			<weight type="number">0.1</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -6390,6 +6784,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">200 gp</cost>
+			<price type="string">200 gp</price>
 			<weight type="number">0.1</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -6406,6 +6801,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">400 gp</cost>
+			<price type="string">400 gp</price>
 			<weight type="number">0.1</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -6422,6 +6818,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">50 gp</cost>
+			<price type="string">50 gp</price>
 			<weight type="number">1.0</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -6438,6 +6835,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">100 gp</cost>
+			<price type="string">100 gp</price>
 			<weight type="number">1.0</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -6454,6 +6852,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">1000 gp</cost>
+			<price type="string">1000 gp</price>
 			<weight type="number">0.5</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -6470,6 +6869,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">2000 gp</cost>
+			<price type="string">2000 gp</price>
 			<weight type="number">0.5</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -6486,6 +6886,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">500 gp</cost>
+			<price type="string">500 gp</price>
 			<weight type="number">0.5</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -6502,6 +6903,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">1000 gp</cost>
+			<price type="string">1000 gp</price>
 			<weight type="number">0.5</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -6518,6 +6920,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">100 gp</cost>
+			<price type="string">100 gp</price>
 			<weight type="number">1.0</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -6534,6 +6937,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">200 gp</cost>
+			<price type="string">200 gp</price>
 			<weight type="number">1.0</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -6550,6 +6954,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">2000 gp</cost>
+			<price type="string">2000 gp</price>
 			<weight type="number">0.5</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -6566,6 +6971,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">4000 gp</cost>
+			<price type="string">4000 gp</price>
 			<weight type="number">0.5</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -6582,6 +6988,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">1000 gp</cost>
+			<price type="string">1000 gp</price>
 			<weight type="number">0.5</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -6598,6 +7005,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">2000 gp</cost>
+			<price type="string">2000 gp</price>
 			<weight type="number">0.5</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -6614,6 +7022,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">500 gp</cost>
+			<price type="string">500 gp</price>
 			<weight type="number">2.0</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -6630,6 +7039,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">1000 gp</cost>
+			<price type="string">1000 gp</price>
 			<weight type="number">2.0</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -6646,6 +7056,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">10000 gp</cost>
+			<price type="string">10000 gp</price>
 			<weight type="number">1.0</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -6662,6 +7073,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">20000 gp</cost>
+			<price type="string">20000 gp</price>
 			<weight type="number">1.0</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -6678,6 +7090,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">5000 gp</cost>
+			<price type="string">5000 gp</price>
 			<weight type="number">1.0</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -6694,6 +7107,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">10000 gp</cost>
+			<price type="string">10000 gp</price>
 			<weight type="number">1.0</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -6710,6 +7124,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">1000 gp</cost>
+			<price type="string">1000 gp</price>
 			<weight type="number">2.0</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -6726,6 +7141,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">2000 gp</cost>
+			<price type="string">2000 gp</price>
 			<weight type="number">2.0</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -6742,6 +7158,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">20000 gp</cost>
+			<price type="string">20000 gp</price>
 			<weight type="number">1.0</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -6758,6 +7175,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">40000 gp</cost>
+			<price type="string">40000 gp</price>
 			<weight type="number">1.0</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -6774,6 +7192,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">10000 gp</cost>
+			<price type="string">10000 gp</price>
 			<weight type="number">1.0</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -6790,6 +7209,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">20000 gp</cost>
+			<price type="string">20000 gp</price>
 			<weight type="number">1.0</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -6806,6 +7226,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">0 gp</cost>
+			<price type="string">0 gp</price>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00421>
@@ -6821,6 +7242,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">2 gp</cost>
+			<price type="string">2 gp</price>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00422>
@@ -6836,6 +7258,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">10 gp</cost>
+			<price type="string">10 gp</price>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00423>
@@ -6851,6 +7274,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">5 gp</cost>
+			<price type="string">5 gp</price>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00424>
@@ -6866,6 +7290,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">1 gp</cost>
+			<price type="string">1 gp</price>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00425>
@@ -6881,6 +7306,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">5 gp</cost>
+			<price type="string">5 gp</price>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00426>
@@ -6896,6 +7322,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">20 gp</cost>
+			<price type="string">20 gp</price>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00427>
@@ -6911,6 +7338,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">10 gp</cost>
+			<price type="string">10 gp</price>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00428>
@@ -6926,6 +7354,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">2 gp</cost>
+			<price type="string">2 gp</price>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00429>
@@ -6941,6 +7370,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">12 gp</cost>
+			<price type="string">12 gp</price>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00430>
@@ -6956,6 +7386,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">50 gp</cost>
+			<price type="string">50 gp</price>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00431>
@@ -6971,6 +7402,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">25 gp</cost>
+			<price type="string">25 gp</price>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00432>
@@ -6986,6 +7418,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">5 gp</cost>
+			<price type="string">5 gp</price>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00433>
@@ -7001,6 +7434,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">25 gp</cost>
+			<price type="string">25 gp</price>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00434>
@@ -7016,6 +7450,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">100 gp</cost>
+			<price type="string">100 gp</price>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00435>
@@ -7031,6 +7466,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">50 gp</cost>
+			<price type="string">50 gp</price>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00436>
@@ -7046,6 +7482,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">10 gp</cost>
+			<price type="string">10 gp</price>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00437>
@@ -7061,6 +7498,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">50 gp</cost>
+			<price type="string">50 gp</price>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00438>
@@ -7076,6 +7514,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">200 gp</cost>
+			<price type="string">200 gp</price>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00439>
@@ -7091,6 +7530,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">100 gp</cost>
+			<price type="string">100 gp</price>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00440>
@@ -7106,6 +7546,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">20 gp</cost>
+			<price type="string">20 gp</price>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00441>
@@ -7121,6 +7562,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">100 gp</cost>
+			<price type="string">100 gp</price>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00442>
@@ -7136,6 +7578,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">400 gp</cost>
+			<price type="string">400 gp</price>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00443>
@@ -7151,6 +7594,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">200 gp</cost>
+			<price type="string">200 gp</price>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00444>
@@ -7166,6 +7610,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">50 gp</cost>
+			<price type="string">50 gp</price>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00445>
@@ -7181,6 +7626,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">250 gp</cost>
+			<price type="string">250 gp</price>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00446>
@@ -7196,6 +7642,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">1000 gp</cost>
+			<price type="string">1000 gp</price>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00447>
@@ -7211,6 +7658,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">500 gp</cost>
+			<price type="string">500 gp</price>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00448>
@@ -7226,6 +7674,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">100 gp</cost>
+			<price type="string">100 gp</price>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00449>
@@ -7241,6 +7690,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">500 gp</cost>
+			<price type="string">500 gp</price>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00450>
@@ -7256,6 +7706,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">2000 gp</cost>
+			<price type="string">2000 gp</price>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00451>
@@ -7271,6 +7722,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">1000 gp</cost>
+			<price type="string">1000 gp</price>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00452>
@@ -7286,6 +7738,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">0 gp</cost>
+			<price type="string">0 gp</price>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00453>
@@ -7301,6 +7754,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">3 gp</cost>
+			<price type="string">3 gp</price>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00454>
@@ -7316,6 +7770,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">15 gp</cost>
+			<price type="string">15 gp</price>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00455>
@@ -7331,6 +7786,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">7 gp</cost>
+			<price type="string">7 gp</price>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00456>
@@ -7346,6 +7802,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">1 gp</cost>
+			<price type="string">1 gp</price>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00457>
@@ -7361,6 +7818,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">7 gp</cost>
+			<price type="string">7 gp</price>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00458>
@@ -7376,6 +7834,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">30 gp</cost>
+			<price type="string">30 gp</price>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00459>
@@ -7391,6 +7850,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">15 gp</cost>
+			<price type="string">15 gp</price>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00460>
@@ -7406,6 +7866,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">3 gp</cost>
+			<price type="string">3 gp</price>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00461>
@@ -7421,6 +7882,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">18 gp</cost>
+			<price type="string">18 gp</price>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00462>
@@ -7436,6 +7898,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">75 gp</cost>
+			<price type="string">75 gp</price>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00463>
@@ -7451,6 +7914,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">37 gp</cost>
+			<price type="string">37 gp</price>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00464>
@@ -7466,6 +7930,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">7 gp</cost>
+			<price type="string">7 gp</price>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00465>
@@ -7481,6 +7946,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">37 gp</cost>
+			<price type="string">37 gp</price>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00466>
@@ -7496,6 +7962,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">150 gp</cost>
+			<price type="string">150 gp</price>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00467>
@@ -7511,6 +7978,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">75 gp</cost>
+			<price type="string">75 gp</price>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00468>
@@ -7526,6 +7994,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">15 gp</cost>
+			<price type="string">15 gp</price>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00469>
@@ -7541,6 +8010,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">75 gp</cost>
+			<price type="string">75 gp</price>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00470>
@@ -7556,6 +8026,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">300 gp</cost>
+			<price type="string">300 gp</price>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00471>
@@ -7571,6 +8042,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">150 gp</cost>
+			<price type="string">150 gp</price>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00472>
@@ -7586,6 +8058,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">30 gp</cost>
+			<price type="string">30 gp</price>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00473>
@@ -7601,6 +8074,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">150 gp</cost>
+			<price type="string">150 gp</price>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00474>
@@ -7616,6 +8090,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">600 gp</cost>
+			<price type="string">600 gp</price>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00475>
@@ -7631,6 +8106,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">300 gp</cost>
+			<price type="string">300 gp</price>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00476>
@@ -7646,6 +8122,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">75 gp</cost>
+			<price type="string">75 gp</price>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00477>
@@ -7661,6 +8138,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">375 gp</cost>
+			<price type="string">375 gp</price>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00478>
@@ -7676,6 +8154,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">1500 gp</cost>
+			<price type="string">1500 gp</price>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00479>
@@ -7691,6 +8170,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">750 gp</cost>
+			<price type="string">750 gp</price>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00480>
@@ -7706,6 +8186,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">150 gp</cost>
+			<price type="string">150 gp</price>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00481>
@@ -7721,6 +8202,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">750 gp</cost>
+			<price type="string">750 gp</price>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00482>
@@ -7736,6 +8218,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">3000 gp</cost>
+			<price type="string">3000 gp</price>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00483>
@@ -7751,6 +8234,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">1500 gp</cost>
+			<price type="string">1500 gp</price>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00484>
@@ -7766,6 +8250,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">1 gp</cost>
+			<price type="string">1 gp</price>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00485>
@@ -7781,6 +8266,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">25 gp</cost>
+			<price type="string">25 gp</price>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00486>
@@ -7796,6 +8282,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">25 gp</cost>
+			<price type="string">25 gp</price>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00487>
@@ -7811,6 +8298,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">25 gp</cost>
+			<price type="string">25 gp</price>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00488>
@@ -7826,6 +8314,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">37 gp</cost>
+			<price type="string">37 gp</price>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00489>
@@ -7841,6 +8330,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">2 gp</cost>
+			<price type="string">2 gp</price>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00490>
@@ -7856,6 +8346,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">50 gp</cost>
+			<price type="string">50 gp</price>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00491>
@@ -7871,6 +8362,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">50 gp</cost>
+			<price type="string">50 gp</price>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00492>
@@ -7886,6 +8378,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">50 gp</cost>
+			<price type="string">50 gp</price>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00493>
@@ -7901,6 +8394,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">75 gp</cost>
+			<price type="string">75 gp</price>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00494>
@@ -7916,6 +8410,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">12 gp</cost>
+			<price type="string">12 gp</price>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00495>
@@ -7931,6 +8426,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">250 gp</cost>
+			<price type="string">250 gp</price>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00496>
@@ -7946,6 +8442,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">250 gp</cost>
+			<price type="string">250 gp</price>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00497>
@@ -7961,6 +8458,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">250 gp</cost>
+			<price type="string">250 gp</price>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00498>
@@ -7976,6 +8474,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">375 gp</cost>
+			<price type="string">375 gp</price>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00499>
@@ -7991,6 +8490,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">2 gp</cost>
+			<price type="string">2 gp</price>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00500>
@@ -8006,6 +8506,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">50 gp</cost>
+			<price type="string">50 gp</price>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00501>
@@ -8021,6 +8522,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">50 gp</cost>
+			<price type="string">50 gp</price>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00502>
@@ -8036,6 +8538,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">50 gp</cost>
+			<price type="string">50 gp</price>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00503>
@@ -8051,6 +8554,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">75 gp</cost>
+			<price type="string">75 gp</price>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00504>
@@ -8066,6 +8570,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">5 gp</cost>
+			<price type="string">5 gp</price>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00505>
@@ -8081,6 +8586,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">100 gp</cost>
+			<price type="string">100 gp</price>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00506>
@@ -8096,6 +8602,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">100 gp</cost>
+			<price type="string">100 gp</price>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00507>
@@ -8111,6 +8618,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">100 gp</cost>
+			<price type="string">100 gp</price>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00508>
@@ -8126,6 +8634,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">150 gp</cost>
+			<price type="string">150 gp</price>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00509>
@@ -8141,6 +8650,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">25 gp</cost>
+			<price type="string">25 gp</price>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00510>
@@ -8156,6 +8666,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">500 gp</cost>
+			<price type="string">500 gp</price>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00511>
@@ -8171,6 +8682,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">500 gp</cost>
+			<price type="string">500 gp</price>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00512>
@@ -8186,6 +8698,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">500 gp</cost>
+			<price type="string">500 gp</price>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00513>
@@ -8201,6 +8714,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">750 gp</cost>
+			<price type="string">750 gp</price>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00514>
@@ -8216,6 +8730,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">12 gp</cost>
+			<price type="string">12 gp</price>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00515>
@@ -8231,6 +8746,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">250 gp</cost>
+			<price type="string">250 gp</price>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00516>
@@ -8246,6 +8762,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">250 gp</cost>
+			<price type="string">250 gp</price>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00517>
@@ -8261,6 +8778,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">250 gp</cost>
+			<price type="string">250 gp</price>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00518>
@@ -8276,6 +8794,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">375 gp</cost>
+			<price type="string">375 gp</price>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00519>
@@ -8291,6 +8810,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">25 gp</cost>
+			<price type="string">25 gp</price>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00520>
@@ -8306,6 +8826,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">500 gp</cost>
+			<price type="string">500 gp</price>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00521>
@@ -8321,6 +8842,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">500 gp</cost>
+			<price type="string">500 gp</price>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00522>
@@ -8336,6 +8858,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">500 gp</cost>
+			<price type="string">500 gp</price>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00523>
@@ -8351,6 +8874,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">750 gp</cost>
+			<price type="string">750 gp</price>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00524>
@@ -8366,6 +8890,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">125 gp</cost>
+			<price type="string">125 gp</price>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00525>
@@ -8381,6 +8906,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">2500 gp</cost>
+			<price type="string">2500 gp</price>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00526>
@@ -8396,6 +8922,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">2500 gp</cost>
+			<price type="string">2500 gp</price>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00527>
@@ -8411,6 +8938,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">2500 gp</cost>
+			<price type="string">2500 gp</price>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00528>
@@ -8426,6 +8954,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">3750 gp</cost>
+			<price type="string">3750 gp</price>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00529>
@@ -8441,6 +8970,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">50 gp</cost>
+			<price type="string">50 gp</price>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00530>
@@ -8456,6 +8986,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">1000 gp</cost>
+			<price type="string">1000 gp</price>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00531>
@@ -8471,6 +9002,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">1000 gp</cost>
+			<price type="string">1000 gp</price>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00532>
@@ -8486,6 +9018,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">1000 gp</cost>
+			<price type="string">1000 gp</price>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00533>
@@ -8501,6 +9034,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">1500 gp</cost>
+			<price type="string">1500 gp</price>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00534>
@@ -8516,6 +9050,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">100 gp</cost>
+			<price type="string">100 gp</price>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00535>
@@ -8531,6 +9066,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">2000 gp</cost>
+			<price type="string">2000 gp</price>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00536>
@@ -8546,6 +9082,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">2000 gp</cost>
+			<price type="string">2000 gp</price>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00537>
@@ -8561,6 +9098,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">2000 gp</cost>
+			<price type="string">2000 gp</price>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00538>
@@ -8576,6 +9114,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">3000 gp</cost>
+			<price type="string">3000 gp</price>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00539>
@@ -8591,6 +9130,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">500 gp</cost>
+			<price type="string">500 gp</price>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00540>
@@ -8606,6 +9146,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">10000 gp</cost>
+			<price type="string">10000 gp</price>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00541>
@@ -8621,6 +9162,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">10000 gp</cost>
+			<price type="string">10000 gp</price>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00542>
@@ -8636,6 +9178,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">10000 gp</cost>
+			<price type="string">10000 gp</price>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00543>
@@ -8651,6 +9194,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">15000 gp</cost>
+			<price type="string">15000 gp</price>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00544>
@@ -8666,6 +9210,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">1 gp</cost>
+			<price type="string">1 gp</price>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00545>
@@ -8681,6 +9226,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">25 gp</cost>
+			<price type="string">25 gp</price>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00546>
@@ -8696,6 +9242,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">25 gp</cost>
+			<price type="string">25 gp</price>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00547>
@@ -8711,6 +9258,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">25 gp</cost>
+			<price type="string">25 gp</price>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00548>
@@ -8726,6 +9274,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">37 gp</cost>
+			<price type="string">37 gp</price>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00549>
@@ -8741,6 +9290,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">2 gp</cost>
+			<price type="string">2 gp</price>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00550>
@@ -8756,6 +9306,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">50 gp</cost>
+			<price type="string">50 gp</price>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00551>
@@ -8771,6 +9322,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">50 gp</cost>
+			<price type="string">50 gp</price>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00552>
@@ -8786,6 +9338,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">50 gp</cost>
+			<price type="string">50 gp</price>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00553>
@@ -8801,6 +9354,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">75 gp</cost>
+			<price type="string">75 gp</price>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00554>
@@ -8816,6 +9370,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">12 gp</cost>
+			<price type="string">12 gp</price>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00555>
@@ -8831,6 +9386,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">250 gp</cost>
+			<price type="string">250 gp</price>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00556>
@@ -8846,6 +9402,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">250 gp</cost>
+			<price type="string">250 gp</price>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00557>
@@ -8861,6 +9418,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">250 gp</cost>
+			<price type="string">250 gp</price>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00558>
@@ -8876,6 +9434,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">375 gp</cost>
+			<price type="string">375 gp</price>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00559>
@@ -8891,6 +9450,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">2 gp</cost>
+			<price type="string">2 gp</price>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00560>
@@ -8906,6 +9466,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">50 gp</cost>
+			<price type="string">50 gp</price>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00561>
@@ -8921,6 +9482,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">50 gp</cost>
+			<price type="string">50 gp</price>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00562>
@@ -8936,6 +9498,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">50 gp</cost>
+			<price type="string">50 gp</price>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00563>
@@ -8951,6 +9514,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">75 gp</cost>
+			<price type="string">75 gp</price>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00564>
@@ -8966,6 +9530,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">5 gp</cost>
+			<price type="string">5 gp</price>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00565>
@@ -8981,6 +9546,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">100 gp</cost>
+			<price type="string">100 gp</price>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00566>
@@ -8996,6 +9562,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">100 gp</cost>
+			<price type="string">100 gp</price>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00567>
@@ -9011,6 +9578,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">100 gp</cost>
+			<price type="string">100 gp</price>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00568>
@@ -9026,6 +9594,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">150 gp</cost>
+			<price type="string">150 gp</price>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00569>
@@ -9041,6 +9610,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">25 gp</cost>
+			<price type="string">25 gp</price>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00570>
@@ -9056,6 +9626,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">500 gp</cost>
+			<price type="string">500 gp</price>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00571>
@@ -9071,6 +9642,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">500 gp</cost>
+			<price type="string">500 gp</price>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00572>
@@ -9086,6 +9658,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">500 gp</cost>
+			<price type="string">500 gp</price>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00573>
@@ -9101,6 +9674,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">750 gp</cost>
+			<price type="string">750 gp</price>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00574>
@@ -9116,6 +9690,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">12 gp</cost>
+			<price type="string">12 gp</price>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00575>
@@ -9131,6 +9706,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">250 gp</cost>
+			<price type="string">250 gp</price>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00576>
@@ -9146,6 +9722,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">250 gp</cost>
+			<price type="string">250 gp</price>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00577>
@@ -9161,6 +9738,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">250 gp</cost>
+			<price type="string">250 gp</price>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00578>
@@ -9176,6 +9754,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">375 gp</cost>
+			<price type="string">375 gp</price>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00579>
@@ -9191,6 +9770,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">25 gp</cost>
+			<price type="string">25 gp</price>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00580>
@@ -9206,6 +9786,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">500 gp</cost>
+			<price type="string">500 gp</price>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00581>
@@ -9221,6 +9802,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">500 gp</cost>
+			<price type="string">500 gp</price>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00582>
@@ -9236,6 +9818,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">500 gp</cost>
+			<price type="string">500 gp</price>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00583>
@@ -9251,6 +9834,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">750 gp</cost>
+			<price type="string">750 gp</price>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00584>
@@ -9266,6 +9850,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">125 gp</cost>
+			<price type="string">125 gp</price>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00585>
@@ -9281,6 +9866,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">2500 gp</cost>
+			<price type="string">2500 gp</price>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00586>
@@ -9296,6 +9882,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">2500 gp</cost>
+			<price type="string">2500 gp</price>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00587>
@@ -9311,6 +9898,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">2500 gp</cost>
+			<price type="string">2500 gp</price>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00588>
@@ -9326,6 +9914,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">3750 gp</cost>
+			<price type="string">3750 gp</price>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00589>
@@ -9341,6 +9930,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">50 gp</cost>
+			<price type="string">50 gp</price>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00590>
@@ -9356,6 +9946,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">1000 gp</cost>
+			<price type="string">1000 gp</price>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00591>
@@ -9371,6 +9962,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">1000 gp</cost>
+			<price type="string">1000 gp</price>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00592>
@@ -9386,6 +9978,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">1000 gp</cost>
+			<price type="string">1000 gp</price>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00593>
@@ -9401,6 +9994,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">1500 gp</cost>
+			<price type="string">1500 gp</price>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00594>
@@ -9416,6 +10010,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">100 gp</cost>
+			<price type="string">100 gp</price>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00595>
@@ -9431,6 +10026,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">2000 gp</cost>
+			<price type="string">2000 gp</price>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00596>
@@ -9446,6 +10042,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">2000 gp</cost>
+			<price type="string">2000 gp</price>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00597>
@@ -9461,6 +10058,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">2000 gp</cost>
+			<price type="string">2000 gp</price>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00598>
@@ -9476,6 +10074,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">3000 gp</cost>
+			<price type="string">3000 gp</price>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00599>
@@ -9491,6 +10090,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">500 gp</cost>
+			<price type="string">500 gp</price>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00600>
@@ -9506,6 +10106,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">10000 gp</cost>
+			<price type="string">10000 gp</price>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00601>
@@ -9521,6 +10122,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">10000 gp</cost>
+			<price type="string">10000 gp</price>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00602>
@@ -9536,6 +10138,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">10000 gp</cost>
+			<price type="string">10000 gp</price>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00603>
@@ -9551,6 +10154,7 @@
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
 			<cost type="string">15000 gp</cost>
+			<price type="string">15000 gp</price>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00604>

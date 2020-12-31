@@ -72,6 +72,9 @@ class FGItem:
             cost = ET.SubElement(item_xml, 'cost',
                                  {'type': 'string'})
             cost.text = self.cost
+            price = ET.SubElement(item_xml, 'price',
+                                  {'type': 'string'})
+            price.text = self.cost
         if self.weight is not None:
             nonid_weight = ET.SubElement(item_xml, 'weight',
                                          {'type': 'number'})
@@ -357,14 +360,14 @@ def generate_items(definitions: dict) -> list:
                 subtype = base_item['subtype']
             for mod in mod_combo:
                 if mod['mod_type'] == 'varieties' and 'subtype' in mod.keys():
-                    item_type = mod['subtype']
+                    subtype = mod['subtype']
             # is the item locked - default yes
             locked = 1
             if 'locked' in base_item.keys():
                 locked = base_item['locked']
             for mod in mod_combo:
                 if mod['mod_type'] == 'varieties' and 'locked' in mod.keys():
-                    item_type = mod['locked']
+                    locked = mod['locked']
             # is the item identified - default yes
             identified = 1
             if 'identified' in base_item.keys():

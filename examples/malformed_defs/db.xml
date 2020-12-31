@@ -93,6 +93,7 @@
 			<type type="string">Malformed</type>
 			<subtype type="string">Malformed</subtype>
 			<cost type="string">10 gp</cost>
+			<price type="string">10 gp</price>
 			<weight type="number">0.5</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -109,6 +110,7 @@
 			<type type="string">Malformed</type>
 			<subtype type="string">Malformed</subtype>
 			<cost type="string">10 gp</cost>
+			<price type="string">10 gp</price>
 			<weight type="number">1.02</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -125,6 +127,7 @@
 			<type type="string">Malformed</type>
 			<subtype type="string">Malformed</subtype>
 			<cost type="string">50 gp</cost>
+			<price type="string">50 gp</price>
 			<weight type="number">0.5</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -141,6 +144,7 @@
 			<type type="string">Malformed</type>
 			<subtype type="string">Malformed</subtype>
 			<cost type="string">100 gp</cost>
+			<price type="string">100 gp</price>
 			<weight type="number">0.5</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -157,6 +161,7 @@
 			<type type="string">Malformed</type>
 			<subtype type="string">Malformed</subtype>
 			<cost type="string">100 gp</cost>
+			<price type="string">100 gp</price>
 			<weight type="number">0.5</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -173,6 +178,7 @@
 			<type type="string">Malformed</type>
 			<subtype type="string">Malformed</subtype>
 			<cost type="string">100 gp</cost>
+			<price type="string">100 gp</price>
 			<weight type="number">2</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -189,6 +195,7 @@
 			<type type="string">Malformed</type>
 			<subtype type="string">Malformed</subtype>
 			<cost type="string">15 gp</cost>
+			<price type="string">15 gp</price>
 			<weight type="number">0.5</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -205,6 +212,7 @@
 			<type type="string">Malformed</type>
 			<subtype type="string">Malformed</subtype>
 			<cost type="string">15 gp</cost>
+			<price type="string">15 gp</price>
 			<weight type="number">1.02</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -221,6 +229,7 @@
 			<type type="string">Malformed</type>
 			<subtype type="string">Malformed</subtype>
 			<cost type="string">75 gp</cost>
+			<price type="string">75 gp</price>
 			<weight type="number">0.5</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -237,6 +246,7 @@
 			<type type="string">Malformed</type>
 			<subtype type="string">Malformed</subtype>
 			<cost type="string">100 gp</cost>
+			<price type="string">100 gp</price>
 			<weight type="number">0.5</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -253,6 +263,7 @@
 			<type type="string">Malformed</type>
 			<subtype type="string">Malformed</subtype>
 			<cost type="string">100 gp</cost>
+			<price type="string">100 gp</price>
 			<weight type="number">0.5</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -269,6 +280,7 @@
 			<type type="string">Malformed</type>
 			<subtype type="string">Malformed</subtype>
 			<cost type="string">100 gp</cost>
+			<price type="string">100 gp</price>
 			<weight type="number">2</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>

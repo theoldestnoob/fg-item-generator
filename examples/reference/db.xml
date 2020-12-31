@@ -91,6 +91,7 @@
 			<type type="string">Miscellaneous</type>
 			<subtype type="string">Examples</subtype>
 			<cost type="string">2000 dollars</cost>
+			<price type="string">2000 dollars</price>
 			<weight type="number">1</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -107,6 +108,7 @@
 			<type type="string">Miscellaneous</type>
 			<subtype type="string">Examples</subtype>
 			<cost type="string">500 dollars</cost>
+			<price type="string">500 dollars</price>
 			<weight type="number">1</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -123,6 +125,7 @@
 			<type type="string">Miscellaneous</type>
 			<subtype type="string">Examples</subtype>
 			<cost type="string">2000 dollars</cost>
+			<price type="string">2000 dollars</price>
 			<weight type="number">1</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -139,6 +142,7 @@
 			<type type="string">Miscellaneous</type>
 			<subtype type="string">Examples</subtype>
 			<cost type="string">300 dollars</cost>
+			<price type="string">300 dollars</price>
 			<weight type="number">1</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -155,6 +159,7 @@
 			<type type="string">Miscellaneous</type>
 			<subtype type="string">Examples</subtype>
 			<cost type="string">1010 dollars</cost>
+			<price type="string">1010 dollars</price>
 			<weight type="number">1</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -171,6 +176,7 @@
 			<type type="string">Miscellaneous</type>
 			<subtype type="string">Examples</subtype>
 			<cost type="string">990 dollars</cost>
+			<price type="string">990 dollars</price>
 			<weight type="number">1</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -187,6 +193,7 @@
 			<type type="string">Miscellaneous</type>
 			<subtype type="string">Examples</subtype>
 			<cost type="string">300 dollars</cost>
+			<price type="string">300 dollars</price>
 			<weight type="number">2.5</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -203,6 +210,7 @@
 			<type type="string">Miscellaneous</type>
 			<subtype type="string">Examples</subtype>
 			<cost type="string">300 dollars</cost>
+			<price type="string">300 dollars</price>
 			<weight type="number">2.5</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -219,6 +227,7 @@
 			<type type="string">Miscellaneous</type>
 			<subtype type="string">Examples</subtype>
 			<cost type="string">300 dollars</cost>
+			<price type="string">300 dollars</price>
 			<weight type="number">2.5</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -235,6 +244,7 @@
 			<type type="string">Miscellaneous</type>
 			<subtype type="string">Examples</subtype>
 			<cost type="string">300 dollars</cost>
+			<price type="string">300 dollars</price>
 			<weight type="number">2.5</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -251,6 +261,7 @@
 			<type type="string">Miscellaneous</type>
 			<subtype type="string">Examples</subtype>
 			<cost type="string">300 dollars</cost>
+			<price type="string">300 dollars</price>
 			<weight type="number">2.5</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -267,6 +278,7 @@
 			<type type="string">Miscellaneous</type>
 			<subtype type="string">Examples</subtype>
 			<cost type="string">300 dollars</cost>
+			<price type="string">300 dollars</price>
 			<weight type="number">2.5</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -280,12 +292,13 @@
 			<nonid_name type="string">Unidentified Base Item 1</nonid_name>
 			<nonidentified type="string">Description when unidentified. This Base Item 1 looks expensive. Here is an extra variable.</nonidentified>
 			<nonid_notes type="string">Description when unidentified. This Base Item 1 looks expensive. Here is an extra variable.</nonid_notes>
-			<type type="string"/>
-			<subtype type="string">Examples</subtype>
+			<type type="string">Treasure</type>
+			<subtype type="string">Art Objects</subtype>
 			<cost type="string">20 gp</cost>
+			<price type="string">20 gp</price>
 			<weight type="number">2</weight>
 			<isidentified type="number">1</isidentified>
-			<locked type="number">1</locked>
+			<locked type="number">0</locked>
 		</id-00013>
 		<id-00014>
 			<name type="string">Base Item 1, Variety3, Mod: half</name>
@@ -296,12 +309,13 @@
 			<nonid_name type="string">Unidentified Base Item 1</nonid_name>
 			<nonidentified type="string">Description when unidentified. This Base Item 1 looks cheap. Here is an extra variable.</nonidentified>
 			<nonid_notes type="string">Description when unidentified. This Base Item 1 looks cheap. Here is an extra variable.</nonid_notes>
-			<type type="string"/>
-			<subtype type="string">Examples</subtype>
+			<type type="string">Treasure</type>
+			<subtype type="string">Art Objects</subtype>
 			<cost type="string">5.0 gp</cost>
+			<price type="string">5.0 gp</price>
 			<weight type="number">2</weight>
 			<isidentified type="number">1</isidentified>
-			<locked type="number">1</locked>
+			<locked type="number">0</locked>
 		</id-00014>
 		<id-00015>
 			<name type="string">Base Item 1, Variety3, Mod: triple (alternate multiplication)</name>
@@ -312,12 +326,13 @@
 			<nonid_name type="string">Unidentified Base Item 1</nonid_name>
 			<nonidentified type="string">Description when unidentified. This Base Item 1 looks really expensive. Here is an extra variable.</nonidentified>
 			<nonid_notes type="string">Description when unidentified. This Base Item 1 looks really expensive. Here is an extra variable.</nonid_notes>
-			<type type="string"/>
-			<subtype type="string">Examples</subtype>
+			<type type="string">Treasure</type>
+			<subtype type="string">Art Objects</subtype>
 			<cost type="string">20.0 gp</cost>
+			<price type="string">20.0 gp</price>
 			<weight type="number">2</weight>
 			<isidentified type="number">1</isidentified>
-			<locked type="number">1</locked>
+			<locked type="number">0</locked>
 		</id-00015>
 		<id-00016>
 			<name type="string">Base Item 1, Variety3, Mod: fifth (alternate multiplication)</name>
@@ -328,12 +343,13 @@
 			<nonid_name type="string">Unidentified Base Item 1</nonid_name>
 			<nonidentified type="string">Description when unidentified. This Base Item 1 looks really cheap. Here is an extra variable.</nonidentified>
 			<nonid_notes type="string">Description when unidentified. This Base Item 1 looks really cheap. Here is an extra variable.</nonid_notes>
-			<type type="string"/>
-			<subtype type="string">Examples</subtype>
+			<type type="string">Treasure</type>
+			<subtype type="string">Art Objects</subtype>
 			<cost type="string">2.0 gp</cost>
+			<price type="string">2.0 gp</price>
 			<weight type="number">2</weight>
 			<isidentified type="number">1</isidentified>
-			<locked type="number">1</locked>
+			<locked type="number">0</locked>
 		</id-00016>
 		<id-00017>
 			<name type="string">Base Item 1, Variety3, Mod: add 10</name>
@@ -344,12 +360,13 @@
 			<nonid_name type="string">Unidentified Base Item 1</nonid_name>
 			<nonidentified type="string">Description when unidentified. This Base Item 1 looks a bit more expensive than normal. Here is an extra variable.</nonidentified>
 			<nonid_notes type="string">Description when unidentified. This Base Item 1 looks a bit more expensive than normal. Here is an extra variable.</nonid_notes>
-			<type type="string"/>
-			<subtype type="string">Examples</subtype>
+			<type type="string">Treasure</type>
+			<subtype type="string">Art Objects</subtype>
 			<cost type="string">20.0 gp</cost>
+			<price type="string">20.0 gp</price>
 			<weight type="number">2</weight>
 			<isidentified type="number">1</isidentified>
-			<locked type="number">1</locked>
+			<locked type="number">0</locked>
 		</id-00017>
 		<id-00018>
 			<name type="string">Base Item 1, Variety3, Mod: subtract 10</name>
@@ -360,12 +377,13 @@
 			<nonid_name type="string">Unidentified Base Item 1</nonid_name>
 			<nonidentified type="string">Description when unidentified. This Base Item 1 looks a bit less expensive than normal. Here is an extra variable.</nonidentified>
 			<nonid_notes type="string">Description when unidentified. This Base Item 1 looks a bit less expensive than normal. Here is an extra variable.</nonid_notes>
-			<type type="string"/>
-			<subtype type="string">Examples</subtype>
+			<type type="string">Treasure</type>
+			<subtype type="string">Art Objects</subtype>
 			<cost type="string">1 gp</cost>
+			<price type="string">1 gp</price>
 			<weight type="number">2</weight>
 			<isidentified type="number">1</isidentified>
-			<locked type="number">1</locked>
+			<locked type="number">0</locked>
 		</id-00018>
 		<id-00019>
 			<name type="string">Base Item 1, Variety4, Mod: double</name>
@@ -379,6 +397,7 @@
 			<type type="string">Miscellaneous</type>
 			<subtype type="string">Examples</subtype>
 			<cost type="string">2000 dollars</cost>
+			<price type="string">2000 dollars</price>
 			<weight type="number">1</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -395,6 +414,7 @@
 			<type type="string">Miscellaneous</type>
 			<subtype type="string">Examples</subtype>
 			<cost type="string">500 dollars</cost>
+			<price type="string">500 dollars</price>
 			<weight type="number">1</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -411,6 +431,7 @@
 			<type type="string">Miscellaneous</type>
 			<subtype type="string">Examples</subtype>
 			<cost type="string">2000 dollars</cost>
+			<price type="string">2000 dollars</price>
 			<weight type="number">1</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -427,6 +448,7 @@
 			<type type="string">Miscellaneous</type>
 			<subtype type="string">Examples</subtype>
 			<cost type="string">300 dollars</cost>
+			<price type="string">300 dollars</price>
 			<weight type="number">1</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -443,6 +465,7 @@
 			<type type="string">Miscellaneous</type>
 			<subtype type="string">Examples</subtype>
 			<cost type="string">1010 dollars</cost>
+			<price type="string">1010 dollars</price>
 			<weight type="number">1</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
@@ -459,6 +482,7 @@
 			<type type="string">Miscellaneous</type>
 			<subtype type="string">Examples</subtype>
 			<cost type="string">990 dollars</cost>
+			<price type="string">990 dollars</price>
 			<weight type="number">1</weight>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>

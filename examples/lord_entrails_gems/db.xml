@@ -3176,7 +3176,7 @@
 			<locked type="number">1</locked>
 		</id-00258>
 		<id-00259>
-			<name type="string">Corundum, Tiny</name>
+			<name type="string">Corundum Firey Yellow, Tiny</name>
 			<description type="formattedtext">1/8&quot; diameter cut and polished Corundum gemstone</description>
 			<flavor type="string">1/8&quot; diameter cut and polished Corundum gemstone</flavor>
 			<notes type="formattedtext">1/8&quot; diameter cut and polished Corundum gemstone</notes>
@@ -3188,7 +3188,7 @@
 			<locked type="number">1</locked>
 		</id-00259>
 		<id-00260>
-			<name type="string">Corundum, Small</name>
+			<name type="string">Corundum Firey Yellow, Small</name>
 			<description type="formattedtext">1/4&quot; diameter cut and polished Corundum gemstone</description>
 			<flavor type="string">1/4&quot; diameter cut and polished Corundum gemstone</flavor>
 			<notes type="formattedtext">1/4&quot; diameter cut and polished Corundum gemstone</notes>
@@ -3200,7 +3200,7 @@
 			<locked type="number">1</locked>
 		</id-00260>
 		<id-00261>
-			<name type="string">Corundum, Medium</name>
+			<name type="string">Corundum Firey Yellow, Medium</name>
 			<description type="formattedtext">1/2&quot; diameter cut and polished Corundum gemstone</description>
 			<flavor type="string">1/2&quot; diameter cut and polished Corundum gemstone</flavor>
 			<notes type="formattedtext">1/2&quot; diameter cut and polished Corundum gemstone</notes>
@@ -3212,7 +3212,7 @@
 			<locked type="number">1</locked>
 		</id-00261>
 		<id-00262>
-			<name type="string">Corundum, Large</name>
+			<name type="string">Corundum Firey Yellow, Large</name>
 			<description type="formattedtext">1&quot; diameter cut and polished Corundum gemstone</description>
 			<flavor type="string">1&quot; diameter cut and polished Corundum gemstone</flavor>
 			<notes type="formattedtext">1&quot; diameter cut and polished Corundum gemstone</notes>
@@ -3224,7 +3224,7 @@
 			<locked type="number">1</locked>
 		</id-00262>
 		<id-00263>
-			<name type="string">Corundum, Very Large</name>
+			<name type="string">Corundum Firey Yellow, Very Large</name>
 			<description type="formattedtext">2&quot; diameter cut and polished Corundum gemstone</description>
 			<flavor type="string">2&quot; diameter cut and polished Corundum gemstone</flavor>
 			<notes type="formattedtext">2&quot; diameter cut and polished Corundum gemstone</notes>
@@ -3236,7 +3236,7 @@
 			<locked type="number">1</locked>
 		</id-00263>
 		<id-00264>
-			<name type="string">Corundum, Huge</name>
+			<name type="string">Corundum Firey Yellow, Huge</name>
 			<description type="formattedtext">4&quot; diameter cut and polished Corundum gemstone</description>
 			<flavor type="string">4&quot; diameter cut and polished Corundum gemstone</flavor>
 			<notes type="formattedtext">4&quot; diameter cut and polished Corundum gemstone</notes>
@@ -3248,7 +3248,7 @@
 			<locked type="number">1</locked>
 		</id-00264>
 		<id-00265>
-			<name type="string">Corundum, Tiny</name>
+			<name type="string">Corundum Rich Purple, Tiny</name>
 			<description type="formattedtext">1/8&quot; diameter cut and polished Corundum gemstone</description>
 			<flavor type="string">1/8&quot; diameter cut and polished Corundum gemstone</flavor>
 			<notes type="formattedtext">1/8&quot; diameter cut and polished Corundum gemstone</notes>
@@ -3260,7 +3260,7 @@
 			<locked type="number">1</locked>
 		</id-00265>
 		<id-00266>
-			<name type="string">Corundum, Small</name>
+			<name type="string">Corundum Rich Purple, Small</name>
 			<description type="formattedtext">1/4&quot; diameter cut and polished Corundum gemstone</description>
 			<flavor type="string">1/4&quot; diameter cut and polished Corundum gemstone</flavor>
 			<notes type="formattedtext">1/4&quot; diameter cut and polished Corundum gemstone</notes>
@@ -3272,7 +3272,7 @@
 			<locked type="number">1</locked>
 		</id-00266>
 		<id-00267>
-			<name type="string">Corundum, Medium</name>
+			<name type="string">Corundum Rich Purple, Medium</name>
 			<description type="formattedtext">1/2&quot; diameter cut and polished Corundum gemstone</description>
 			<flavor type="string">1/2&quot; diameter cut and polished Corundum gemstone</flavor>
 			<notes type="formattedtext">1/2&quot; diameter cut and polished Corundum gemstone</notes>
@@ -3284,7 +3284,7 @@
 			<locked type="number">1</locked>
 		</id-00267>
 		<id-00268>
-			<name type="string">Corundum, Large</name>
+			<name type="string">Corundum Rich Purple, Large</name>
 			<description type="formattedtext">1&quot; diameter cut and polished Corundum gemstone</description>
 			<flavor type="string">1&quot; diameter cut and polished Corundum gemstone</flavor>
 			<notes type="formattedtext">1&quot; diameter cut and polished Corundum gemstone</notes>
@@ -3296,7 +3296,7 @@
 			<locked type="number">1</locked>
 		</id-00268>
 		<id-00269>
-			<name type="string">Corundum, Very Large</name>
+			<name type="string">Corundum Rich Purple, Very Large</name>
 			<description type="formattedtext">2&quot; diameter cut and polished Corundum gemstone</description>
 			<flavor type="string">2&quot; diameter cut and polished Corundum gemstone</flavor>
 			<notes type="formattedtext">2&quot; diameter cut and polished Corundum gemstone</notes>
@@ -3308,7 +3308,7 @@
 			<locked type="number">1</locked>
 		</id-00269>
 		<id-00270>
-			<name type="string">Corundum, Huge</name>
+			<name type="string">Corundum Rich Purple, Huge</name>
 			<description type="formattedtext">4&quot; diameter cut and polished Corundum gemstone</description>
 			<flavor type="string">4&quot; diameter cut and polished Corundum gemstone</flavor>
 			<notes type="formattedtext">4&quot; diameter cut and polished Corundum gemstone</notes>
@@ -3320,7 +3320,7 @@
 			<locked type="number">1</locked>
 		</id-00270>
 		<id-00271>
-			<name type="string">Sapphire, Tiny</name>
+			<name type="string">Sapphire Black, Tiny</name>
 			<description type="formattedtext">1/8&quot; diameter cut and polished Sapphire gemstone</description>
 			<flavor type="string">1/8&quot; diameter cut and polished Sapphire gemstone</flavor>
 			<notes type="formattedtext">1/8&quot; diameter cut and polished Sapphire gemstone</notes>
@@ -3332,7 +3332,7 @@
 			<locked type="number">1</locked>
 		</id-00271>
 		<id-00272>
-			<name type="string">Sapphire, Small</name>
+			<name type="string">Sapphire Black, Small</name>
 			<description type="formattedtext">1/4&quot; diameter cut and polished Sapphire gemstone</description>
 			<flavor type="string">1/4&quot; diameter cut and polished Sapphire gemstone</flavor>
 			<notes type="formattedtext">1/4&quot; diameter cut and polished Sapphire gemstone</notes>
@@ -3344,7 +3344,7 @@
 			<locked type="number">1</locked>
 		</id-00272>
 		<id-00273>
-			<name type="string">Sapphire, Medium</name>
+			<name type="string">Sapphire Black, Medium</name>
 			<description type="formattedtext">1/2&quot; diameter cut and polished Sapphire gemstone</description>
 			<flavor type="string">1/2&quot; diameter cut and polished Sapphire gemstone</flavor>
 			<notes type="formattedtext">1/2&quot; diameter cut and polished Sapphire gemstone</notes>
@@ -3356,7 +3356,7 @@
 			<locked type="number">1</locked>
 		</id-00273>
 		<id-00274>
-			<name type="string">Sapphire, Large</name>
+			<name type="string">Sapphire Black, Large</name>
 			<description type="formattedtext">1&quot; diameter cut and polished Sapphire gemstone</description>
 			<flavor type="string">1&quot; diameter cut and polished Sapphire gemstone</flavor>
 			<notes type="formattedtext">1&quot; diameter cut and polished Sapphire gemstone</notes>
@@ -3368,7 +3368,7 @@
 			<locked type="number">1</locked>
 		</id-00274>
 		<id-00275>
-			<name type="string">Sapphire, Very Large</name>
+			<name type="string">Sapphire Black, Very Large</name>
 			<description type="formattedtext">2&quot; diameter cut and polished Sapphire gemstone</description>
 			<flavor type="string">2&quot; diameter cut and polished Sapphire gemstone</flavor>
 			<notes type="formattedtext">2&quot; diameter cut and polished Sapphire gemstone</notes>
@@ -3380,7 +3380,7 @@
 			<locked type="number">1</locked>
 		</id-00275>
 		<id-00276>
-			<name type="string">Sapphire, Huge</name>
+			<name type="string">Sapphire Black, Huge</name>
 			<description type="formattedtext">4&quot; diameter cut and polished Sapphire gemstone</description>
 			<flavor type="string">4&quot; diameter cut and polished Sapphire gemstone</flavor>
 			<notes type="formattedtext">4&quot; diameter cut and polished Sapphire gemstone</notes>
@@ -3392,7 +3392,7 @@
 			<locked type="number">1</locked>
 		</id-00276>
 		<id-00277>
-			<name type="string">Sapphire, Tiny</name>
+			<name type="string">Sapphire Blue, Tiny</name>
 			<description type="formattedtext">1/8&quot; diameter cut and polished Sapphire gemstone</description>
 			<flavor type="string">1/8&quot; diameter cut and polished Sapphire gemstone</flavor>
 			<notes type="formattedtext">1/8&quot; diameter cut and polished Sapphire gemstone</notes>
@@ -3404,7 +3404,7 @@
 			<locked type="number">1</locked>
 		</id-00277>
 		<id-00278>
-			<name type="string">Sapphire, Small</name>
+			<name type="string">Sapphire Blue, Small</name>
 			<description type="formattedtext">1/4&quot; diameter cut and polished Sapphire gemstone</description>
 			<flavor type="string">1/4&quot; diameter cut and polished Sapphire gemstone</flavor>
 			<notes type="formattedtext">1/4&quot; diameter cut and polished Sapphire gemstone</notes>
@@ -3416,7 +3416,7 @@
 			<locked type="number">1</locked>
 		</id-00278>
 		<id-00279>
-			<name type="string">Sapphire, Medium</name>
+			<name type="string">Sapphire Blue, Medium</name>
 			<description type="formattedtext">1/2&quot; diameter cut and polished Sapphire gemstone</description>
 			<flavor type="string">1/2&quot; diameter cut and polished Sapphire gemstone</flavor>
 			<notes type="formattedtext">1/2&quot; diameter cut and polished Sapphire gemstone</notes>
@@ -3428,7 +3428,7 @@
 			<locked type="number">1</locked>
 		</id-00279>
 		<id-00280>
-			<name type="string">Sapphire, Large</name>
+			<name type="string">Sapphire Blue, Large</name>
 			<description type="formattedtext">1&quot; diameter cut and polished Sapphire gemstone</description>
 			<flavor type="string">1&quot; diameter cut and polished Sapphire gemstone</flavor>
 			<notes type="formattedtext">1&quot; diameter cut and polished Sapphire gemstone</notes>
@@ -3440,7 +3440,7 @@
 			<locked type="number">1</locked>
 		</id-00280>
 		<id-00281>
-			<name type="string">Sapphire, Very Large</name>
+			<name type="string">Sapphire Blue, Very Large</name>
 			<description type="formattedtext">2&quot; diameter cut and polished Sapphire gemstone</description>
 			<flavor type="string">2&quot; diameter cut and polished Sapphire gemstone</flavor>
 			<notes type="formattedtext">2&quot; diameter cut and polished Sapphire gemstone</notes>
@@ -3452,7 +3452,7 @@
 			<locked type="number">1</locked>
 		</id-00281>
 		<id-00282>
-			<name type="string">Sapphire, Huge</name>
+			<name type="string">Sapphire Blue, Huge</name>
 			<description type="formattedtext">4&quot; diameter cut and polished Sapphire gemstone</description>
 			<flavor type="string">4&quot; diameter cut and polished Sapphire gemstone</flavor>
 			<notes type="formattedtext">4&quot; diameter cut and polished Sapphire gemstone</notes>
@@ -3464,7 +3464,7 @@
 			<locked type="number">1</locked>
 		</id-00282>
 		<id-00283>
-			<name type="string">Opal, Tiny</name>
+			<name type="string">Opal Black, Tiny</name>
 			<description type="formattedtext">1/8&quot; diameter cut and polished Opal gemstone</description>
 			<flavor type="string">1/8&quot; diameter cut and polished Opal gemstone</flavor>
 			<notes type="formattedtext">1/8&quot; diameter cut and polished Opal gemstone</notes>
@@ -3476,7 +3476,7 @@
 			<locked type="number">1</locked>
 		</id-00283>
 		<id-00284>
-			<name type="string">Opal, Small</name>
+			<name type="string">Opal Black, Small</name>
 			<description type="formattedtext">1/4&quot; diameter cut and polished Opal gemstone</description>
 			<flavor type="string">1/4&quot; diameter cut and polished Opal gemstone</flavor>
 			<notes type="formattedtext">1/4&quot; diameter cut and polished Opal gemstone</notes>
@@ -3488,7 +3488,7 @@
 			<locked type="number">1</locked>
 		</id-00284>
 		<id-00285>
-			<name type="string">Opal, Medium</name>
+			<name type="string">Opal Black, Medium</name>
 			<description type="formattedtext">1/2&quot; diameter cut and polished Opal gemstone</description>
 			<flavor type="string">1/2&quot; diameter cut and polished Opal gemstone</flavor>
 			<notes type="formattedtext">1/2&quot; diameter cut and polished Opal gemstone</notes>
@@ -3500,7 +3500,7 @@
 			<locked type="number">1</locked>
 		</id-00285>
 		<id-00286>
-			<name type="string">Opal, Large</name>
+			<name type="string">Opal Black, Large</name>
 			<description type="formattedtext">1&quot; diameter cut and polished Opal gemstone</description>
 			<flavor type="string">1&quot; diameter cut and polished Opal gemstone</flavor>
 			<notes type="formattedtext">1&quot; diameter cut and polished Opal gemstone</notes>
@@ -3512,7 +3512,7 @@
 			<locked type="number">1</locked>
 		</id-00286>
 		<id-00287>
-			<name type="string">Opal, Very Large</name>
+			<name type="string">Opal Black, Very Large</name>
 			<description type="formattedtext">2&quot; diameter cut and polished Opal gemstone</description>
 			<flavor type="string">2&quot; diameter cut and polished Opal gemstone</flavor>
 			<notes type="formattedtext">2&quot; diameter cut and polished Opal gemstone</notes>
@@ -3524,7 +3524,7 @@
 			<locked type="number">1</locked>
 		</id-00287>
 		<id-00288>
-			<name type="string">Opal, Huge</name>
+			<name type="string">Opal Black, Huge</name>
 			<description type="formattedtext">4&quot; diameter cut and polished Opal gemstone</description>
 			<flavor type="string">4&quot; diameter cut and polished Opal gemstone</flavor>
 			<notes type="formattedtext">4&quot; diameter cut and polished Opal gemstone</notes>
@@ -3536,7 +3536,7 @@
 			<locked type="number">1</locked>
 		</id-00288>
 		<id-00289>
-			<name type="string">Opal, Tiny</name>
+			<name type="string">Opal White, Tiny</name>
 			<description type="formattedtext">1/8&quot; diameter cut and polished Opal gemstone</description>
 			<flavor type="string">1/8&quot; diameter cut and polished Opal gemstone</flavor>
 			<notes type="formattedtext">1/8&quot; diameter cut and polished Opal gemstone</notes>
@@ -3548,7 +3548,7 @@
 			<locked type="number">1</locked>
 		</id-00289>
 		<id-00290>
-			<name type="string">Opal, Small</name>
+			<name type="string">Opal White, Small</name>
 			<description type="formattedtext">1/4&quot; diameter cut and polished Opal gemstone</description>
 			<flavor type="string">1/4&quot; diameter cut and polished Opal gemstone</flavor>
 			<notes type="formattedtext">1/4&quot; diameter cut and polished Opal gemstone</notes>
@@ -3560,7 +3560,7 @@
 			<locked type="number">1</locked>
 		</id-00290>
 		<id-00291>
-			<name type="string">Opal, Medium</name>
+			<name type="string">Opal White, Medium</name>
 			<description type="formattedtext">1/2&quot; diameter cut and polished Opal gemstone</description>
 			<flavor type="string">1/2&quot; diameter cut and polished Opal gemstone</flavor>
 			<notes type="formattedtext">1/2&quot; diameter cut and polished Opal gemstone</notes>
@@ -3572,7 +3572,7 @@
 			<locked type="number">1</locked>
 		</id-00291>
 		<id-00292>
-			<name type="string">Opal, Large</name>
+			<name type="string">Opal White, Large</name>
 			<description type="formattedtext">1&quot; diameter cut and polished Opal gemstone</description>
 			<flavor type="string">1&quot; diameter cut and polished Opal gemstone</flavor>
 			<notes type="formattedtext">1&quot; diameter cut and polished Opal gemstone</notes>
@@ -3584,7 +3584,7 @@
 			<locked type="number">1</locked>
 		</id-00292>
 		<id-00293>
-			<name type="string">Opal, Very Large</name>
+			<name type="string">Opal White, Very Large</name>
 			<description type="formattedtext">2&quot; diameter cut and polished Opal gemstone</description>
 			<flavor type="string">2&quot; diameter cut and polished Opal gemstone</flavor>
 			<notes type="formattedtext">2&quot; diameter cut and polished Opal gemstone</notes>
@@ -3596,7 +3596,7 @@
 			<locked type="number">1</locked>
 		</id-00293>
 		<id-00294>
-			<name type="string">Opal, Huge</name>
+			<name type="string">Opal White, Huge</name>
 			<description type="formattedtext">4&quot; diameter cut and polished Opal gemstone</description>
 			<flavor type="string">4&quot; diameter cut and polished Opal gemstone</flavor>
 			<notes type="formattedtext">4&quot; diameter cut and polished Opal gemstone</notes>
@@ -3608,7 +3608,7 @@
 			<locked type="number">1</locked>
 		</id-00294>
 		<id-00295>
-			<name type="string">Diamond, Tiny</name>
+			<name type="string">Diamond Brown, Tiny</name>
 			<description type="formattedtext">1/8&quot; diameter cut and polished Diamond gemstone</description>
 			<flavor type="string">1/8&quot; diameter cut and polished Diamond gemstone</flavor>
 			<notes type="formattedtext">1/8&quot; diameter cut and polished Diamond gemstone</notes>
@@ -3620,7 +3620,7 @@
 			<locked type="number">1</locked>
 		</id-00295>
 		<id-00296>
-			<name type="string">Diamond, Small</name>
+			<name type="string">Diamond Brown, Small</name>
 			<description type="formattedtext">1/4&quot; diameter cut and polished Diamond gemstone</description>
 			<flavor type="string">1/4&quot; diameter cut and polished Diamond gemstone</flavor>
 			<notes type="formattedtext">1/4&quot; diameter cut and polished Diamond gemstone</notes>
@@ -3632,7 +3632,7 @@
 			<locked type="number">1</locked>
 		</id-00296>
 		<id-00297>
-			<name type="string">Diamond, Medium</name>
+			<name type="string">Diamond Brown, Medium</name>
 			<description type="formattedtext">1/2&quot; diameter cut and polished Diamond gemstone</description>
 			<flavor type="string">1/2&quot; diameter cut and polished Diamond gemstone</flavor>
 			<notes type="formattedtext">1/2&quot; diameter cut and polished Diamond gemstone</notes>
@@ -3644,7 +3644,7 @@
 			<locked type="number">1</locked>
 		</id-00297>
 		<id-00298>
-			<name type="string">Diamond, Large</name>
+			<name type="string">Diamond Brown, Large</name>
 			<description type="formattedtext">1&quot; diameter cut and polished Diamond gemstone</description>
 			<flavor type="string">1&quot; diameter cut and polished Diamond gemstone</flavor>
 			<notes type="formattedtext">1&quot; diameter cut and polished Diamond gemstone</notes>
@@ -3656,7 +3656,7 @@
 			<locked type="number">1</locked>
 		</id-00298>
 		<id-00299>
-			<name type="string">Diamond, Very Large</name>
+			<name type="string">Diamond Brown, Very Large</name>
 			<description type="formattedtext">2&quot; diameter cut and polished Diamond gemstone</description>
 			<flavor type="string">2&quot; diameter cut and polished Diamond gemstone</flavor>
 			<notes type="formattedtext">2&quot; diameter cut and polished Diamond gemstone</notes>
@@ -3668,7 +3668,7 @@
 			<locked type="number">1</locked>
 		</id-00299>
 		<id-00300>
-			<name type="string">Diamond, Huge</name>
+			<name type="string">Diamond Brown, Huge</name>
 			<description type="formattedtext">4&quot; diameter cut and polished Diamond gemstone</description>
 			<flavor type="string">4&quot; diameter cut and polished Diamond gemstone</flavor>
 			<notes type="formattedtext">4&quot; diameter cut and polished Diamond gemstone</notes>
@@ -3680,7 +3680,7 @@
 			<locked type="number">1</locked>
 		</id-00300>
 		<id-00301>
-			<name type="string">Diamond, Tiny</name>
+			<name type="string">Diamond Yellow, Tiny</name>
 			<description type="formattedtext">1/8&quot; diameter cut and polished Diamond gemstone</description>
 			<flavor type="string">1/8&quot; diameter cut and polished Diamond gemstone</flavor>
 			<notes type="formattedtext">1/8&quot; diameter cut and polished Diamond gemstone</notes>
@@ -3692,7 +3692,7 @@
 			<locked type="number">1</locked>
 		</id-00301>
 		<id-00302>
-			<name type="string">Diamond, Small</name>
+			<name type="string">Diamond Yellow, Small</name>
 			<description type="formattedtext">1/4&quot; diameter cut and polished Diamond gemstone</description>
 			<flavor type="string">1/4&quot; diameter cut and polished Diamond gemstone</flavor>
 			<notes type="formattedtext">1/4&quot; diameter cut and polished Diamond gemstone</notes>
@@ -3704,7 +3704,7 @@
 			<locked type="number">1</locked>
 		</id-00302>
 		<id-00303>
-			<name type="string">Diamond, Medium</name>
+			<name type="string">Diamond Yellow, Medium</name>
 			<description type="formattedtext">1/2&quot; diameter cut and polished Diamond gemstone</description>
 			<flavor type="string">1/2&quot; diameter cut and polished Diamond gemstone</flavor>
 			<notes type="formattedtext">1/2&quot; diameter cut and polished Diamond gemstone</notes>
@@ -3716,7 +3716,7 @@
 			<locked type="number">1</locked>
 		</id-00303>
 		<id-00304>
-			<name type="string">Diamond, Large</name>
+			<name type="string">Diamond Yellow, Large</name>
 			<description type="formattedtext">1&quot; diameter cut and polished Diamond gemstone</description>
 			<flavor type="string">1&quot; diameter cut and polished Diamond gemstone</flavor>
 			<notes type="formattedtext">1&quot; diameter cut and polished Diamond gemstone</notes>
@@ -3728,7 +3728,7 @@
 			<locked type="number">1</locked>
 		</id-00304>
 		<id-00305>
-			<name type="string">Diamond, Very Large</name>
+			<name type="string">Diamond Yellow, Very Large</name>
 			<description type="formattedtext">2&quot; diameter cut and polished Diamond gemstone</description>
 			<flavor type="string">2&quot; diameter cut and polished Diamond gemstone</flavor>
 			<notes type="formattedtext">2&quot; diameter cut and polished Diamond gemstone</notes>
@@ -3740,7 +3740,7 @@
 			<locked type="number">1</locked>
 		</id-00305>
 		<id-00306>
-			<name type="string">Diamond, Huge</name>
+			<name type="string">Diamond Yellow, Huge</name>
 			<description type="formattedtext">4&quot; diameter cut and polished Diamond gemstone</description>
 			<flavor type="string">4&quot; diameter cut and polished Diamond gemstone</flavor>
 			<notes type="formattedtext">4&quot; diameter cut and polished Diamond gemstone</notes>
@@ -3752,7 +3752,7 @@
 			<locked type="number">1</locked>
 		</id-00306>
 		<id-00307>
-			<name type="string">Diamond, Tiny</name>
+			<name type="string">Diamond Pink, Tiny</name>
 			<description type="formattedtext">1/8&quot; diameter cut and polished Diamond gemstone</description>
 			<flavor type="string">1/8&quot; diameter cut and polished Diamond gemstone</flavor>
 			<notes type="formattedtext">1/8&quot; diameter cut and polished Diamond gemstone</notes>
@@ -3764,7 +3764,7 @@
 			<locked type="number">1</locked>
 		</id-00307>
 		<id-00308>
-			<name type="string">Diamond, Small</name>
+			<name type="string">Diamond Pink, Small</name>
 			<description type="formattedtext">1/4&quot; diameter cut and polished Diamond gemstone</description>
 			<flavor type="string">1/4&quot; diameter cut and polished Diamond gemstone</flavor>
 			<notes type="formattedtext">1/4&quot; diameter cut and polished Diamond gemstone</notes>
@@ -3776,7 +3776,7 @@
 			<locked type="number">1</locked>
 		</id-00308>
 		<id-00309>
-			<name type="string">Diamond, Medium</name>
+			<name type="string">Diamond Pink, Medium</name>
 			<description type="formattedtext">1/2&quot; diameter cut and polished Diamond gemstone</description>
 			<flavor type="string">1/2&quot; diameter cut and polished Diamond gemstone</flavor>
 			<notes type="formattedtext">1/2&quot; diameter cut and polished Diamond gemstone</notes>
@@ -3788,7 +3788,7 @@
 			<locked type="number">1</locked>
 		</id-00309>
 		<id-00310>
-			<name type="string">Diamond, Large</name>
+			<name type="string">Diamond Pink, Large</name>
 			<description type="formattedtext">1&quot; diameter cut and polished Diamond gemstone</description>
 			<flavor type="string">1&quot; diameter cut and polished Diamond gemstone</flavor>
 			<notes type="formattedtext">1&quot; diameter cut and polished Diamond gemstone</notes>
@@ -3800,7 +3800,7 @@
 			<locked type="number">1</locked>
 		</id-00310>
 		<id-00311>
-			<name type="string">Diamond, Very Large</name>
+			<name type="string">Diamond Pink, Very Large</name>
 			<description type="formattedtext">2&quot; diameter cut and polished Diamond gemstone</description>
 			<flavor type="string">2&quot; diameter cut and polished Diamond gemstone</flavor>
 			<notes type="formattedtext">2&quot; diameter cut and polished Diamond gemstone</notes>
@@ -3812,7 +3812,7 @@
 			<locked type="number">1</locked>
 		</id-00311>
 		<id-00312>
-			<name type="string">Diamond, Huge</name>
+			<name type="string">Diamond Pink, Huge</name>
 			<description type="formattedtext">4&quot; diameter cut and polished Diamond gemstone</description>
 			<flavor type="string">4&quot; diameter cut and polished Diamond gemstone</flavor>
 			<notes type="formattedtext">4&quot; diameter cut and polished Diamond gemstone</notes>
@@ -3824,7 +3824,7 @@
 			<locked type="number">1</locked>
 		</id-00312>
 		<id-00313>
-			<name type="string">Diamond, Tiny</name>
+			<name type="string">Diamond Blue, Tiny</name>
 			<description type="formattedtext">1/8&quot; diameter cut and polished Diamond gemstone</description>
 			<flavor type="string">1/8&quot; diameter cut and polished Diamond gemstone</flavor>
 			<notes type="formattedtext">1/8&quot; diameter cut and polished Diamond gemstone</notes>
@@ -3836,7 +3836,7 @@
 			<locked type="number">1</locked>
 		</id-00313>
 		<id-00314>
-			<name type="string">Diamond, Small</name>
+			<name type="string">Diamond Blue, Small</name>
 			<description type="formattedtext">1/4&quot; diameter cut and polished Diamond gemstone</description>
 			<flavor type="string">1/4&quot; diameter cut and polished Diamond gemstone</flavor>
 			<notes type="formattedtext">1/4&quot; diameter cut and polished Diamond gemstone</notes>
@@ -3848,7 +3848,7 @@
 			<locked type="number">1</locked>
 		</id-00314>
 		<id-00315>
-			<name type="string">Diamond, Medium</name>
+			<name type="string">Diamond Blue, Medium</name>
 			<description type="formattedtext">1/2&quot; diameter cut and polished Diamond gemstone</description>
 			<flavor type="string">1/2&quot; diameter cut and polished Diamond gemstone</flavor>
 			<notes type="formattedtext">1/2&quot; diameter cut and polished Diamond gemstone</notes>
@@ -3860,7 +3860,7 @@
 			<locked type="number">1</locked>
 		</id-00315>
 		<id-00316>
-			<name type="string">Diamond, Large</name>
+			<name type="string">Diamond Blue, Large</name>
 			<description type="formattedtext">1&quot; diameter cut and polished Diamond gemstone</description>
 			<flavor type="string">1&quot; diameter cut and polished Diamond gemstone</flavor>
 			<notes type="formattedtext">1&quot; diameter cut and polished Diamond gemstone</notes>
@@ -3872,7 +3872,7 @@
 			<locked type="number">1</locked>
 		</id-00316>
 		<id-00317>
-			<name type="string">Diamond, Very Large</name>
+			<name type="string">Diamond Blue, Very Large</name>
 			<description type="formattedtext">2&quot; diameter cut and polished Diamond gemstone</description>
 			<flavor type="string">2&quot; diameter cut and polished Diamond gemstone</flavor>
 			<notes type="formattedtext">2&quot; diameter cut and polished Diamond gemstone</notes>
@@ -3884,7 +3884,7 @@
 			<locked type="number">1</locked>
 		</id-00317>
 		<id-00318>
-			<name type="string">Diamond, Huge</name>
+			<name type="string">Diamond Blue, Huge</name>
 			<description type="formattedtext">4&quot; diameter cut and polished Diamond gemstone</description>
 			<flavor type="string">4&quot; diameter cut and polished Diamond gemstone</flavor>
 			<notes type="formattedtext">4&quot; diameter cut and polished Diamond gemstone</notes>
@@ -3896,7 +3896,7 @@
 			<locked type="number">1</locked>
 		</id-00318>
 		<id-00319>
-			<name type="string">Diamond, Tiny</name>
+			<name type="string">Diamond White, Tiny</name>
 			<description type="formattedtext">1/8&quot; diameter cut and polished Diamond gemstone</description>
 			<flavor type="string">1/8&quot; diameter cut and polished Diamond gemstone</flavor>
 			<notes type="formattedtext">1/8&quot; diameter cut and polished Diamond gemstone</notes>
@@ -3908,7 +3908,7 @@
 			<locked type="number">1</locked>
 		</id-00319>
 		<id-00320>
-			<name type="string">Diamond, Small</name>
+			<name type="string">Diamond White, Small</name>
 			<description type="formattedtext">1/4&quot; diameter cut and polished Diamond gemstone</description>
 			<flavor type="string">1/4&quot; diameter cut and polished Diamond gemstone</flavor>
 			<notes type="formattedtext">1/4&quot; diameter cut and polished Diamond gemstone</notes>
@@ -3920,7 +3920,7 @@
 			<locked type="number">1</locked>
 		</id-00320>
 		<id-00321>
-			<name type="string">Diamond, Medium</name>
+			<name type="string">Diamond White, Medium</name>
 			<description type="formattedtext">1/2&quot; diameter cut and polished Diamond gemstone</description>
 			<flavor type="string">1/2&quot; diameter cut and polished Diamond gemstone</flavor>
 			<notes type="formattedtext">1/2&quot; diameter cut and polished Diamond gemstone</notes>
@@ -3932,7 +3932,7 @@
 			<locked type="number">1</locked>
 		</id-00321>
 		<id-00322>
-			<name type="string">Diamond, Large</name>
+			<name type="string">Diamond White, Large</name>
 			<description type="formattedtext">1&quot; diameter cut and polished Diamond gemstone</description>
 			<flavor type="string">1&quot; diameter cut and polished Diamond gemstone</flavor>
 			<notes type="formattedtext">1&quot; diameter cut and polished Diamond gemstone</notes>
@@ -3944,7 +3944,7 @@
 			<locked type="number">1</locked>
 		</id-00322>
 		<id-00323>
-			<name type="string">Diamond, Very Large</name>
+			<name type="string">Diamond White, Very Large</name>
 			<description type="formattedtext">2&quot; diameter cut and polished Diamond gemstone</description>
 			<flavor type="string">2&quot; diameter cut and polished Diamond gemstone</flavor>
 			<notes type="formattedtext">2&quot; diameter cut and polished Diamond gemstone</notes>
@@ -3956,7 +3956,7 @@
 			<locked type="number">1</locked>
 		</id-00323>
 		<id-00324>
-			<name type="string">Diamond, Huge</name>
+			<name type="string">Diamond White, Huge</name>
 			<description type="formattedtext">4&quot; diameter cut and polished Diamond gemstone</description>
 			<flavor type="string">4&quot; diameter cut and polished Diamond gemstone</flavor>
 			<notes type="formattedtext">4&quot; diameter cut and polished Diamond gemstone</notes>

@@ -1,0 +1,132 @@
+{
+	"$schema": "../fg-parametric-items-schema.json",
+	"module" : {
+		"version" : "3.1",
+		"release" : "7|CoreRPG:3",
+		"name" : "FG Item Generator Reference",
+		"category" : "Accessories",
+		"author" : "theoldestnoob",
+		"contributors" : [ "Contributor1", "Contributor2" ],
+		"ruleset" : "Any"
+	},
+	"items" : {
+		"modifiers" : {
+            "cost_modifier" : [
+                {
+                    "key" : "D",
+                    "name" : "double",
+                    "desc" : "multiply item base_cost by 2",
+                    "desc_nonid": "expensive",
+                    "mod_cost" : 2
+                },
+                {
+                    "key" : "H",
+                    "name" : "half",
+                    "desc" : "multiply item base_cost by 0.5",
+                    "desc_nonid" : "cheap",
+                    "mod_cost" : 0.5
+                },
+                {
+                    "key" : "T",
+                    "name" : "triple (alternate multiplication)",
+                    "desc" : "multiply item base_cost by 3, alternative multiplication form",
+                    "desc_nonid" : "really expensive",
+                    "mod_cost" : "x2"
+                },
+                {
+                    "key" : "F",
+                    "name" : "fifth (alternate multiplication)",
+                    "desc" : "multiply item base_cost by 0.2, alternative multiplication form",
+                    "desc_nonid" : "really cheap",
+                    "mod_cost" : "x0.2"
+                },
+                {
+                    "key" : "X",
+                    "name" : "weight times ten",
+                    "desc" : "multiply item cost and base_weight by 10",
+                    "desc_nonid" : "super expensive and heavy",
+                    "mod_cost" : 10,
+                    "mod_weight" : 10,
+                    "locked" : "this value will be ignored"
+                },
+                {
+                    "key" : "A",
+                    "name" : "add 10",
+                    "desc" : "Add 10 to item base_cost.",
+                    "desc_nonid" : "a bit more expensive than normal",
+                    "mod_cost" : "+10"
+                },
+                {
+                    "key" : "S",
+                    "name" : "subtract 10",
+                    "desc" : "Subtract 10 from item base_cost.",
+                    "desc_nonid" : "a bit less expensive than normal",
+                    "mod_cost" : "-10"
+                }
+            ]
+        },
+        "bases" : [
+            {
+                "base_name" : "Base Item 1",
+                "name" : "|base_name|, |varieties#name|, Mod: |cost_modifier#name|",
+                "description" : "Description when identified. This |varieties#name| |base_name| has the following cost modifier applied: |cost_modifier#desc|. This is a |varieties#desc|.",
+                "nonid_name" : "Unidentified |base_name|",
+                "nonid_description" : "Description when unidentified. This |base_name| looks |cost_modifier#desc_nonid|. |extra1|",
+                "base_cost" : 1000,
+                "cost_ceiling" : 2500,
+                "cost_floor" : 300,
+                "cost_units" : "dollars",
+                "cost_whole_num": true,
+                "base_weight": 1,
+                "weight_ceiling": 2.5,
+                "weight_floor": 0.4,
+                "weight_whole_num": false,
+                "item_type": "Miscellaneous",
+                "subtype": "Examples",
+                "identified": 0,
+                "locked": 1,
+                "extra1" : "Here is an extra variable.",
+                "extra2" : "extra variable 2",
+                "varieties": [
+                    { 
+                        "name": "Variety1",
+                        "desc" : "variety with no adjustments"
+                    },
+                    {
+                        "name" : "Variety2",
+                        "desc": "variety which adjusts base_cost and base_weight",
+                        "base_cost" : 100,
+                        "base_weight" : 10 
+                    },
+                    {
+                        "name" : "Variety3",
+                        "desc" : "variety which adjusts everything possible",
+                        "base_cost" : 10,
+                        "cost_ceiling" : 10000,
+                        "cost_floor" : 1,
+                        "cost_units" : "gp",
+                        "cost_whole_num": false,
+                        "base_weight": 2.5,
+                        "weight_ceiling": 6,
+                        "weight_floor": 0,
+                        "weight_whole_num": true,
+                        "item_type": "Treasure",
+                        "subtype": "Art Objects",
+                        "identified": 1,
+                        "locked": 0,
+                        "extra1" : "Hello from Variety3.",
+                        "extra2" : "this isn't used anywhere I'm not sure why you would add it"
+                    },
+                    {
+                        "name" : "Variety4",
+                        "desc" : "variety which adjusts an extra variable and nothing else",
+                        "extra1" : "Here is a modified extra variable."
+                    }
+                ],
+                "modifiers": {
+                    "cost_modifier" : [ "D", "H", "T", "F", "A", "S" ]
+                }
+            }
+        ]
+    }
+}

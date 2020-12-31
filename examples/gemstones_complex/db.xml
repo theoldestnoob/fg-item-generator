@@ -6805,7 +6805,7 @@
 			<nonid_notes type="string">This visibly flawed 1/4 inch diameter gem is uncut. It is opaque and vivid blue in color, with lighter and darker blue striations throughout.</nonid_notes>
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
-			<cost type="string">1 gp</cost>
+			<cost type="string">0 gp</cost>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00421>
@@ -6820,7 +6820,7 @@
 			<nonid_notes type="string">This visibly flawed 1/4 inch diameter gem is naturally shaped and polished. It is opaque and vivid blue in color, with lighter and darker blue striations throughout.</nonid_notes>
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
-			<cost type="string">1.25 gp</cost>
+			<cost type="string">2 gp</cost>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00422>
@@ -6835,7 +6835,7 @@
 			<nonid_notes type="string">This visibly flawed 1/4 inch diameter gem is cut into a sphere. It is opaque and vivid blue in color, with lighter and darker blue striations throughout.</nonid_notes>
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
-			<cost type="string">5.0 gp</cost>
+			<cost type="string">10 gp</cost>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00423>
@@ -6850,7 +6850,7 @@
 			<nonid_notes type="string">This visibly flawed 1/4 inch diameter gem is round cabochon cut. It is opaque and vivid blue in color, with lighter and darker blue striations throughout.</nonid_notes>
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
-			<cost type="string">2.5 gp</cost>
+			<cost type="string">5 gp</cost>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00424>
@@ -6880,7 +6880,7 @@
 			<nonid_notes type="string">This 1/4 inch diameter gem is naturally shaped and polished. It is opaque and vivid blue in color, with lighter and darker blue striations throughout.</nonid_notes>
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
-			<cost type="string">2.5 gp</cost>
+			<cost type="string">5 gp</cost>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00426>
@@ -6895,7 +6895,7 @@
 			<nonid_notes type="string">This 1/4 inch diameter gem is cut into a sphere. It is opaque and vivid blue in color, with lighter and darker blue striations throughout.</nonid_notes>
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
-			<cost type="string">10 gp</cost>
+			<cost type="string">20 gp</cost>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00427>
@@ -6910,7 +6910,7 @@
 			<nonid_notes type="string">This 1/4 inch diameter gem is round cabochon cut. It is opaque and vivid blue in color, with lighter and darker blue striations throughout.</nonid_notes>
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
-			<cost type="string">5 gp</cost>
+			<cost type="string">10 gp</cost>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00428>
@@ -6925,7 +6925,7 @@
 			<nonid_notes type="string">This visibly flawed 1/2 inch diameter gem is uncut. It is opaque and vivid blue in color, with lighter and darker blue striations throughout.</nonid_notes>
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
-			<cost type="string">1.25 gp</cost>
+			<cost type="string">2 gp</cost>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00429>
@@ -6940,7 +6940,7 @@
 			<nonid_notes type="string">This visibly flawed 1/2 inch diameter gem is naturally shaped and polished. It is opaque and vivid blue in color, with lighter and darker blue striations throughout.</nonid_notes>
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
-			<cost type="string">6.25 gp</cost>
+			<cost type="string">12 gp</cost>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00430>
@@ -6955,7 +6955,7 @@
 			<nonid_notes type="string">This visibly flawed 1/2 inch diameter gem is cut into a sphere. It is opaque and vivid blue in color, with lighter and darker blue striations throughout.</nonid_notes>
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
-			<cost type="string">25.0 gp</cost>
+			<cost type="string">50 gp</cost>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00431>
@@ -6970,7 +6970,7 @@
 			<nonid_notes type="string">This visibly flawed 1/2 inch diameter gem is round cabochon cut. It is opaque and vivid blue in color, with lighter and darker blue striations throughout.</nonid_notes>
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
-			<cost type="string">12.5 gp</cost>
+			<cost type="string">25 gp</cost>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00432>
@@ -6985,7 +6985,7 @@
 			<nonid_notes type="string">This 1/2 inch diameter gem is uncut. It is opaque and vivid blue in color, with lighter and darker blue striations throughout.</nonid_notes>
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
-			<cost type="string">2.5 gp</cost>
+			<cost type="string">5 gp</cost>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00433>
@@ -7000,7 +7000,7 @@
 			<nonid_notes type="string">This 1/2 inch diameter gem is naturally shaped and polished. It is opaque and vivid blue in color, with lighter and darker blue striations throughout.</nonid_notes>
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
-			<cost type="string">12.5 gp</cost>
+			<cost type="string">25 gp</cost>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00434>
@@ -7015,7 +7015,7 @@
 			<nonid_notes type="string">This 1/2 inch diameter gem is cut into a sphere. It is opaque and vivid blue in color, with lighter and darker blue striations throughout.</nonid_notes>
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
-			<cost type="string">50 gp</cost>
+			<cost type="string">100 gp</cost>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00435>
@@ -7030,7 +7030,7 @@
 			<nonid_notes type="string">This 1/2 inch diameter gem is round cabochon cut. It is opaque and vivid blue in color, with lighter and darker blue striations throughout.</nonid_notes>
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
-			<cost type="string">25 gp</cost>
+			<cost type="string">50 gp</cost>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00436>
@@ -7045,7 +7045,7 @@
 			<nonid_notes type="string">This visibly flawed 1 inch diameter gem is uncut. It is opaque and vivid blue in color, with lighter and darker blue striations throughout.</nonid_notes>
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
-			<cost type="string">5.0 gp</cost>
+			<cost type="string">10 gp</cost>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00437>
@@ -7060,7 +7060,7 @@
 			<nonid_notes type="string">This visibly flawed 1 inch diameter gem is naturally shaped and polished. It is opaque and vivid blue in color, with lighter and darker blue striations throughout.</nonid_notes>
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
-			<cost type="string">25.0 gp</cost>
+			<cost type="string">50 gp</cost>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00438>
@@ -7075,7 +7075,7 @@
 			<nonid_notes type="string">This visibly flawed 1 inch diameter gem is cut into a sphere. It is opaque and vivid blue in color, with lighter and darker blue striations throughout.</nonid_notes>
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
-			<cost type="string">100.0 gp</cost>
+			<cost type="string">200 gp</cost>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00439>
@@ -7090,7 +7090,7 @@
 			<nonid_notes type="string">This visibly flawed 1 inch diameter gem is round cabochon cut. It is opaque and vivid blue in color, with lighter and darker blue striations throughout.</nonid_notes>
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
-			<cost type="string">50.0 gp</cost>
+			<cost type="string">100 gp</cost>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00440>
@@ -7105,7 +7105,7 @@
 			<nonid_notes type="string">This 1 inch diameter gem is uncut. It is opaque and vivid blue in color, with lighter and darker blue striations throughout.</nonid_notes>
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
-			<cost type="string">10.0 gp</cost>
+			<cost type="string">20 gp</cost>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00441>
@@ -7120,7 +7120,7 @@
 			<nonid_notes type="string">This 1 inch diameter gem is naturally shaped and polished. It is opaque and vivid blue in color, with lighter and darker blue striations throughout.</nonid_notes>
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
-			<cost type="string">50.0 gp</cost>
+			<cost type="string">100 gp</cost>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00442>
@@ -7135,7 +7135,7 @@
 			<nonid_notes type="string">This 1 inch diameter gem is cut into a sphere. It is opaque and vivid blue in color, with lighter and darker blue striations throughout.</nonid_notes>
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
-			<cost type="string">200 gp</cost>
+			<cost type="string">400 gp</cost>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00443>
@@ -7150,7 +7150,7 @@
 			<nonid_notes type="string">This 1 inch diameter gem is round cabochon cut. It is opaque and vivid blue in color, with lighter and darker blue striations throughout.</nonid_notes>
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
-			<cost type="string">100 gp</cost>
+			<cost type="string">200 gp</cost>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00444>
@@ -7165,7 +7165,7 @@
 			<nonid_notes type="string">This visibly flawed 2 inch diameter gem is uncut. It is opaque and vivid blue in color, with lighter and darker blue striations throughout.</nonid_notes>
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
-			<cost type="string">25.0 gp</cost>
+			<cost type="string">50 gp</cost>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00445>
@@ -7180,7 +7180,7 @@
 			<nonid_notes type="string">This visibly flawed 2 inch diameter gem is naturally shaped and polished. It is opaque and vivid blue in color, with lighter and darker blue striations throughout.</nonid_notes>
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
-			<cost type="string">125.0 gp</cost>
+			<cost type="string">250 gp</cost>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00446>
@@ -7195,7 +7195,7 @@
 			<nonid_notes type="string">This visibly flawed 2 inch diameter gem is cut into a sphere. It is opaque and vivid blue in color, with lighter and darker blue striations throughout.</nonid_notes>
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
-			<cost type="string">500.0 gp</cost>
+			<cost type="string">1000 gp</cost>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00447>
@@ -7210,7 +7210,7 @@
 			<nonid_notes type="string">This visibly flawed 2 inch diameter gem is round cabochon cut. It is opaque and vivid blue in color, with lighter and darker blue striations throughout.</nonid_notes>
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
-			<cost type="string">250.0 gp</cost>
+			<cost type="string">500 gp</cost>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00448>
@@ -7225,7 +7225,7 @@
 			<nonid_notes type="string">This 2 inch diameter gem is uncut. It is opaque and vivid blue in color, with lighter and darker blue striations throughout.</nonid_notes>
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
-			<cost type="string">50.0 gp</cost>
+			<cost type="string">100 gp</cost>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00449>
@@ -7240,7 +7240,7 @@
 			<nonid_notes type="string">This 2 inch diameter gem is naturally shaped and polished. It is opaque and vivid blue in color, with lighter and darker blue striations throughout.</nonid_notes>
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
-			<cost type="string">250.0 gp</cost>
+			<cost type="string">500 gp</cost>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00450>
@@ -7255,7 +7255,7 @@
 			<nonid_notes type="string">This 2 inch diameter gem is cut into a sphere. It is opaque and vivid blue in color, with lighter and darker blue striations throughout.</nonid_notes>
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
-			<cost type="string">1000 gp</cost>
+			<cost type="string">2000 gp</cost>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00451>
@@ -7270,7 +7270,7 @@
 			<nonid_notes type="string">This 2 inch diameter gem is round cabochon cut. It is opaque and vivid blue in color, with lighter and darker blue striations throughout.</nonid_notes>
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
-			<cost type="string">500 gp</cost>
+			<cost type="string">1000 gp</cost>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00452>
@@ -7285,7 +7285,7 @@
 			<nonid_notes type="string">This visibly flawed 1/4 inch diameter gem is uncut. It is opaque and deep blue in color, shot through with splotches of bright green.</nonid_notes>
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
-			<cost type="string">1 gp</cost>
+			<cost type="string">0 gp</cost>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00453>
@@ -7300,7 +7300,7 @@
 			<nonid_notes type="string">This visibly flawed 1/4 inch diameter gem is naturally shaped and polished. It is opaque and deep blue in color, shot through with splotches of bright green.</nonid_notes>
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
-			<cost type="string">3.75 gp</cost>
+			<cost type="string">3 gp</cost>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00454>
@@ -7315,7 +7315,7 @@
 			<nonid_notes type="string">This visibly flawed 1/4 inch diameter gem is cut into a sphere. It is opaque and deep blue in color, shot through with splotches of bright green.</nonid_notes>
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
-			<cost type="string">15.0 gp</cost>
+			<cost type="string">15 gp</cost>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00455>
@@ -7330,7 +7330,7 @@
 			<nonid_notes type="string">This visibly flawed 1/4 inch diameter gem is round cabochon cut. It is opaque and deep blue in color, shot through with splotches of bright green.</nonid_notes>
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
-			<cost type="string">7.5 gp</cost>
+			<cost type="string">7 gp</cost>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00456>
@@ -7345,7 +7345,7 @@
 			<nonid_notes type="string">This 1/4 inch diameter gem is uncut. It is opaque and deep blue in color, shot through with splotches of bright green.</nonid_notes>
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
-			<cost type="string">1.5 gp</cost>
+			<cost type="string">1 gp</cost>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00457>
@@ -7360,7 +7360,7 @@
 			<nonid_notes type="string">This 1/4 inch diameter gem is naturally shaped and polished. It is opaque and deep blue in color, shot through with splotches of bright green.</nonid_notes>
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
-			<cost type="string">7.5 gp</cost>
+			<cost type="string">7 gp</cost>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00458>
@@ -7405,7 +7405,7 @@
 			<nonid_notes type="string">This visibly flawed 1/2 inch diameter gem is uncut. It is opaque and deep blue in color, shot through with splotches of bright green.</nonid_notes>
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
-			<cost type="string">3.75 gp</cost>
+			<cost type="string">3 gp</cost>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00461>
@@ -7420,7 +7420,7 @@
 			<nonid_notes type="string">This visibly flawed 1/2 inch diameter gem is naturally shaped and polished. It is opaque and deep blue in color, shot through with splotches of bright green.</nonid_notes>
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
-			<cost type="string">18.75 gp</cost>
+			<cost type="string">18 gp</cost>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00462>
@@ -7435,7 +7435,7 @@
 			<nonid_notes type="string">This visibly flawed 1/2 inch diameter gem is cut into a sphere. It is opaque and deep blue in color, shot through with splotches of bright green.</nonid_notes>
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
-			<cost type="string">75.0 gp</cost>
+			<cost type="string">75 gp</cost>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00463>
@@ -7450,7 +7450,7 @@
 			<nonid_notes type="string">This visibly flawed 1/2 inch diameter gem is round cabochon cut. It is opaque and deep blue in color, shot through with splotches of bright green.</nonid_notes>
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
-			<cost type="string">37.5 gp</cost>
+			<cost type="string">37 gp</cost>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00464>
@@ -7465,7 +7465,7 @@
 			<nonid_notes type="string">This 1/2 inch diameter gem is uncut. It is opaque and deep blue in color, shot through with splotches of bright green.</nonid_notes>
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
-			<cost type="string">7.5 gp</cost>
+			<cost type="string">7 gp</cost>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00465>
@@ -7480,7 +7480,7 @@
 			<nonid_notes type="string">This 1/2 inch diameter gem is naturally shaped and polished. It is opaque and deep blue in color, shot through with splotches of bright green.</nonid_notes>
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
-			<cost type="string">37.5 gp</cost>
+			<cost type="string">37 gp</cost>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00466>
@@ -7525,7 +7525,7 @@
 			<nonid_notes type="string">This visibly flawed 1 inch diameter gem is uncut. It is opaque and deep blue in color, shot through with splotches of bright green.</nonid_notes>
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
-			<cost type="string">15.0 gp</cost>
+			<cost type="string">15 gp</cost>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00469>
@@ -7540,7 +7540,7 @@
 			<nonid_notes type="string">This visibly flawed 1 inch diameter gem is naturally shaped and polished. It is opaque and deep blue in color, shot through with splotches of bright green.</nonid_notes>
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
-			<cost type="string">75.0 gp</cost>
+			<cost type="string">75 gp</cost>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00470>
@@ -7555,7 +7555,7 @@
 			<nonid_notes type="string">This visibly flawed 1 inch diameter gem is cut into a sphere. It is opaque and deep blue in color, shot through with splotches of bright green.</nonid_notes>
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
-			<cost type="string">300.0 gp</cost>
+			<cost type="string">300 gp</cost>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00471>
@@ -7570,7 +7570,7 @@
 			<nonid_notes type="string">This visibly flawed 1 inch diameter gem is round cabochon cut. It is opaque and deep blue in color, shot through with splotches of bright green.</nonid_notes>
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
-			<cost type="string">150.0 gp</cost>
+			<cost type="string">150 gp</cost>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00472>
@@ -7585,7 +7585,7 @@
 			<nonid_notes type="string">This 1 inch diameter gem is uncut. It is opaque and deep blue in color, shot through with splotches of bright green.</nonid_notes>
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
-			<cost type="string">30.0 gp</cost>
+			<cost type="string">30 gp</cost>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00473>
@@ -7600,7 +7600,7 @@
 			<nonid_notes type="string">This 1 inch diameter gem is naturally shaped and polished. It is opaque and deep blue in color, shot through with splotches of bright green.</nonid_notes>
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
-			<cost type="string">150.0 gp</cost>
+			<cost type="string">150 gp</cost>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00474>
@@ -7645,7 +7645,7 @@
 			<nonid_notes type="string">This visibly flawed 2 inch diameter gem is uncut. It is opaque and deep blue in color, shot through with splotches of bright green.</nonid_notes>
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
-			<cost type="string">75.0 gp</cost>
+			<cost type="string">75 gp</cost>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00477>
@@ -7660,7 +7660,7 @@
 			<nonid_notes type="string">This visibly flawed 2 inch diameter gem is naturally shaped and polished. It is opaque and deep blue in color, shot through with splotches of bright green.</nonid_notes>
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
-			<cost type="string">375.0 gp</cost>
+			<cost type="string">375 gp</cost>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00478>
@@ -7675,7 +7675,7 @@
 			<nonid_notes type="string">This visibly flawed 2 inch diameter gem is cut into a sphere. It is opaque and deep blue in color, shot through with splotches of bright green.</nonid_notes>
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
-			<cost type="string">1000 gp</cost>
+			<cost type="string">1500 gp</cost>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00479>
@@ -7690,7 +7690,7 @@
 			<nonid_notes type="string">This visibly flawed 2 inch diameter gem is round cabochon cut. It is opaque and deep blue in color, shot through with splotches of bright green.</nonid_notes>
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
-			<cost type="string">750.0 gp</cost>
+			<cost type="string">750 gp</cost>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00480>
@@ -7705,7 +7705,7 @@
 			<nonid_notes type="string">This 2 inch diameter gem is uncut. It is opaque and deep blue in color, shot through with splotches of bright green.</nonid_notes>
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
-			<cost type="string">150.0 gp</cost>
+			<cost type="string">150 gp</cost>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00481>
@@ -7720,7 +7720,7 @@
 			<nonid_notes type="string">This 2 inch diameter gem is naturally shaped and polished. It is opaque and deep blue in color, shot through with splotches of bright green.</nonid_notes>
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
-			<cost type="string">750.0 gp</cost>
+			<cost type="string">750 gp</cost>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00482>
@@ -7735,7 +7735,7 @@
 			<nonid_notes type="string">This 2 inch diameter gem is cut into a sphere. It is opaque and deep blue in color, shot through with splotches of bright green.</nonid_notes>
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
-			<cost type="string">1000 gp</cost>
+			<cost type="string">3000 gp</cost>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00483>
@@ -7750,9 +7750,1809 @@
 			<nonid_notes type="string">This 2 inch diameter gem is round cabochon cut. It is opaque and deep blue in color, shot through with splotches of bright green.</nonid_notes>
 			<type type="string">Treasure</type>
 			<subtype type="string">Gemstones</subtype>
-			<cost type="string">1000 gp</cost>
+			<cost type="string">1500 gp</cost>
 			<isidentified type="number">0</isidentified>
 			<locked type="number">1</locked>
 		</id-00484>
+		<id-00485>
+			<name type="string">Citrine, yellow, uncut, tiny, flawed, regular</name>
+			<description type="formattedtext"/>
+			<flavor type="string"/>
+			<notes type="formattedtext"/>
+			<text type="formattedtext"/>
+			<nonid_name type="string">Gem, tiny uncut</nonid_name>
+			<nonidentified type="string">This visibly flawed 1/8 inch diameter gem is uncut. It is transparent and orangey-yellow in color.</nonidentified>
+			<nonid_notes type="string">This visibly flawed 1/8 inch diameter gem is uncut. It is transparent and orangey-yellow in color.</nonid_notes>
+			<type type="string">Treasure</type>
+			<subtype type="string">Gemstones</subtype>
+			<cost type="string">1 gp</cost>
+			<isidentified type="number">0</isidentified>
+			<locked type="number">1</locked>
+		</id-00485>
+		<id-00486>
+			<name type="string">Citrine, yellow, sphere, tiny, flawed, regular</name>
+			<description type="formattedtext"/>
+			<flavor type="string"/>
+			<notes type="formattedtext"/>
+			<text type="formattedtext"/>
+			<nonid_name type="string">Gem, tiny sphere</nonid_name>
+			<nonidentified type="string">This visibly flawed 1/8 inch diameter gem is cut into a sphere. It is transparent and orangey-yellow in color.</nonidentified>
+			<nonid_notes type="string">This visibly flawed 1/8 inch diameter gem is cut into a sphere. It is transparent and orangey-yellow in color.</nonid_notes>
+			<type type="string">Treasure</type>
+			<subtype type="string">Gemstones</subtype>
+			<cost type="string">25 gp</cost>
+			<isidentified type="number">0</isidentified>
+			<locked type="number">1</locked>
+		</id-00486>
+		<id-00487>
+			<name type="string">Citrine, yellow, square radiant, tiny, flawed, regular</name>
+			<description type="formattedtext"/>
+			<flavor type="string"/>
+			<notes type="formattedtext"/>
+			<text type="formattedtext"/>
+			<nonid_name type="string">Gem, tiny square radiant</nonid_name>
+			<nonidentified type="string">This visibly flawed 1/8 inch diameter gem is square radiant cut. It is transparent and orangey-yellow in color.</nonidentified>
+			<nonid_notes type="string">This visibly flawed 1/8 inch diameter gem is square radiant cut. It is transparent and orangey-yellow in color.</nonid_notes>
+			<type type="string">Treasure</type>
+			<subtype type="string">Gemstones</subtype>
+			<cost type="string">25 gp</cost>
+			<isidentified type="number">0</isidentified>
+			<locked type="number">1</locked>
+		</id-00487>
+		<id-00488>
+			<name type="string">Citrine, yellow, round brilliant, tiny, flawed, regular</name>
+			<description type="formattedtext"/>
+			<flavor type="string"/>
+			<notes type="formattedtext"/>
+			<text type="formattedtext"/>
+			<nonid_name type="string">Gem, tiny round brilliant</nonid_name>
+			<nonidentified type="string">This visibly flawed 1/8 inch diameter gem is round brilliant cut. It is transparent and orangey-yellow in color.</nonidentified>
+			<nonid_notes type="string">This visibly flawed 1/8 inch diameter gem is round brilliant cut. It is transparent and orangey-yellow in color.</nonid_notes>
+			<type type="string">Treasure</type>
+			<subtype type="string">Gemstones</subtype>
+			<cost type="string">25 gp</cost>
+			<isidentified type="number">0</isidentified>
+			<locked type="number">1</locked>
+		</id-00488>
+		<id-00489>
+			<name type="string">Citrine, yellow, trilliant, tiny, flawed, regular</name>
+			<description type="formattedtext"/>
+			<flavor type="string"/>
+			<notes type="formattedtext"/>
+			<text type="formattedtext"/>
+			<nonid_name type="string">Gem, tiny trilliant</nonid_name>
+			<nonidentified type="string">This visibly flawed 1/8 inch diameter gem is trilliant cut. It is transparent and orangey-yellow in color.</nonidentified>
+			<nonid_notes type="string">This visibly flawed 1/8 inch diameter gem is trilliant cut. It is transparent and orangey-yellow in color.</nonid_notes>
+			<type type="string">Treasure</type>
+			<subtype type="string">Gemstones</subtype>
+			<cost type="string">37 gp</cost>
+			<isidentified type="number">0</isidentified>
+			<locked type="number">1</locked>
+		</id-00489>
+		<id-00490>
+			<name type="string">Citrine, yellow, uncut, tiny, good, regular</name>
+			<description type="formattedtext"/>
+			<flavor type="string"/>
+			<notes type="formattedtext"/>
+			<text type="formattedtext"/>
+			<nonid_name type="string">Gem, tiny uncut</nonid_name>
+			<nonidentified type="string">This 1/8 inch diameter gem is uncut. It is transparent and orangey-yellow in color.</nonidentified>
+			<nonid_notes type="string">This 1/8 inch diameter gem is uncut. It is transparent and orangey-yellow in color.</nonid_notes>
+			<type type="string">Treasure</type>
+			<subtype type="string">Gemstones</subtype>
+			<cost type="string">2 gp</cost>
+			<isidentified type="number">0</isidentified>
+			<locked type="number">1</locked>
+		</id-00490>
+		<id-00491>
+			<name type="string">Citrine, yellow, sphere, tiny, good, regular</name>
+			<description type="formattedtext"/>
+			<flavor type="string"/>
+			<notes type="formattedtext"/>
+			<text type="formattedtext"/>
+			<nonid_name type="string">Gem, tiny sphere</nonid_name>
+			<nonidentified type="string">This 1/8 inch diameter gem is cut into a sphere. It is transparent and orangey-yellow in color.</nonidentified>
+			<nonid_notes type="string">This 1/8 inch diameter gem is cut into a sphere. It is transparent and orangey-yellow in color.</nonid_notes>
+			<type type="string">Treasure</type>
+			<subtype type="string">Gemstones</subtype>
+			<cost type="string">50 gp</cost>
+			<isidentified type="number">0</isidentified>
+			<locked type="number">1</locked>
+		</id-00491>
+		<id-00492>
+			<name type="string">Citrine, yellow, square radiant, tiny, good, regular</name>
+			<description type="formattedtext"/>
+			<flavor type="string"/>
+			<notes type="formattedtext"/>
+			<text type="formattedtext"/>
+			<nonid_name type="string">Gem, tiny square radiant</nonid_name>
+			<nonidentified type="string">This 1/8 inch diameter gem is square radiant cut. It is transparent and orangey-yellow in color.</nonidentified>
+			<nonid_notes type="string">This 1/8 inch diameter gem is square radiant cut. It is transparent and orangey-yellow in color.</nonid_notes>
+			<type type="string">Treasure</type>
+			<subtype type="string">Gemstones</subtype>
+			<cost type="string">50 gp</cost>
+			<isidentified type="number">0</isidentified>
+			<locked type="number">1</locked>
+		</id-00492>
+		<id-00493>
+			<name type="string">Citrine, yellow, round brilliant, tiny, good, regular</name>
+			<description type="formattedtext"/>
+			<flavor type="string"/>
+			<notes type="formattedtext"/>
+			<text type="formattedtext"/>
+			<nonid_name type="string">Gem, tiny round brilliant</nonid_name>
+			<nonidentified type="string">This 1/8 inch diameter gem is round brilliant cut. It is transparent and orangey-yellow in color.</nonidentified>
+			<nonid_notes type="string">This 1/8 inch diameter gem is round brilliant cut. It is transparent and orangey-yellow in color.</nonid_notes>
+			<type type="string">Treasure</type>
+			<subtype type="string">Gemstones</subtype>
+			<cost type="string">50 gp</cost>
+			<isidentified type="number">0</isidentified>
+			<locked type="number">1</locked>
+		</id-00493>
+		<id-00494>
+			<name type="string">Citrine, yellow, trilliant, tiny, good, regular</name>
+			<description type="formattedtext"/>
+			<flavor type="string"/>
+			<notes type="formattedtext"/>
+			<text type="formattedtext"/>
+			<nonid_name type="string">Gem, tiny trilliant</nonid_name>
+			<nonidentified type="string">This 1/8 inch diameter gem is trilliant cut. It is transparent and orangey-yellow in color.</nonidentified>
+			<nonid_notes type="string">This 1/8 inch diameter gem is trilliant cut. It is transparent and orangey-yellow in color.</nonid_notes>
+			<type type="string">Treasure</type>
+			<subtype type="string">Gemstones</subtype>
+			<cost type="string">75 gp</cost>
+			<isidentified type="number">0</isidentified>
+			<locked type="number">1</locked>
+		</id-00494>
+		<id-00495>
+			<name type="string">Citrine, yellow, uncut, tiny, flawless, regular</name>
+			<description type="formattedtext"/>
+			<flavor type="string"/>
+			<notes type="formattedtext"/>
+			<text type="formattedtext"/>
+			<nonid_name type="string">Gem, tiny uncut</nonid_name>
+			<nonidentified type="string">This 1/8 inch diameter gem is uncut. It is transparent and orangey-yellow in color.</nonidentified>
+			<nonid_notes type="string">This 1/8 inch diameter gem is uncut. It is transparent and orangey-yellow in color.</nonid_notes>
+			<type type="string">Treasure</type>
+			<subtype type="string">Gemstones</subtype>
+			<cost type="string">12 gp</cost>
+			<isidentified type="number">0</isidentified>
+			<locked type="number">1</locked>
+		</id-00495>
+		<id-00496>
+			<name type="string">Citrine, yellow, sphere, tiny, flawless, regular</name>
+			<description type="formattedtext"/>
+			<flavor type="string"/>
+			<notes type="formattedtext"/>
+			<text type="formattedtext"/>
+			<nonid_name type="string">Gem, tiny sphere</nonid_name>
+			<nonidentified type="string">This 1/8 inch diameter gem is cut into a sphere. It is transparent and orangey-yellow in color.</nonidentified>
+			<nonid_notes type="string">This 1/8 inch diameter gem is cut into a sphere. It is transparent and orangey-yellow in color.</nonid_notes>
+			<type type="string">Treasure</type>
+			<subtype type="string">Gemstones</subtype>
+			<cost type="string">250 gp</cost>
+			<isidentified type="number">0</isidentified>
+			<locked type="number">1</locked>
+		</id-00496>
+		<id-00497>
+			<name type="string">Citrine, yellow, square radiant, tiny, flawless, regular</name>
+			<description type="formattedtext"/>
+			<flavor type="string"/>
+			<notes type="formattedtext"/>
+			<text type="formattedtext"/>
+			<nonid_name type="string">Gem, tiny square radiant</nonid_name>
+			<nonidentified type="string">This 1/8 inch diameter gem is square radiant cut. It is transparent and orangey-yellow in color.</nonidentified>
+			<nonid_notes type="string">This 1/8 inch diameter gem is square radiant cut. It is transparent and orangey-yellow in color.</nonid_notes>
+			<type type="string">Treasure</type>
+			<subtype type="string">Gemstones</subtype>
+			<cost type="string">250 gp</cost>
+			<isidentified type="number">0</isidentified>
+			<locked type="number">1</locked>
+		</id-00497>
+		<id-00498>
+			<name type="string">Citrine, yellow, round brilliant, tiny, flawless, regular</name>
+			<description type="formattedtext"/>
+			<flavor type="string"/>
+			<notes type="formattedtext"/>
+			<text type="formattedtext"/>
+			<nonid_name type="string">Gem, tiny round brilliant</nonid_name>
+			<nonidentified type="string">This 1/8 inch diameter gem is round brilliant cut. It is transparent and orangey-yellow in color.</nonidentified>
+			<nonid_notes type="string">This 1/8 inch diameter gem is round brilliant cut. It is transparent and orangey-yellow in color.</nonid_notes>
+			<type type="string">Treasure</type>
+			<subtype type="string">Gemstones</subtype>
+			<cost type="string">250 gp</cost>
+			<isidentified type="number">0</isidentified>
+			<locked type="number">1</locked>
+		</id-00498>
+		<id-00499>
+			<name type="string">Citrine, yellow, trilliant, tiny, flawless, regular</name>
+			<description type="formattedtext"/>
+			<flavor type="string"/>
+			<notes type="formattedtext"/>
+			<text type="formattedtext"/>
+			<nonid_name type="string">Gem, tiny trilliant</nonid_name>
+			<nonidentified type="string">This 1/8 inch diameter gem is trilliant cut. It is transparent and orangey-yellow in color.</nonidentified>
+			<nonid_notes type="string">This 1/8 inch diameter gem is trilliant cut. It is transparent and orangey-yellow in color.</nonid_notes>
+			<type type="string">Treasure</type>
+			<subtype type="string">Gemstones</subtype>
+			<cost type="string">375 gp</cost>
+			<isidentified type="number">0</isidentified>
+			<locked type="number">1</locked>
+		</id-00499>
+		<id-00500>
+			<name type="string">Citrine, yellow, uncut, small, flawed, regular</name>
+			<description type="formattedtext"/>
+			<flavor type="string"/>
+			<notes type="formattedtext"/>
+			<text type="formattedtext"/>
+			<nonid_name type="string">Gem, small uncut</nonid_name>
+			<nonidentified type="string">This visibly flawed 1/4 inch diameter gem is uncut. It is transparent and orangey-yellow in color.</nonidentified>
+			<nonid_notes type="string">This visibly flawed 1/4 inch diameter gem is uncut. It is transparent and orangey-yellow in color.</nonid_notes>
+			<type type="string">Treasure</type>
+			<subtype type="string">Gemstones</subtype>
+			<cost type="string">2 gp</cost>
+			<isidentified type="number">0</isidentified>
+			<locked type="number">1</locked>
+		</id-00500>
+		<id-00501>
+			<name type="string">Citrine, yellow, sphere, small, flawed, regular</name>
+			<description type="formattedtext"/>
+			<flavor type="string"/>
+			<notes type="formattedtext"/>
+			<text type="formattedtext"/>
+			<nonid_name type="string">Gem, small sphere</nonid_name>
+			<nonidentified type="string">This visibly flawed 1/4 inch diameter gem is cut into a sphere. It is transparent and orangey-yellow in color.</nonidentified>
+			<nonid_notes type="string">This visibly flawed 1/4 inch diameter gem is cut into a sphere. It is transparent and orangey-yellow in color.</nonid_notes>
+			<type type="string">Treasure</type>
+			<subtype type="string">Gemstones</subtype>
+			<cost type="string">50 gp</cost>
+			<isidentified type="number">0</isidentified>
+			<locked type="number">1</locked>
+		</id-00501>
+		<id-00502>
+			<name type="string">Citrine, yellow, square radiant, small, flawed, regular</name>
+			<description type="formattedtext"/>
+			<flavor type="string"/>
+			<notes type="formattedtext"/>
+			<text type="formattedtext"/>
+			<nonid_name type="string">Gem, small square radiant</nonid_name>
+			<nonidentified type="string">This visibly flawed 1/4 inch diameter gem is square radiant cut. It is transparent and orangey-yellow in color.</nonidentified>
+			<nonid_notes type="string">This visibly flawed 1/4 inch diameter gem is square radiant cut. It is transparent and orangey-yellow in color.</nonid_notes>
+			<type type="string">Treasure</type>
+			<subtype type="string">Gemstones</subtype>
+			<cost type="string">50 gp</cost>
+			<isidentified type="number">0</isidentified>
+			<locked type="number">1</locked>
+		</id-00502>
+		<id-00503>
+			<name type="string">Citrine, yellow, round brilliant, small, flawed, regular</name>
+			<description type="formattedtext"/>
+			<flavor type="string"/>
+			<notes type="formattedtext"/>
+			<text type="formattedtext"/>
+			<nonid_name type="string">Gem, small round brilliant</nonid_name>
+			<nonidentified type="string">This visibly flawed 1/4 inch diameter gem is round brilliant cut. It is transparent and orangey-yellow in color.</nonidentified>
+			<nonid_notes type="string">This visibly flawed 1/4 inch diameter gem is round brilliant cut. It is transparent and orangey-yellow in color.</nonid_notes>
+			<type type="string">Treasure</type>
+			<subtype type="string">Gemstones</subtype>
+			<cost type="string">50 gp</cost>
+			<isidentified type="number">0</isidentified>
+			<locked type="number">1</locked>
+		</id-00503>
+		<id-00504>
+			<name type="string">Citrine, yellow, trilliant, small, flawed, regular</name>
+			<description type="formattedtext"/>
+			<flavor type="string"/>
+			<notes type="formattedtext"/>
+			<text type="formattedtext"/>
+			<nonid_name type="string">Gem, small trilliant</nonid_name>
+			<nonidentified type="string">This visibly flawed 1/4 inch diameter gem is trilliant cut. It is transparent and orangey-yellow in color.</nonidentified>
+			<nonid_notes type="string">This visibly flawed 1/4 inch diameter gem is trilliant cut. It is transparent and orangey-yellow in color.</nonid_notes>
+			<type type="string">Treasure</type>
+			<subtype type="string">Gemstones</subtype>
+			<cost type="string">75 gp</cost>
+			<isidentified type="number">0</isidentified>
+			<locked type="number">1</locked>
+		</id-00504>
+		<id-00505>
+			<name type="string">Citrine, yellow, uncut, small, good, regular</name>
+			<description type="formattedtext"/>
+			<flavor type="string"/>
+			<notes type="formattedtext"/>
+			<text type="formattedtext"/>
+			<nonid_name type="string">Gem, small uncut</nonid_name>
+			<nonidentified type="string">This 1/4 inch diameter gem is uncut. It is transparent and orangey-yellow in color.</nonidentified>
+			<nonid_notes type="string">This 1/4 inch diameter gem is uncut. It is transparent and orangey-yellow in color.</nonid_notes>
+			<type type="string">Treasure</type>
+			<subtype type="string">Gemstones</subtype>
+			<cost type="string">5 gp</cost>
+			<isidentified type="number">0</isidentified>
+			<locked type="number">1</locked>
+		</id-00505>
+		<id-00506>
+			<name type="string">Citrine, yellow, sphere, small, good, regular</name>
+			<description type="formattedtext"/>
+			<flavor type="string"/>
+			<notes type="formattedtext"/>
+			<text type="formattedtext"/>
+			<nonid_name type="string">Gem, small sphere</nonid_name>
+			<nonidentified type="string">This 1/4 inch diameter gem is cut into a sphere. It is transparent and orangey-yellow in color.</nonidentified>
+			<nonid_notes type="string">This 1/4 inch diameter gem is cut into a sphere. It is transparent and orangey-yellow in color.</nonid_notes>
+			<type type="string">Treasure</type>
+			<subtype type="string">Gemstones</subtype>
+			<cost type="string">100 gp</cost>
+			<isidentified type="number">0</isidentified>
+			<locked type="number">1</locked>
+		</id-00506>
+		<id-00507>
+			<name type="string">Citrine, yellow, square radiant, small, good, regular</name>
+			<description type="formattedtext"/>
+			<flavor type="string"/>
+			<notes type="formattedtext"/>
+			<text type="formattedtext"/>
+			<nonid_name type="string">Gem, small square radiant</nonid_name>
+			<nonidentified type="string">This 1/4 inch diameter gem is square radiant cut. It is transparent and orangey-yellow in color.</nonidentified>
+			<nonid_notes type="string">This 1/4 inch diameter gem is square radiant cut. It is transparent and orangey-yellow in color.</nonid_notes>
+			<type type="string">Treasure</type>
+			<subtype type="string">Gemstones</subtype>
+			<cost type="string">100 gp</cost>
+			<isidentified type="number">0</isidentified>
+			<locked type="number">1</locked>
+		</id-00507>
+		<id-00508>
+			<name type="string">Citrine, yellow, round brilliant, small, good, regular</name>
+			<description type="formattedtext"/>
+			<flavor type="string"/>
+			<notes type="formattedtext"/>
+			<text type="formattedtext"/>
+			<nonid_name type="string">Gem, small round brilliant</nonid_name>
+			<nonidentified type="string">This 1/4 inch diameter gem is round brilliant cut. It is transparent and orangey-yellow in color.</nonidentified>
+			<nonid_notes type="string">This 1/4 inch diameter gem is round brilliant cut. It is transparent and orangey-yellow in color.</nonid_notes>
+			<type type="string">Treasure</type>
+			<subtype type="string">Gemstones</subtype>
+			<cost type="string">100 gp</cost>
+			<isidentified type="number">0</isidentified>
+			<locked type="number">1</locked>
+		</id-00508>
+		<id-00509>
+			<name type="string">Citrine, yellow, trilliant, small, good, regular</name>
+			<description type="formattedtext"/>
+			<flavor type="string"/>
+			<notes type="formattedtext"/>
+			<text type="formattedtext"/>
+			<nonid_name type="string">Gem, small trilliant</nonid_name>
+			<nonidentified type="string">This 1/4 inch diameter gem is trilliant cut. It is transparent and orangey-yellow in color.</nonidentified>
+			<nonid_notes type="string">This 1/4 inch diameter gem is trilliant cut. It is transparent and orangey-yellow in color.</nonid_notes>
+			<type type="string">Treasure</type>
+			<subtype type="string">Gemstones</subtype>
+			<cost type="string">150 gp</cost>
+			<isidentified type="number">0</isidentified>
+			<locked type="number">1</locked>
+		</id-00509>
+		<id-00510>
+			<name type="string">Citrine, yellow, uncut, small, flawless, regular</name>
+			<description type="formattedtext"/>
+			<flavor type="string"/>
+			<notes type="formattedtext"/>
+			<text type="formattedtext"/>
+			<nonid_name type="string">Gem, small uncut</nonid_name>
+			<nonidentified type="string">This 1/4 inch diameter gem is uncut. It is transparent and orangey-yellow in color.</nonidentified>
+			<nonid_notes type="string">This 1/4 inch diameter gem is uncut. It is transparent and orangey-yellow in color.</nonid_notes>
+			<type type="string">Treasure</type>
+			<subtype type="string">Gemstones</subtype>
+			<cost type="string">25 gp</cost>
+			<isidentified type="number">0</isidentified>
+			<locked type="number">1</locked>
+		</id-00510>
+		<id-00511>
+			<name type="string">Citrine, yellow, sphere, small, flawless, regular</name>
+			<description type="formattedtext"/>
+			<flavor type="string"/>
+			<notes type="formattedtext"/>
+			<text type="formattedtext"/>
+			<nonid_name type="string">Gem, small sphere</nonid_name>
+			<nonidentified type="string">This 1/4 inch diameter gem is cut into a sphere. It is transparent and orangey-yellow in color.</nonidentified>
+			<nonid_notes type="string">This 1/4 inch diameter gem is cut into a sphere. It is transparent and orangey-yellow in color.</nonid_notes>
+			<type type="string">Treasure</type>
+			<subtype type="string">Gemstones</subtype>
+			<cost type="string">500 gp</cost>
+			<isidentified type="number">0</isidentified>
+			<locked type="number">1</locked>
+		</id-00511>
+		<id-00512>
+			<name type="string">Citrine, yellow, square radiant, small, flawless, regular</name>
+			<description type="formattedtext"/>
+			<flavor type="string"/>
+			<notes type="formattedtext"/>
+			<text type="formattedtext"/>
+			<nonid_name type="string">Gem, small square radiant</nonid_name>
+			<nonidentified type="string">This 1/4 inch diameter gem is square radiant cut. It is transparent and orangey-yellow in color.</nonidentified>
+			<nonid_notes type="string">This 1/4 inch diameter gem is square radiant cut. It is transparent and orangey-yellow in color.</nonid_notes>
+			<type type="string">Treasure</type>
+			<subtype type="string">Gemstones</subtype>
+			<cost type="string">500 gp</cost>
+			<isidentified type="number">0</isidentified>
+			<locked type="number">1</locked>
+		</id-00512>
+		<id-00513>
+			<name type="string">Citrine, yellow, round brilliant, small, flawless, regular</name>
+			<description type="formattedtext"/>
+			<flavor type="string"/>
+			<notes type="formattedtext"/>
+			<text type="formattedtext"/>
+			<nonid_name type="string">Gem, small round brilliant</nonid_name>
+			<nonidentified type="string">This 1/4 inch diameter gem is round brilliant cut. It is transparent and orangey-yellow in color.</nonidentified>
+			<nonid_notes type="string">This 1/4 inch diameter gem is round brilliant cut. It is transparent and orangey-yellow in color.</nonid_notes>
+			<type type="string">Treasure</type>
+			<subtype type="string">Gemstones</subtype>
+			<cost type="string">500 gp</cost>
+			<isidentified type="number">0</isidentified>
+			<locked type="number">1</locked>
+		</id-00513>
+		<id-00514>
+			<name type="string">Citrine, yellow, trilliant, small, flawless, regular</name>
+			<description type="formattedtext"/>
+			<flavor type="string"/>
+			<notes type="formattedtext"/>
+			<text type="formattedtext"/>
+			<nonid_name type="string">Gem, small trilliant</nonid_name>
+			<nonidentified type="string">This 1/4 inch diameter gem is trilliant cut. It is transparent and orangey-yellow in color.</nonidentified>
+			<nonid_notes type="string">This 1/4 inch diameter gem is trilliant cut. It is transparent and orangey-yellow in color.</nonid_notes>
+			<type type="string">Treasure</type>
+			<subtype type="string">Gemstones</subtype>
+			<cost type="string">750 gp</cost>
+			<isidentified type="number">0</isidentified>
+			<locked type="number">1</locked>
+		</id-00514>
+		<id-00515>
+			<name type="string">Citrine, yellow, uncut, medium, flawed, regular</name>
+			<description type="formattedtext"/>
+			<flavor type="string"/>
+			<notes type="formattedtext"/>
+			<text type="formattedtext"/>
+			<nonid_name type="string">Gem, medium uncut</nonid_name>
+			<nonidentified type="string">This visibly flawed 1/2 inch diameter gem is uncut. It is transparent and orangey-yellow in color.</nonidentified>
+			<nonid_notes type="string">This visibly flawed 1/2 inch diameter gem is uncut. It is transparent and orangey-yellow in color.</nonid_notes>
+			<type type="string">Treasure</type>
+			<subtype type="string">Gemstones</subtype>
+			<cost type="string">12 gp</cost>
+			<isidentified type="number">0</isidentified>
+			<locked type="number">1</locked>
+		</id-00515>
+		<id-00516>
+			<name type="string">Citrine, yellow, sphere, medium, flawed, regular</name>
+			<description type="formattedtext"/>
+			<flavor type="string"/>
+			<notes type="formattedtext"/>
+			<text type="formattedtext"/>
+			<nonid_name type="string">Gem, medium sphere</nonid_name>
+			<nonidentified type="string">This visibly flawed 1/2 inch diameter gem is cut into a sphere. It is transparent and orangey-yellow in color.</nonidentified>
+			<nonid_notes type="string">This visibly flawed 1/2 inch diameter gem is cut into a sphere. It is transparent and orangey-yellow in color.</nonid_notes>
+			<type type="string">Treasure</type>
+			<subtype type="string">Gemstones</subtype>
+			<cost type="string">250 gp</cost>
+			<isidentified type="number">0</isidentified>
+			<locked type="number">1</locked>
+		</id-00516>
+		<id-00517>
+			<name type="string">Citrine, yellow, square radiant, medium, flawed, regular</name>
+			<description type="formattedtext"/>
+			<flavor type="string"/>
+			<notes type="formattedtext"/>
+			<text type="formattedtext"/>
+			<nonid_name type="string">Gem, medium square radiant</nonid_name>
+			<nonidentified type="string">This visibly flawed 1/2 inch diameter gem is square radiant cut. It is transparent and orangey-yellow in color.</nonidentified>
+			<nonid_notes type="string">This visibly flawed 1/2 inch diameter gem is square radiant cut. It is transparent and orangey-yellow in color.</nonid_notes>
+			<type type="string">Treasure</type>
+			<subtype type="string">Gemstones</subtype>
+			<cost type="string">250 gp</cost>
+			<isidentified type="number">0</isidentified>
+			<locked type="number">1</locked>
+		</id-00517>
+		<id-00518>
+			<name type="string">Citrine, yellow, round brilliant, medium, flawed, regular</name>
+			<description type="formattedtext"/>
+			<flavor type="string"/>
+			<notes type="formattedtext"/>
+			<text type="formattedtext"/>
+			<nonid_name type="string">Gem, medium round brilliant</nonid_name>
+			<nonidentified type="string">This visibly flawed 1/2 inch diameter gem is round brilliant cut. It is transparent and orangey-yellow in color.</nonidentified>
+			<nonid_notes type="string">This visibly flawed 1/2 inch diameter gem is round brilliant cut. It is transparent and orangey-yellow in color.</nonid_notes>
+			<type type="string">Treasure</type>
+			<subtype type="string">Gemstones</subtype>
+			<cost type="string">250 gp</cost>
+			<isidentified type="number">0</isidentified>
+			<locked type="number">1</locked>
+		</id-00518>
+		<id-00519>
+			<name type="string">Citrine, yellow, trilliant, medium, flawed, regular</name>
+			<description type="formattedtext"/>
+			<flavor type="string"/>
+			<notes type="formattedtext"/>
+			<text type="formattedtext"/>
+			<nonid_name type="string">Gem, medium trilliant</nonid_name>
+			<nonidentified type="string">This visibly flawed 1/2 inch diameter gem is trilliant cut. It is transparent and orangey-yellow in color.</nonidentified>
+			<nonid_notes type="string">This visibly flawed 1/2 inch diameter gem is trilliant cut. It is transparent and orangey-yellow in color.</nonid_notes>
+			<type type="string">Treasure</type>
+			<subtype type="string">Gemstones</subtype>
+			<cost type="string">375 gp</cost>
+			<isidentified type="number">0</isidentified>
+			<locked type="number">1</locked>
+		</id-00519>
+		<id-00520>
+			<name type="string">Citrine, yellow, uncut, medium, good, regular</name>
+			<description type="formattedtext"/>
+			<flavor type="string"/>
+			<notes type="formattedtext"/>
+			<text type="formattedtext"/>
+			<nonid_name type="string">Gem, medium uncut</nonid_name>
+			<nonidentified type="string">This 1/2 inch diameter gem is uncut. It is transparent and orangey-yellow in color.</nonidentified>
+			<nonid_notes type="string">This 1/2 inch diameter gem is uncut. It is transparent and orangey-yellow in color.</nonid_notes>
+			<type type="string">Treasure</type>
+			<subtype type="string">Gemstones</subtype>
+			<cost type="string">25 gp</cost>
+			<isidentified type="number">0</isidentified>
+			<locked type="number">1</locked>
+		</id-00520>
+		<id-00521>
+			<name type="string">Citrine, yellow, sphere, medium, good, regular</name>
+			<description type="formattedtext"/>
+			<flavor type="string"/>
+			<notes type="formattedtext"/>
+			<text type="formattedtext"/>
+			<nonid_name type="string">Gem, medium sphere</nonid_name>
+			<nonidentified type="string">This 1/2 inch diameter gem is cut into a sphere. It is transparent and orangey-yellow in color.</nonidentified>
+			<nonid_notes type="string">This 1/2 inch diameter gem is cut into a sphere. It is transparent and orangey-yellow in color.</nonid_notes>
+			<type type="string">Treasure</type>
+			<subtype type="string">Gemstones</subtype>
+			<cost type="string">500 gp</cost>
+			<isidentified type="number">0</isidentified>
+			<locked type="number">1</locked>
+		</id-00521>
+		<id-00522>
+			<name type="string">Citrine, yellow, square radiant, medium, good, regular</name>
+			<description type="formattedtext"/>
+			<flavor type="string"/>
+			<notes type="formattedtext"/>
+			<text type="formattedtext"/>
+			<nonid_name type="string">Gem, medium square radiant</nonid_name>
+			<nonidentified type="string">This 1/2 inch diameter gem is square radiant cut. It is transparent and orangey-yellow in color.</nonidentified>
+			<nonid_notes type="string">This 1/2 inch diameter gem is square radiant cut. It is transparent and orangey-yellow in color.</nonid_notes>
+			<type type="string">Treasure</type>
+			<subtype type="string">Gemstones</subtype>
+			<cost type="string">500 gp</cost>
+			<isidentified type="number">0</isidentified>
+			<locked type="number">1</locked>
+		</id-00522>
+		<id-00523>
+			<name type="string">Citrine, yellow, round brilliant, medium, good, regular</name>
+			<description type="formattedtext"/>
+			<flavor type="string"/>
+			<notes type="formattedtext"/>
+			<text type="formattedtext"/>
+			<nonid_name type="string">Gem, medium round brilliant</nonid_name>
+			<nonidentified type="string">This 1/2 inch diameter gem is round brilliant cut. It is transparent and orangey-yellow in color.</nonidentified>
+			<nonid_notes type="string">This 1/2 inch diameter gem is round brilliant cut. It is transparent and orangey-yellow in color.</nonid_notes>
+			<type type="string">Treasure</type>
+			<subtype type="string">Gemstones</subtype>
+			<cost type="string">500 gp</cost>
+			<isidentified type="number">0</isidentified>
+			<locked type="number">1</locked>
+		</id-00523>
+		<id-00524>
+			<name type="string">Citrine, yellow, trilliant, medium, good, regular</name>
+			<description type="formattedtext"/>
+			<flavor type="string"/>
+			<notes type="formattedtext"/>
+			<text type="formattedtext"/>
+			<nonid_name type="string">Gem, medium trilliant</nonid_name>
+			<nonidentified type="string">This 1/2 inch diameter gem is trilliant cut. It is transparent and orangey-yellow in color.</nonidentified>
+			<nonid_notes type="string">This 1/2 inch diameter gem is trilliant cut. It is transparent and orangey-yellow in color.</nonid_notes>
+			<type type="string">Treasure</type>
+			<subtype type="string">Gemstones</subtype>
+			<cost type="string">750 gp</cost>
+			<isidentified type="number">0</isidentified>
+			<locked type="number">1</locked>
+		</id-00524>
+		<id-00525>
+			<name type="string">Citrine, yellow, uncut, medium, flawless, regular</name>
+			<description type="formattedtext"/>
+			<flavor type="string"/>
+			<notes type="formattedtext"/>
+			<text type="formattedtext"/>
+			<nonid_name type="string">Gem, medium uncut</nonid_name>
+			<nonidentified type="string">This 1/2 inch diameter gem is uncut. It is transparent and orangey-yellow in color.</nonidentified>
+			<nonid_notes type="string">This 1/2 inch diameter gem is uncut. It is transparent and orangey-yellow in color.</nonid_notes>
+			<type type="string">Treasure</type>
+			<subtype type="string">Gemstones</subtype>
+			<cost type="string">125 gp</cost>
+			<isidentified type="number">0</isidentified>
+			<locked type="number">1</locked>
+		</id-00525>
+		<id-00526>
+			<name type="string">Citrine, yellow, sphere, medium, flawless, regular</name>
+			<description type="formattedtext"/>
+			<flavor type="string"/>
+			<notes type="formattedtext"/>
+			<text type="formattedtext"/>
+			<nonid_name type="string">Gem, medium sphere</nonid_name>
+			<nonidentified type="string">This 1/2 inch diameter gem is cut into a sphere. It is transparent and orangey-yellow in color.</nonidentified>
+			<nonid_notes type="string">This 1/2 inch diameter gem is cut into a sphere. It is transparent and orangey-yellow in color.</nonid_notes>
+			<type type="string">Treasure</type>
+			<subtype type="string">Gemstones</subtype>
+			<cost type="string">2500 gp</cost>
+			<isidentified type="number">0</isidentified>
+			<locked type="number">1</locked>
+		</id-00526>
+		<id-00527>
+			<name type="string">Citrine, yellow, square radiant, medium, flawless, regular</name>
+			<description type="formattedtext"/>
+			<flavor type="string"/>
+			<notes type="formattedtext"/>
+			<text type="formattedtext"/>
+			<nonid_name type="string">Gem, medium square radiant</nonid_name>
+			<nonidentified type="string">This 1/2 inch diameter gem is square radiant cut. It is transparent and orangey-yellow in color.</nonidentified>
+			<nonid_notes type="string">This 1/2 inch diameter gem is square radiant cut. It is transparent and orangey-yellow in color.</nonid_notes>
+			<type type="string">Treasure</type>
+			<subtype type="string">Gemstones</subtype>
+			<cost type="string">2500 gp</cost>
+			<isidentified type="number">0</isidentified>
+			<locked type="number">1</locked>
+		</id-00527>
+		<id-00528>
+			<name type="string">Citrine, yellow, round brilliant, medium, flawless, regular</name>
+			<description type="formattedtext"/>
+			<flavor type="string"/>
+			<notes type="formattedtext"/>
+			<text type="formattedtext"/>
+			<nonid_name type="string">Gem, medium round brilliant</nonid_name>
+			<nonidentified type="string">This 1/2 inch diameter gem is round brilliant cut. It is transparent and orangey-yellow in color.</nonidentified>
+			<nonid_notes type="string">This 1/2 inch diameter gem is round brilliant cut. It is transparent and orangey-yellow in color.</nonid_notes>
+			<type type="string">Treasure</type>
+			<subtype type="string">Gemstones</subtype>
+			<cost type="string">2500 gp</cost>
+			<isidentified type="number">0</isidentified>
+			<locked type="number">1</locked>
+		</id-00528>
+		<id-00529>
+			<name type="string">Citrine, yellow, trilliant, medium, flawless, regular</name>
+			<description type="formattedtext"/>
+			<flavor type="string"/>
+			<notes type="formattedtext"/>
+			<text type="formattedtext"/>
+			<nonid_name type="string">Gem, medium trilliant</nonid_name>
+			<nonidentified type="string">This 1/2 inch diameter gem is trilliant cut. It is transparent and orangey-yellow in color.</nonidentified>
+			<nonid_notes type="string">This 1/2 inch diameter gem is trilliant cut. It is transparent and orangey-yellow in color.</nonid_notes>
+			<type type="string">Treasure</type>
+			<subtype type="string">Gemstones</subtype>
+			<cost type="string">3750 gp</cost>
+			<isidentified type="number">0</isidentified>
+			<locked type="number">1</locked>
+		</id-00529>
+		<id-00530>
+			<name type="string">Citrine, yellow, uncut, large, flawed, regular</name>
+			<description type="formattedtext"/>
+			<flavor type="string"/>
+			<notes type="formattedtext"/>
+			<text type="formattedtext"/>
+			<nonid_name type="string">Gem, large uncut</nonid_name>
+			<nonidentified type="string">This visibly flawed 1 inch diameter gem is uncut. It is transparent and orangey-yellow in color.</nonidentified>
+			<nonid_notes type="string">This visibly flawed 1 inch diameter gem is uncut. It is transparent and orangey-yellow in color.</nonid_notes>
+			<type type="string">Treasure</type>
+			<subtype type="string">Gemstones</subtype>
+			<cost type="string">50 gp</cost>
+			<isidentified type="number">0</isidentified>
+			<locked type="number">1</locked>
+		</id-00530>
+		<id-00531>
+			<name type="string">Citrine, yellow, sphere, large, flawed, regular</name>
+			<description type="formattedtext"/>
+			<flavor type="string"/>
+			<notes type="formattedtext"/>
+			<text type="formattedtext"/>
+			<nonid_name type="string">Gem, large sphere</nonid_name>
+			<nonidentified type="string">This visibly flawed 1 inch diameter gem is cut into a sphere. It is transparent and orangey-yellow in color.</nonidentified>
+			<nonid_notes type="string">This visibly flawed 1 inch diameter gem is cut into a sphere. It is transparent and orangey-yellow in color.</nonid_notes>
+			<type type="string">Treasure</type>
+			<subtype type="string">Gemstones</subtype>
+			<cost type="string">1000 gp</cost>
+			<isidentified type="number">0</isidentified>
+			<locked type="number">1</locked>
+		</id-00531>
+		<id-00532>
+			<name type="string">Citrine, yellow, square radiant, large, flawed, regular</name>
+			<description type="formattedtext"/>
+			<flavor type="string"/>
+			<notes type="formattedtext"/>
+			<text type="formattedtext"/>
+			<nonid_name type="string">Gem, large square radiant</nonid_name>
+			<nonidentified type="string">This visibly flawed 1 inch diameter gem is square radiant cut. It is transparent and orangey-yellow in color.</nonidentified>
+			<nonid_notes type="string">This visibly flawed 1 inch diameter gem is square radiant cut. It is transparent and orangey-yellow in color.</nonid_notes>
+			<type type="string">Treasure</type>
+			<subtype type="string">Gemstones</subtype>
+			<cost type="string">1000 gp</cost>
+			<isidentified type="number">0</isidentified>
+			<locked type="number">1</locked>
+		</id-00532>
+		<id-00533>
+			<name type="string">Citrine, yellow, round brilliant, large, flawed, regular</name>
+			<description type="formattedtext"/>
+			<flavor type="string"/>
+			<notes type="formattedtext"/>
+			<text type="formattedtext"/>
+			<nonid_name type="string">Gem, large round brilliant</nonid_name>
+			<nonidentified type="string">This visibly flawed 1 inch diameter gem is round brilliant cut. It is transparent and orangey-yellow in color.</nonidentified>
+			<nonid_notes type="string">This visibly flawed 1 inch diameter gem is round brilliant cut. It is transparent and orangey-yellow in color.</nonid_notes>
+			<type type="string">Treasure</type>
+			<subtype type="string">Gemstones</subtype>
+			<cost type="string">1000 gp</cost>
+			<isidentified type="number">0</isidentified>
+			<locked type="number">1</locked>
+		</id-00533>
+		<id-00534>
+			<name type="string">Citrine, yellow, trilliant, large, flawed, regular</name>
+			<description type="formattedtext"/>
+			<flavor type="string"/>
+			<notes type="formattedtext"/>
+			<text type="formattedtext"/>
+			<nonid_name type="string">Gem, large trilliant</nonid_name>
+			<nonidentified type="string">This visibly flawed 1 inch diameter gem is trilliant cut. It is transparent and orangey-yellow in color.</nonidentified>
+			<nonid_notes type="string">This visibly flawed 1 inch diameter gem is trilliant cut. It is transparent and orangey-yellow in color.</nonid_notes>
+			<type type="string">Treasure</type>
+			<subtype type="string">Gemstones</subtype>
+			<cost type="string">1500 gp</cost>
+			<isidentified type="number">0</isidentified>
+			<locked type="number">1</locked>
+		</id-00534>
+		<id-00535>
+			<name type="string">Citrine, yellow, uncut, large, good, regular</name>
+			<description type="formattedtext"/>
+			<flavor type="string"/>
+			<notes type="formattedtext"/>
+			<text type="formattedtext"/>
+			<nonid_name type="string">Gem, large uncut</nonid_name>
+			<nonidentified type="string">This 1 inch diameter gem is uncut. It is transparent and orangey-yellow in color.</nonidentified>
+			<nonid_notes type="string">This 1 inch diameter gem is uncut. It is transparent and orangey-yellow in color.</nonid_notes>
+			<type type="string">Treasure</type>
+			<subtype type="string">Gemstones</subtype>
+			<cost type="string">100 gp</cost>
+			<isidentified type="number">0</isidentified>
+			<locked type="number">1</locked>
+		</id-00535>
+		<id-00536>
+			<name type="string">Citrine, yellow, sphere, large, good, regular</name>
+			<description type="formattedtext"/>
+			<flavor type="string"/>
+			<notes type="formattedtext"/>
+			<text type="formattedtext"/>
+			<nonid_name type="string">Gem, large sphere</nonid_name>
+			<nonidentified type="string">This 1 inch diameter gem is cut into a sphere. It is transparent and orangey-yellow in color.</nonidentified>
+			<nonid_notes type="string">This 1 inch diameter gem is cut into a sphere. It is transparent and orangey-yellow in color.</nonid_notes>
+			<type type="string">Treasure</type>
+			<subtype type="string">Gemstones</subtype>
+			<cost type="string">2000 gp</cost>
+			<isidentified type="number">0</isidentified>
+			<locked type="number">1</locked>
+		</id-00536>
+		<id-00537>
+			<name type="string">Citrine, yellow, square radiant, large, good, regular</name>
+			<description type="formattedtext"/>
+			<flavor type="string"/>
+			<notes type="formattedtext"/>
+			<text type="formattedtext"/>
+			<nonid_name type="string">Gem, large square radiant</nonid_name>
+			<nonidentified type="string">This 1 inch diameter gem is square radiant cut. It is transparent and orangey-yellow in color.</nonidentified>
+			<nonid_notes type="string">This 1 inch diameter gem is square radiant cut. It is transparent and orangey-yellow in color.</nonid_notes>
+			<type type="string">Treasure</type>
+			<subtype type="string">Gemstones</subtype>
+			<cost type="string">2000 gp</cost>
+			<isidentified type="number">0</isidentified>
+			<locked type="number">1</locked>
+		</id-00537>
+		<id-00538>
+			<name type="string">Citrine, yellow, round brilliant, large, good, regular</name>
+			<description type="formattedtext"/>
+			<flavor type="string"/>
+			<notes type="formattedtext"/>
+			<text type="formattedtext"/>
+			<nonid_name type="string">Gem, large round brilliant</nonid_name>
+			<nonidentified type="string">This 1 inch diameter gem is round brilliant cut. It is transparent and orangey-yellow in color.</nonidentified>
+			<nonid_notes type="string">This 1 inch diameter gem is round brilliant cut. It is transparent and orangey-yellow in color.</nonid_notes>
+			<type type="string">Treasure</type>
+			<subtype type="string">Gemstones</subtype>
+			<cost type="string">2000 gp</cost>
+			<isidentified type="number">0</isidentified>
+			<locked type="number">1</locked>
+		</id-00538>
+		<id-00539>
+			<name type="string">Citrine, yellow, trilliant, large, good, regular</name>
+			<description type="formattedtext"/>
+			<flavor type="string"/>
+			<notes type="formattedtext"/>
+			<text type="formattedtext"/>
+			<nonid_name type="string">Gem, large trilliant</nonid_name>
+			<nonidentified type="string">This 1 inch diameter gem is trilliant cut. It is transparent and orangey-yellow in color.</nonidentified>
+			<nonid_notes type="string">This 1 inch diameter gem is trilliant cut. It is transparent and orangey-yellow in color.</nonid_notes>
+			<type type="string">Treasure</type>
+			<subtype type="string">Gemstones</subtype>
+			<cost type="string">3000 gp</cost>
+			<isidentified type="number">0</isidentified>
+			<locked type="number">1</locked>
+		</id-00539>
+		<id-00540>
+			<name type="string">Citrine, yellow, uncut, large, flawless, regular</name>
+			<description type="formattedtext"/>
+			<flavor type="string"/>
+			<notes type="formattedtext"/>
+			<text type="formattedtext"/>
+			<nonid_name type="string">Gem, large uncut</nonid_name>
+			<nonidentified type="string">This 1 inch diameter gem is uncut. It is transparent and orangey-yellow in color.</nonidentified>
+			<nonid_notes type="string">This 1 inch diameter gem is uncut. It is transparent and orangey-yellow in color.</nonid_notes>
+			<type type="string">Treasure</type>
+			<subtype type="string">Gemstones</subtype>
+			<cost type="string">500 gp</cost>
+			<isidentified type="number">0</isidentified>
+			<locked type="number">1</locked>
+		</id-00540>
+		<id-00541>
+			<name type="string">Citrine, yellow, sphere, large, flawless, regular</name>
+			<description type="formattedtext"/>
+			<flavor type="string"/>
+			<notes type="formattedtext"/>
+			<text type="formattedtext"/>
+			<nonid_name type="string">Gem, large sphere</nonid_name>
+			<nonidentified type="string">This 1 inch diameter gem is cut into a sphere. It is transparent and orangey-yellow in color.</nonidentified>
+			<nonid_notes type="string">This 1 inch diameter gem is cut into a sphere. It is transparent and orangey-yellow in color.</nonid_notes>
+			<type type="string">Treasure</type>
+			<subtype type="string">Gemstones</subtype>
+			<cost type="string">10000 gp</cost>
+			<isidentified type="number">0</isidentified>
+			<locked type="number">1</locked>
+		</id-00541>
+		<id-00542>
+			<name type="string">Citrine, yellow, square radiant, large, flawless, regular</name>
+			<description type="formattedtext"/>
+			<flavor type="string"/>
+			<notes type="formattedtext"/>
+			<text type="formattedtext"/>
+			<nonid_name type="string">Gem, large square radiant</nonid_name>
+			<nonidentified type="string">This 1 inch diameter gem is square radiant cut. It is transparent and orangey-yellow in color.</nonidentified>
+			<nonid_notes type="string">This 1 inch diameter gem is square radiant cut. It is transparent and orangey-yellow in color.</nonid_notes>
+			<type type="string">Treasure</type>
+			<subtype type="string">Gemstones</subtype>
+			<cost type="string">10000 gp</cost>
+			<isidentified type="number">0</isidentified>
+			<locked type="number">1</locked>
+		</id-00542>
+		<id-00543>
+			<name type="string">Citrine, yellow, round brilliant, large, flawless, regular</name>
+			<description type="formattedtext"/>
+			<flavor type="string"/>
+			<notes type="formattedtext"/>
+			<text type="formattedtext"/>
+			<nonid_name type="string">Gem, large round brilliant</nonid_name>
+			<nonidentified type="string">This 1 inch diameter gem is round brilliant cut. It is transparent and orangey-yellow in color.</nonidentified>
+			<nonid_notes type="string">This 1 inch diameter gem is round brilliant cut. It is transparent and orangey-yellow in color.</nonid_notes>
+			<type type="string">Treasure</type>
+			<subtype type="string">Gemstones</subtype>
+			<cost type="string">10000 gp</cost>
+			<isidentified type="number">0</isidentified>
+			<locked type="number">1</locked>
+		</id-00543>
+		<id-00544>
+			<name type="string">Citrine, yellow, trilliant, large, flawless, regular</name>
+			<description type="formattedtext"/>
+			<flavor type="string"/>
+			<notes type="formattedtext"/>
+			<text type="formattedtext"/>
+			<nonid_name type="string">Gem, large trilliant</nonid_name>
+			<nonidentified type="string">This 1 inch diameter gem is trilliant cut. It is transparent and orangey-yellow in color.</nonidentified>
+			<nonid_notes type="string">This 1 inch diameter gem is trilliant cut. It is transparent and orangey-yellow in color.</nonid_notes>
+			<type type="string">Treasure</type>
+			<subtype type="string">Gemstones</subtype>
+			<cost type="string">15000 gp</cost>
+			<isidentified type="number">0</isidentified>
+			<locked type="number">1</locked>
+		</id-00544>
+		<id-00545>
+			<name type="string">Citrine, orange, uncut, tiny, flawed, regular</name>
+			<description type="formattedtext"/>
+			<flavor type="string"/>
+			<notes type="formattedtext"/>
+			<text type="formattedtext"/>
+			<nonid_name type="string">Gem, tiny uncut</nonid_name>
+			<nonidentified type="string">This visibly flawed 1/8 inch diameter gem is uncut. It is transparent and brownish-orange in color.</nonidentified>
+			<nonid_notes type="string">This visibly flawed 1/8 inch diameter gem is uncut. It is transparent and brownish-orange in color.</nonid_notes>
+			<type type="string">Treasure</type>
+			<subtype type="string">Gemstones</subtype>
+			<cost type="string">1 gp</cost>
+			<isidentified type="number">0</isidentified>
+			<locked type="number">1</locked>
+		</id-00545>
+		<id-00546>
+			<name type="string">Citrine, orange, sphere, tiny, flawed, regular</name>
+			<description type="formattedtext"/>
+			<flavor type="string"/>
+			<notes type="formattedtext"/>
+			<text type="formattedtext"/>
+			<nonid_name type="string">Gem, tiny sphere</nonid_name>
+			<nonidentified type="string">This visibly flawed 1/8 inch diameter gem is cut into a sphere. It is transparent and brownish-orange in color.</nonidentified>
+			<nonid_notes type="string">This visibly flawed 1/8 inch diameter gem is cut into a sphere. It is transparent and brownish-orange in color.</nonid_notes>
+			<type type="string">Treasure</type>
+			<subtype type="string">Gemstones</subtype>
+			<cost type="string">25 gp</cost>
+			<isidentified type="number">0</isidentified>
+			<locked type="number">1</locked>
+		</id-00546>
+		<id-00547>
+			<name type="string">Citrine, orange, square radiant, tiny, flawed, regular</name>
+			<description type="formattedtext"/>
+			<flavor type="string"/>
+			<notes type="formattedtext"/>
+			<text type="formattedtext"/>
+			<nonid_name type="string">Gem, tiny square radiant</nonid_name>
+			<nonidentified type="string">This visibly flawed 1/8 inch diameter gem is square radiant cut. It is transparent and brownish-orange in color.</nonidentified>
+			<nonid_notes type="string">This visibly flawed 1/8 inch diameter gem is square radiant cut. It is transparent and brownish-orange in color.</nonid_notes>
+			<type type="string">Treasure</type>
+			<subtype type="string">Gemstones</subtype>
+			<cost type="string">25 gp</cost>
+			<isidentified type="number">0</isidentified>
+			<locked type="number">1</locked>
+		</id-00547>
+		<id-00548>
+			<name type="string">Citrine, orange, round brilliant, tiny, flawed, regular</name>
+			<description type="formattedtext"/>
+			<flavor type="string"/>
+			<notes type="formattedtext"/>
+			<text type="formattedtext"/>
+			<nonid_name type="string">Gem, tiny round brilliant</nonid_name>
+			<nonidentified type="string">This visibly flawed 1/8 inch diameter gem is round brilliant cut. It is transparent and brownish-orange in color.</nonidentified>
+			<nonid_notes type="string">This visibly flawed 1/8 inch diameter gem is round brilliant cut. It is transparent and brownish-orange in color.</nonid_notes>
+			<type type="string">Treasure</type>
+			<subtype type="string">Gemstones</subtype>
+			<cost type="string">25 gp</cost>
+			<isidentified type="number">0</isidentified>
+			<locked type="number">1</locked>
+		</id-00548>
+		<id-00549>
+			<name type="string">Citrine, orange, trilliant, tiny, flawed, regular</name>
+			<description type="formattedtext"/>
+			<flavor type="string"/>
+			<notes type="formattedtext"/>
+			<text type="formattedtext"/>
+			<nonid_name type="string">Gem, tiny trilliant</nonid_name>
+			<nonidentified type="string">This visibly flawed 1/8 inch diameter gem is trilliant cut. It is transparent and brownish-orange in color.</nonidentified>
+			<nonid_notes type="string">This visibly flawed 1/8 inch diameter gem is trilliant cut. It is transparent and brownish-orange in color.</nonid_notes>
+			<type type="string">Treasure</type>
+			<subtype type="string">Gemstones</subtype>
+			<cost type="string">37 gp</cost>
+			<isidentified type="number">0</isidentified>
+			<locked type="number">1</locked>
+		</id-00549>
+		<id-00550>
+			<name type="string">Citrine, orange, uncut, tiny, good, regular</name>
+			<description type="formattedtext"/>
+			<flavor type="string"/>
+			<notes type="formattedtext"/>
+			<text type="formattedtext"/>
+			<nonid_name type="string">Gem, tiny uncut</nonid_name>
+			<nonidentified type="string">This 1/8 inch diameter gem is uncut. It is transparent and brownish-orange in color.</nonidentified>
+			<nonid_notes type="string">This 1/8 inch diameter gem is uncut. It is transparent and brownish-orange in color.</nonid_notes>
+			<type type="string">Treasure</type>
+			<subtype type="string">Gemstones</subtype>
+			<cost type="string">2 gp</cost>
+			<isidentified type="number">0</isidentified>
+			<locked type="number">1</locked>
+		</id-00550>
+		<id-00551>
+			<name type="string">Citrine, orange, sphere, tiny, good, regular</name>
+			<description type="formattedtext"/>
+			<flavor type="string"/>
+			<notes type="formattedtext"/>
+			<text type="formattedtext"/>
+			<nonid_name type="string">Gem, tiny sphere</nonid_name>
+			<nonidentified type="string">This 1/8 inch diameter gem is cut into a sphere. It is transparent and brownish-orange in color.</nonidentified>
+			<nonid_notes type="string">This 1/8 inch diameter gem is cut into a sphere. It is transparent and brownish-orange in color.</nonid_notes>
+			<type type="string">Treasure</type>
+			<subtype type="string">Gemstones</subtype>
+			<cost type="string">50 gp</cost>
+			<isidentified type="number">0</isidentified>
+			<locked type="number">1</locked>
+		</id-00551>
+		<id-00552>
+			<name type="string">Citrine, orange, square radiant, tiny, good, regular</name>
+			<description type="formattedtext"/>
+			<flavor type="string"/>
+			<notes type="formattedtext"/>
+			<text type="formattedtext"/>
+			<nonid_name type="string">Gem, tiny square radiant</nonid_name>
+			<nonidentified type="string">This 1/8 inch diameter gem is square radiant cut. It is transparent and brownish-orange in color.</nonidentified>
+			<nonid_notes type="string">This 1/8 inch diameter gem is square radiant cut. It is transparent and brownish-orange in color.</nonid_notes>
+			<type type="string">Treasure</type>
+			<subtype type="string">Gemstones</subtype>
+			<cost type="string">50 gp</cost>
+			<isidentified type="number">0</isidentified>
+			<locked type="number">1</locked>
+		</id-00552>
+		<id-00553>
+			<name type="string">Citrine, orange, round brilliant, tiny, good, regular</name>
+			<description type="formattedtext"/>
+			<flavor type="string"/>
+			<notes type="formattedtext"/>
+			<text type="formattedtext"/>
+			<nonid_name type="string">Gem, tiny round brilliant</nonid_name>
+			<nonidentified type="string">This 1/8 inch diameter gem is round brilliant cut. It is transparent and brownish-orange in color.</nonidentified>
+			<nonid_notes type="string">This 1/8 inch diameter gem is round brilliant cut. It is transparent and brownish-orange in color.</nonid_notes>
+			<type type="string">Treasure</type>
+			<subtype type="string">Gemstones</subtype>
+			<cost type="string">50 gp</cost>
+			<isidentified type="number">0</isidentified>
+			<locked type="number">1</locked>
+		</id-00553>
+		<id-00554>
+			<name type="string">Citrine, orange, trilliant, tiny, good, regular</name>
+			<description type="formattedtext"/>
+			<flavor type="string"/>
+			<notes type="formattedtext"/>
+			<text type="formattedtext"/>
+			<nonid_name type="string">Gem, tiny trilliant</nonid_name>
+			<nonidentified type="string">This 1/8 inch diameter gem is trilliant cut. It is transparent and brownish-orange in color.</nonidentified>
+			<nonid_notes type="string">This 1/8 inch diameter gem is trilliant cut. It is transparent and brownish-orange in color.</nonid_notes>
+			<type type="string">Treasure</type>
+			<subtype type="string">Gemstones</subtype>
+			<cost type="string">75 gp</cost>
+			<isidentified type="number">0</isidentified>
+			<locked type="number">1</locked>
+		</id-00554>
+		<id-00555>
+			<name type="string">Citrine, orange, uncut, tiny, flawless, regular</name>
+			<description type="formattedtext"/>
+			<flavor type="string"/>
+			<notes type="formattedtext"/>
+			<text type="formattedtext"/>
+			<nonid_name type="string">Gem, tiny uncut</nonid_name>
+			<nonidentified type="string">This 1/8 inch diameter gem is uncut. It is transparent and brownish-orange in color.</nonidentified>
+			<nonid_notes type="string">This 1/8 inch diameter gem is uncut. It is transparent and brownish-orange in color.</nonid_notes>
+			<type type="string">Treasure</type>
+			<subtype type="string">Gemstones</subtype>
+			<cost type="string">12 gp</cost>
+			<isidentified type="number">0</isidentified>
+			<locked type="number">1</locked>
+		</id-00555>
+		<id-00556>
+			<name type="string">Citrine, orange, sphere, tiny, flawless, regular</name>
+			<description type="formattedtext"/>
+			<flavor type="string"/>
+			<notes type="formattedtext"/>
+			<text type="formattedtext"/>
+			<nonid_name type="string">Gem, tiny sphere</nonid_name>
+			<nonidentified type="string">This 1/8 inch diameter gem is cut into a sphere. It is transparent and brownish-orange in color.</nonidentified>
+			<nonid_notes type="string">This 1/8 inch diameter gem is cut into a sphere. It is transparent and brownish-orange in color.</nonid_notes>
+			<type type="string">Treasure</type>
+			<subtype type="string">Gemstones</subtype>
+			<cost type="string">250 gp</cost>
+			<isidentified type="number">0</isidentified>
+			<locked type="number">1</locked>
+		</id-00556>
+		<id-00557>
+			<name type="string">Citrine, orange, square radiant, tiny, flawless, regular</name>
+			<description type="formattedtext"/>
+			<flavor type="string"/>
+			<notes type="formattedtext"/>
+			<text type="formattedtext"/>
+			<nonid_name type="string">Gem, tiny square radiant</nonid_name>
+			<nonidentified type="string">This 1/8 inch diameter gem is square radiant cut. It is transparent and brownish-orange in color.</nonidentified>
+			<nonid_notes type="string">This 1/8 inch diameter gem is square radiant cut. It is transparent and brownish-orange in color.</nonid_notes>
+			<type type="string">Treasure</type>
+			<subtype type="string">Gemstones</subtype>
+			<cost type="string">250 gp</cost>
+			<isidentified type="number">0</isidentified>
+			<locked type="number">1</locked>
+		</id-00557>
+		<id-00558>
+			<name type="string">Citrine, orange, round brilliant, tiny, flawless, regular</name>
+			<description type="formattedtext"/>
+			<flavor type="string"/>
+			<notes type="formattedtext"/>
+			<text type="formattedtext"/>
+			<nonid_name type="string">Gem, tiny round brilliant</nonid_name>
+			<nonidentified type="string">This 1/8 inch diameter gem is round brilliant cut. It is transparent and brownish-orange in color.</nonidentified>
+			<nonid_notes type="string">This 1/8 inch diameter gem is round brilliant cut. It is transparent and brownish-orange in color.</nonid_notes>
+			<type type="string">Treasure</type>
+			<subtype type="string">Gemstones</subtype>
+			<cost type="string">250 gp</cost>
+			<isidentified type="number">0</isidentified>
+			<locked type="number">1</locked>
+		</id-00558>
+		<id-00559>
+			<name type="string">Citrine, orange, trilliant, tiny, flawless, regular</name>
+			<description type="formattedtext"/>
+			<flavor type="string"/>
+			<notes type="formattedtext"/>
+			<text type="formattedtext"/>
+			<nonid_name type="string">Gem, tiny trilliant</nonid_name>
+			<nonidentified type="string">This 1/8 inch diameter gem is trilliant cut. It is transparent and brownish-orange in color.</nonidentified>
+			<nonid_notes type="string">This 1/8 inch diameter gem is trilliant cut. It is transparent and brownish-orange in color.</nonid_notes>
+			<type type="string">Treasure</type>
+			<subtype type="string">Gemstones</subtype>
+			<cost type="string">375 gp</cost>
+			<isidentified type="number">0</isidentified>
+			<locked type="number">1</locked>
+		</id-00559>
+		<id-00560>
+			<name type="string">Citrine, orange, uncut, small, flawed, regular</name>
+			<description type="formattedtext"/>
+			<flavor type="string"/>
+			<notes type="formattedtext"/>
+			<text type="formattedtext"/>
+			<nonid_name type="string">Gem, small uncut</nonid_name>
+			<nonidentified type="string">This visibly flawed 1/4 inch diameter gem is uncut. It is transparent and brownish-orange in color.</nonidentified>
+			<nonid_notes type="string">This visibly flawed 1/4 inch diameter gem is uncut. It is transparent and brownish-orange in color.</nonid_notes>
+			<type type="string">Treasure</type>
+			<subtype type="string">Gemstones</subtype>
+			<cost type="string">2 gp</cost>
+			<isidentified type="number">0</isidentified>
+			<locked type="number">1</locked>
+		</id-00560>
+		<id-00561>
+			<name type="string">Citrine, orange, sphere, small, flawed, regular</name>
+			<description type="formattedtext"/>
+			<flavor type="string"/>
+			<notes type="formattedtext"/>
+			<text type="formattedtext"/>
+			<nonid_name type="string">Gem, small sphere</nonid_name>
+			<nonidentified type="string">This visibly flawed 1/4 inch diameter gem is cut into a sphere. It is transparent and brownish-orange in color.</nonidentified>
+			<nonid_notes type="string">This visibly flawed 1/4 inch diameter gem is cut into a sphere. It is transparent and brownish-orange in color.</nonid_notes>
+			<type type="string">Treasure</type>
+			<subtype type="string">Gemstones</subtype>
+			<cost type="string">50 gp</cost>
+			<isidentified type="number">0</isidentified>
+			<locked type="number">1</locked>
+		</id-00561>
+		<id-00562>
+			<name type="string">Citrine, orange, square radiant, small, flawed, regular</name>
+			<description type="formattedtext"/>
+			<flavor type="string"/>
+			<notes type="formattedtext"/>
+			<text type="formattedtext"/>
+			<nonid_name type="string">Gem, small square radiant</nonid_name>
+			<nonidentified type="string">This visibly flawed 1/4 inch diameter gem is square radiant cut. It is transparent and brownish-orange in color.</nonidentified>
+			<nonid_notes type="string">This visibly flawed 1/4 inch diameter gem is square radiant cut. It is transparent and brownish-orange in color.</nonid_notes>
+			<type type="string">Treasure</type>
+			<subtype type="string">Gemstones</subtype>
+			<cost type="string">50 gp</cost>
+			<isidentified type="number">0</isidentified>
+			<locked type="number">1</locked>
+		</id-00562>
+		<id-00563>
+			<name type="string">Citrine, orange, round brilliant, small, flawed, regular</name>
+			<description type="formattedtext"/>
+			<flavor type="string"/>
+			<notes type="formattedtext"/>
+			<text type="formattedtext"/>
+			<nonid_name type="string">Gem, small round brilliant</nonid_name>
+			<nonidentified type="string">This visibly flawed 1/4 inch diameter gem is round brilliant cut. It is transparent and brownish-orange in color.</nonidentified>
+			<nonid_notes type="string">This visibly flawed 1/4 inch diameter gem is round brilliant cut. It is transparent and brownish-orange in color.</nonid_notes>
+			<type type="string">Treasure</type>
+			<subtype type="string">Gemstones</subtype>
+			<cost type="string">50 gp</cost>
+			<isidentified type="number">0</isidentified>
+			<locked type="number">1</locked>
+		</id-00563>
+		<id-00564>
+			<name type="string">Citrine, orange, trilliant, small, flawed, regular</name>
+			<description type="formattedtext"/>
+			<flavor type="string"/>
+			<notes type="formattedtext"/>
+			<text type="formattedtext"/>
+			<nonid_name type="string">Gem, small trilliant</nonid_name>
+			<nonidentified type="string">This visibly flawed 1/4 inch diameter gem is trilliant cut. It is transparent and brownish-orange in color.</nonidentified>
+			<nonid_notes type="string">This visibly flawed 1/4 inch diameter gem is trilliant cut. It is transparent and brownish-orange in color.</nonid_notes>
+			<type type="string">Treasure</type>
+			<subtype type="string">Gemstones</subtype>
+			<cost type="string">75 gp</cost>
+			<isidentified type="number">0</isidentified>
+			<locked type="number">1</locked>
+		</id-00564>
+		<id-00565>
+			<name type="string">Citrine, orange, uncut, small, good, regular</name>
+			<description type="formattedtext"/>
+			<flavor type="string"/>
+			<notes type="formattedtext"/>
+			<text type="formattedtext"/>
+			<nonid_name type="string">Gem, small uncut</nonid_name>
+			<nonidentified type="string">This 1/4 inch diameter gem is uncut. It is transparent and brownish-orange in color.</nonidentified>
+			<nonid_notes type="string">This 1/4 inch diameter gem is uncut. It is transparent and brownish-orange in color.</nonid_notes>
+			<type type="string">Treasure</type>
+			<subtype type="string">Gemstones</subtype>
+			<cost type="string">5 gp</cost>
+			<isidentified type="number">0</isidentified>
+			<locked type="number">1</locked>
+		</id-00565>
+		<id-00566>
+			<name type="string">Citrine, orange, sphere, small, good, regular</name>
+			<description type="formattedtext"/>
+			<flavor type="string"/>
+			<notes type="formattedtext"/>
+			<text type="formattedtext"/>
+			<nonid_name type="string">Gem, small sphere</nonid_name>
+			<nonidentified type="string">This 1/4 inch diameter gem is cut into a sphere. It is transparent and brownish-orange in color.</nonidentified>
+			<nonid_notes type="string">This 1/4 inch diameter gem is cut into a sphere. It is transparent and brownish-orange in color.</nonid_notes>
+			<type type="string">Treasure</type>
+			<subtype type="string">Gemstones</subtype>
+			<cost type="string">100 gp</cost>
+			<isidentified type="number">0</isidentified>
+			<locked type="number">1</locked>
+		</id-00566>
+		<id-00567>
+			<name type="string">Citrine, orange, square radiant, small, good, regular</name>
+			<description type="formattedtext"/>
+			<flavor type="string"/>
+			<notes type="formattedtext"/>
+			<text type="formattedtext"/>
+			<nonid_name type="string">Gem, small square radiant</nonid_name>
+			<nonidentified type="string">This 1/4 inch diameter gem is square radiant cut. It is transparent and brownish-orange in color.</nonidentified>
+			<nonid_notes type="string">This 1/4 inch diameter gem is square radiant cut. It is transparent and brownish-orange in color.</nonid_notes>
+			<type type="string">Treasure</type>
+			<subtype type="string">Gemstones</subtype>
+			<cost type="string">100 gp</cost>
+			<isidentified type="number">0</isidentified>
+			<locked type="number">1</locked>
+		</id-00567>
+		<id-00568>
+			<name type="string">Citrine, orange, round brilliant, small, good, regular</name>
+			<description type="formattedtext"/>
+			<flavor type="string"/>
+			<notes type="formattedtext"/>
+			<text type="formattedtext"/>
+			<nonid_name type="string">Gem, small round brilliant</nonid_name>
+			<nonidentified type="string">This 1/4 inch diameter gem is round brilliant cut. It is transparent and brownish-orange in color.</nonidentified>
+			<nonid_notes type="string">This 1/4 inch diameter gem is round brilliant cut. It is transparent and brownish-orange in color.</nonid_notes>
+			<type type="string">Treasure</type>
+			<subtype type="string">Gemstones</subtype>
+			<cost type="string">100 gp</cost>
+			<isidentified type="number">0</isidentified>
+			<locked type="number">1</locked>
+		</id-00568>
+		<id-00569>
+			<name type="string">Citrine, orange, trilliant, small, good, regular</name>
+			<description type="formattedtext"/>
+			<flavor type="string"/>
+			<notes type="formattedtext"/>
+			<text type="formattedtext"/>
+			<nonid_name type="string">Gem, small trilliant</nonid_name>
+			<nonidentified type="string">This 1/4 inch diameter gem is trilliant cut. It is transparent and brownish-orange in color.</nonidentified>
+			<nonid_notes type="string">This 1/4 inch diameter gem is trilliant cut. It is transparent and brownish-orange in color.</nonid_notes>
+			<type type="string">Treasure</type>
+			<subtype type="string">Gemstones</subtype>
+			<cost type="string">150 gp</cost>
+			<isidentified type="number">0</isidentified>
+			<locked type="number">1</locked>
+		</id-00569>
+		<id-00570>
+			<name type="string">Citrine, orange, uncut, small, flawless, regular</name>
+			<description type="formattedtext"/>
+			<flavor type="string"/>
+			<notes type="formattedtext"/>
+			<text type="formattedtext"/>
+			<nonid_name type="string">Gem, small uncut</nonid_name>
+			<nonidentified type="string">This 1/4 inch diameter gem is uncut. It is transparent and brownish-orange in color.</nonidentified>
+			<nonid_notes type="string">This 1/4 inch diameter gem is uncut. It is transparent and brownish-orange in color.</nonid_notes>
+			<type type="string">Treasure</type>
+			<subtype type="string">Gemstones</subtype>
+			<cost type="string">25 gp</cost>
+			<isidentified type="number">0</isidentified>
+			<locked type="number">1</locked>
+		</id-00570>
+		<id-00571>
+			<name type="string">Citrine, orange, sphere, small, flawless, regular</name>
+			<description type="formattedtext"/>
+			<flavor type="string"/>
+			<notes type="formattedtext"/>
+			<text type="formattedtext"/>
+			<nonid_name type="string">Gem, small sphere</nonid_name>
+			<nonidentified type="string">This 1/4 inch diameter gem is cut into a sphere. It is transparent and brownish-orange in color.</nonidentified>
+			<nonid_notes type="string">This 1/4 inch diameter gem is cut into a sphere. It is transparent and brownish-orange in color.</nonid_notes>
+			<type type="string">Treasure</type>
+			<subtype type="string">Gemstones</subtype>
+			<cost type="string">500 gp</cost>
+			<isidentified type="number">0</isidentified>
+			<locked type="number">1</locked>
+		</id-00571>
+		<id-00572>
+			<name type="string">Citrine, orange, square radiant, small, flawless, regular</name>
+			<description type="formattedtext"/>
+			<flavor type="string"/>
+			<notes type="formattedtext"/>
+			<text type="formattedtext"/>
+			<nonid_name type="string">Gem, small square radiant</nonid_name>
+			<nonidentified type="string">This 1/4 inch diameter gem is square radiant cut. It is transparent and brownish-orange in color.</nonidentified>
+			<nonid_notes type="string">This 1/4 inch diameter gem is square radiant cut. It is transparent and brownish-orange in color.</nonid_notes>
+			<type type="string">Treasure</type>
+			<subtype type="string">Gemstones</subtype>
+			<cost type="string">500 gp</cost>
+			<isidentified type="number">0</isidentified>
+			<locked type="number">1</locked>
+		</id-00572>
+		<id-00573>
+			<name type="string">Citrine, orange, round brilliant, small, flawless, regular</name>
+			<description type="formattedtext"/>
+			<flavor type="string"/>
+			<notes type="formattedtext"/>
+			<text type="formattedtext"/>
+			<nonid_name type="string">Gem, small round brilliant</nonid_name>
+			<nonidentified type="string">This 1/4 inch diameter gem is round brilliant cut. It is transparent and brownish-orange in color.</nonidentified>
+			<nonid_notes type="string">This 1/4 inch diameter gem is round brilliant cut. It is transparent and brownish-orange in color.</nonid_notes>
+			<type type="string">Treasure</type>
+			<subtype type="string">Gemstones</subtype>
+			<cost type="string">500 gp</cost>
+			<isidentified type="number">0</isidentified>
+			<locked type="number">1</locked>
+		</id-00573>
+		<id-00574>
+			<name type="string">Citrine, orange, trilliant, small, flawless, regular</name>
+			<description type="formattedtext"/>
+			<flavor type="string"/>
+			<notes type="formattedtext"/>
+			<text type="formattedtext"/>
+			<nonid_name type="string">Gem, small trilliant</nonid_name>
+			<nonidentified type="string">This 1/4 inch diameter gem is trilliant cut. It is transparent and brownish-orange in color.</nonidentified>
+			<nonid_notes type="string">This 1/4 inch diameter gem is trilliant cut. It is transparent and brownish-orange in color.</nonid_notes>
+			<type type="string">Treasure</type>
+			<subtype type="string">Gemstones</subtype>
+			<cost type="string">750 gp</cost>
+			<isidentified type="number">0</isidentified>
+			<locked type="number">1</locked>
+		</id-00574>
+		<id-00575>
+			<name type="string">Citrine, orange, uncut, medium, flawed, regular</name>
+			<description type="formattedtext"/>
+			<flavor type="string"/>
+			<notes type="formattedtext"/>
+			<text type="formattedtext"/>
+			<nonid_name type="string">Gem, medium uncut</nonid_name>
+			<nonidentified type="string">This visibly flawed 1/2 inch diameter gem is uncut. It is transparent and brownish-orange in color.</nonidentified>
+			<nonid_notes type="string">This visibly flawed 1/2 inch diameter gem is uncut. It is transparent and brownish-orange in color.</nonid_notes>
+			<type type="string">Treasure</type>
+			<subtype type="string">Gemstones</subtype>
+			<cost type="string">12 gp</cost>
+			<isidentified type="number">0</isidentified>
+			<locked type="number">1</locked>
+		</id-00575>
+		<id-00576>
+			<name type="string">Citrine, orange, sphere, medium, flawed, regular</name>
+			<description type="formattedtext"/>
+			<flavor type="string"/>
+			<notes type="formattedtext"/>
+			<text type="formattedtext"/>
+			<nonid_name type="string">Gem, medium sphere</nonid_name>
+			<nonidentified type="string">This visibly flawed 1/2 inch diameter gem is cut into a sphere. It is transparent and brownish-orange in color.</nonidentified>
+			<nonid_notes type="string">This visibly flawed 1/2 inch diameter gem is cut into a sphere. It is transparent and brownish-orange in color.</nonid_notes>
+			<type type="string">Treasure</type>
+			<subtype type="string">Gemstones</subtype>
+			<cost type="string">250 gp</cost>
+			<isidentified type="number">0</isidentified>
+			<locked type="number">1</locked>
+		</id-00576>
+		<id-00577>
+			<name type="string">Citrine, orange, square radiant, medium, flawed, regular</name>
+			<description type="formattedtext"/>
+			<flavor type="string"/>
+			<notes type="formattedtext"/>
+			<text type="formattedtext"/>
+			<nonid_name type="string">Gem, medium square radiant</nonid_name>
+			<nonidentified type="string">This visibly flawed 1/2 inch diameter gem is square radiant cut. It is transparent and brownish-orange in color.</nonidentified>
+			<nonid_notes type="string">This visibly flawed 1/2 inch diameter gem is square radiant cut. It is transparent and brownish-orange in color.</nonid_notes>
+			<type type="string">Treasure</type>
+			<subtype type="string">Gemstones</subtype>
+			<cost type="string">250 gp</cost>
+			<isidentified type="number">0</isidentified>
+			<locked type="number">1</locked>
+		</id-00577>
+		<id-00578>
+			<name type="string">Citrine, orange, round brilliant, medium, flawed, regular</name>
+			<description type="formattedtext"/>
+			<flavor type="string"/>
+			<notes type="formattedtext"/>
+			<text type="formattedtext"/>
+			<nonid_name type="string">Gem, medium round brilliant</nonid_name>
+			<nonidentified type="string">This visibly flawed 1/2 inch diameter gem is round brilliant cut. It is transparent and brownish-orange in color.</nonidentified>
+			<nonid_notes type="string">This visibly flawed 1/2 inch diameter gem is round brilliant cut. It is transparent and brownish-orange in color.</nonid_notes>
+			<type type="string">Treasure</type>
+			<subtype type="string">Gemstones</subtype>
+			<cost type="string">250 gp</cost>
+			<isidentified type="number">0</isidentified>
+			<locked type="number">1</locked>
+		</id-00578>
+		<id-00579>
+			<name type="string">Citrine, orange, trilliant, medium, flawed, regular</name>
+			<description type="formattedtext"/>
+			<flavor type="string"/>
+			<notes type="formattedtext"/>
+			<text type="formattedtext"/>
+			<nonid_name type="string">Gem, medium trilliant</nonid_name>
+			<nonidentified type="string">This visibly flawed 1/2 inch diameter gem is trilliant cut. It is transparent and brownish-orange in color.</nonidentified>
+			<nonid_notes type="string">This visibly flawed 1/2 inch diameter gem is trilliant cut. It is transparent and brownish-orange in color.</nonid_notes>
+			<type type="string">Treasure</type>
+			<subtype type="string">Gemstones</subtype>
+			<cost type="string">375 gp</cost>
+			<isidentified type="number">0</isidentified>
+			<locked type="number">1</locked>
+		</id-00579>
+		<id-00580>
+			<name type="string">Citrine, orange, uncut, medium, good, regular</name>
+			<description type="formattedtext"/>
+			<flavor type="string"/>
+			<notes type="formattedtext"/>
+			<text type="formattedtext"/>
+			<nonid_name type="string">Gem, medium uncut</nonid_name>
+			<nonidentified type="string">This 1/2 inch diameter gem is uncut. It is transparent and brownish-orange in color.</nonidentified>
+			<nonid_notes type="string">This 1/2 inch diameter gem is uncut. It is transparent and brownish-orange in color.</nonid_notes>
+			<type type="string">Treasure</type>
+			<subtype type="string">Gemstones</subtype>
+			<cost type="string">25 gp</cost>
+			<isidentified type="number">0</isidentified>
+			<locked type="number">1</locked>
+		</id-00580>
+		<id-00581>
+			<name type="string">Citrine, orange, sphere, medium, good, regular</name>
+			<description type="formattedtext"/>
+			<flavor type="string"/>
+			<notes type="formattedtext"/>
+			<text type="formattedtext"/>
+			<nonid_name type="string">Gem, medium sphere</nonid_name>
+			<nonidentified type="string">This 1/2 inch diameter gem is cut into a sphere. It is transparent and brownish-orange in color.</nonidentified>
+			<nonid_notes type="string">This 1/2 inch diameter gem is cut into a sphere. It is transparent and brownish-orange in color.</nonid_notes>
+			<type type="string">Treasure</type>
+			<subtype type="string">Gemstones</subtype>
+			<cost type="string">500 gp</cost>
+			<isidentified type="number">0</isidentified>
+			<locked type="number">1</locked>
+		</id-00581>
+		<id-00582>
+			<name type="string">Citrine, orange, square radiant, medium, good, regular</name>
+			<description type="formattedtext"/>
+			<flavor type="string"/>
+			<notes type="formattedtext"/>
+			<text type="formattedtext"/>
+			<nonid_name type="string">Gem, medium square radiant</nonid_name>
+			<nonidentified type="string">This 1/2 inch diameter gem is square radiant cut. It is transparent and brownish-orange in color.</nonidentified>
+			<nonid_notes type="string">This 1/2 inch diameter gem is square radiant cut. It is transparent and brownish-orange in color.</nonid_notes>
+			<type type="string">Treasure</type>
+			<subtype type="string">Gemstones</subtype>
+			<cost type="string">500 gp</cost>
+			<isidentified type="number">0</isidentified>
+			<locked type="number">1</locked>
+		</id-00582>
+		<id-00583>
+			<name type="string">Citrine, orange, round brilliant, medium, good, regular</name>
+			<description type="formattedtext"/>
+			<flavor type="string"/>
+			<notes type="formattedtext"/>
+			<text type="formattedtext"/>
+			<nonid_name type="string">Gem, medium round brilliant</nonid_name>
+			<nonidentified type="string">This 1/2 inch diameter gem is round brilliant cut. It is transparent and brownish-orange in color.</nonidentified>
+			<nonid_notes type="string">This 1/2 inch diameter gem is round brilliant cut. It is transparent and brownish-orange in color.</nonid_notes>
+			<type type="string">Treasure</type>
+			<subtype type="string">Gemstones</subtype>
+			<cost type="string">500 gp</cost>
+			<isidentified type="number">0</isidentified>
+			<locked type="number">1</locked>
+		</id-00583>
+		<id-00584>
+			<name type="string">Citrine, orange, trilliant, medium, good, regular</name>
+			<description type="formattedtext"/>
+			<flavor type="string"/>
+			<notes type="formattedtext"/>
+			<text type="formattedtext"/>
+			<nonid_name type="string">Gem, medium trilliant</nonid_name>
+			<nonidentified type="string">This 1/2 inch diameter gem is trilliant cut. It is transparent and brownish-orange in color.</nonidentified>
+			<nonid_notes type="string">This 1/2 inch diameter gem is trilliant cut. It is transparent and brownish-orange in color.</nonid_notes>
+			<type type="string">Treasure</type>
+			<subtype type="string">Gemstones</subtype>
+			<cost type="string">750 gp</cost>
+			<isidentified type="number">0</isidentified>
+			<locked type="number">1</locked>
+		</id-00584>
+		<id-00585>
+			<name type="string">Citrine, orange, uncut, medium, flawless, regular</name>
+			<description type="formattedtext"/>
+			<flavor type="string"/>
+			<notes type="formattedtext"/>
+			<text type="formattedtext"/>
+			<nonid_name type="string">Gem, medium uncut</nonid_name>
+			<nonidentified type="string">This 1/2 inch diameter gem is uncut. It is transparent and brownish-orange in color.</nonidentified>
+			<nonid_notes type="string">This 1/2 inch diameter gem is uncut. It is transparent and brownish-orange in color.</nonid_notes>
+			<type type="string">Treasure</type>
+			<subtype type="string">Gemstones</subtype>
+			<cost type="string">125 gp</cost>
+			<isidentified type="number">0</isidentified>
+			<locked type="number">1</locked>
+		</id-00585>
+		<id-00586>
+			<name type="string">Citrine, orange, sphere, medium, flawless, regular</name>
+			<description type="formattedtext"/>
+			<flavor type="string"/>
+			<notes type="formattedtext"/>
+			<text type="formattedtext"/>
+			<nonid_name type="string">Gem, medium sphere</nonid_name>
+			<nonidentified type="string">This 1/2 inch diameter gem is cut into a sphere. It is transparent and brownish-orange in color.</nonidentified>
+			<nonid_notes type="string">This 1/2 inch diameter gem is cut into a sphere. It is transparent and brownish-orange in color.</nonid_notes>
+			<type type="string">Treasure</type>
+			<subtype type="string">Gemstones</subtype>
+			<cost type="string">2500 gp</cost>
+			<isidentified type="number">0</isidentified>
+			<locked type="number">1</locked>
+		</id-00586>
+		<id-00587>
+			<name type="string">Citrine, orange, square radiant, medium, flawless, regular</name>
+			<description type="formattedtext"/>
+			<flavor type="string"/>
+			<notes type="formattedtext"/>
+			<text type="formattedtext"/>
+			<nonid_name type="string">Gem, medium square radiant</nonid_name>
+			<nonidentified type="string">This 1/2 inch diameter gem is square radiant cut. It is transparent and brownish-orange in color.</nonidentified>
+			<nonid_notes type="string">This 1/2 inch diameter gem is square radiant cut. It is transparent and brownish-orange in color.</nonid_notes>
+			<type type="string">Treasure</type>
+			<subtype type="string">Gemstones</subtype>
+			<cost type="string">2500 gp</cost>
+			<isidentified type="number">0</isidentified>
+			<locked type="number">1</locked>
+		</id-00587>
+		<id-00588>
+			<name type="string">Citrine, orange, round brilliant, medium, flawless, regular</name>
+			<description type="formattedtext"/>
+			<flavor type="string"/>
+			<notes type="formattedtext"/>
+			<text type="formattedtext"/>
+			<nonid_name type="string">Gem, medium round brilliant</nonid_name>
+			<nonidentified type="string">This 1/2 inch diameter gem is round brilliant cut. It is transparent and brownish-orange in color.</nonidentified>
+			<nonid_notes type="string">This 1/2 inch diameter gem is round brilliant cut. It is transparent and brownish-orange in color.</nonid_notes>
+			<type type="string">Treasure</type>
+			<subtype type="string">Gemstones</subtype>
+			<cost type="string">2500 gp</cost>
+			<isidentified type="number">0</isidentified>
+			<locked type="number">1</locked>
+		</id-00588>
+		<id-00589>
+			<name type="string">Citrine, orange, trilliant, medium, flawless, regular</name>
+			<description type="formattedtext"/>
+			<flavor type="string"/>
+			<notes type="formattedtext"/>
+			<text type="formattedtext"/>
+			<nonid_name type="string">Gem, medium trilliant</nonid_name>
+			<nonidentified type="string">This 1/2 inch diameter gem is trilliant cut. It is transparent and brownish-orange in color.</nonidentified>
+			<nonid_notes type="string">This 1/2 inch diameter gem is trilliant cut. It is transparent and brownish-orange in color.</nonid_notes>
+			<type type="string">Treasure</type>
+			<subtype type="string">Gemstones</subtype>
+			<cost type="string">3750 gp</cost>
+			<isidentified type="number">0</isidentified>
+			<locked type="number">1</locked>
+		</id-00589>
+		<id-00590>
+			<name type="string">Citrine, orange, uncut, large, flawed, regular</name>
+			<description type="formattedtext"/>
+			<flavor type="string"/>
+			<notes type="formattedtext"/>
+			<text type="formattedtext"/>
+			<nonid_name type="string">Gem, large uncut</nonid_name>
+			<nonidentified type="string">This visibly flawed 1 inch diameter gem is uncut. It is transparent and brownish-orange in color.</nonidentified>
+			<nonid_notes type="string">This visibly flawed 1 inch diameter gem is uncut. It is transparent and brownish-orange in color.</nonid_notes>
+			<type type="string">Treasure</type>
+			<subtype type="string">Gemstones</subtype>
+			<cost type="string">50 gp</cost>
+			<isidentified type="number">0</isidentified>
+			<locked type="number">1</locked>
+		</id-00590>
+		<id-00591>
+			<name type="string">Citrine, orange, sphere, large, flawed, regular</name>
+			<description type="formattedtext"/>
+			<flavor type="string"/>
+			<notes type="formattedtext"/>
+			<text type="formattedtext"/>
+			<nonid_name type="string">Gem, large sphere</nonid_name>
+			<nonidentified type="string">This visibly flawed 1 inch diameter gem is cut into a sphere. It is transparent and brownish-orange in color.</nonidentified>
+			<nonid_notes type="string">This visibly flawed 1 inch diameter gem is cut into a sphere. It is transparent and brownish-orange in color.</nonid_notes>
+			<type type="string">Treasure</type>
+			<subtype type="string">Gemstones</subtype>
+			<cost type="string">1000 gp</cost>
+			<isidentified type="number">0</isidentified>
+			<locked type="number">1</locked>
+		</id-00591>
+		<id-00592>
+			<name type="string">Citrine, orange, square radiant, large, flawed, regular</name>
+			<description type="formattedtext"/>
+			<flavor type="string"/>
+			<notes type="formattedtext"/>
+			<text type="formattedtext"/>
+			<nonid_name type="string">Gem, large square radiant</nonid_name>
+			<nonidentified type="string">This visibly flawed 1 inch diameter gem is square radiant cut. It is transparent and brownish-orange in color.</nonidentified>
+			<nonid_notes type="string">This visibly flawed 1 inch diameter gem is square radiant cut. It is transparent and brownish-orange in color.</nonid_notes>
+			<type type="string">Treasure</type>
+			<subtype type="string">Gemstones</subtype>
+			<cost type="string">1000 gp</cost>
+			<isidentified type="number">0</isidentified>
+			<locked type="number">1</locked>
+		</id-00592>
+		<id-00593>
+			<name type="string">Citrine, orange, round brilliant, large, flawed, regular</name>
+			<description type="formattedtext"/>
+			<flavor type="string"/>
+			<notes type="formattedtext"/>
+			<text type="formattedtext"/>
+			<nonid_name type="string">Gem, large round brilliant</nonid_name>
+			<nonidentified type="string">This visibly flawed 1 inch diameter gem is round brilliant cut. It is transparent and brownish-orange in color.</nonidentified>
+			<nonid_notes type="string">This visibly flawed 1 inch diameter gem is round brilliant cut. It is transparent and brownish-orange in color.</nonid_notes>
+			<type type="string">Treasure</type>
+			<subtype type="string">Gemstones</subtype>
+			<cost type="string">1000 gp</cost>
+			<isidentified type="number">0</isidentified>
+			<locked type="number">1</locked>
+		</id-00593>
+		<id-00594>
+			<name type="string">Citrine, orange, trilliant, large, flawed, regular</name>
+			<description type="formattedtext"/>
+			<flavor type="string"/>
+			<notes type="formattedtext"/>
+			<text type="formattedtext"/>
+			<nonid_name type="string">Gem, large trilliant</nonid_name>
+			<nonidentified type="string">This visibly flawed 1 inch diameter gem is trilliant cut. It is transparent and brownish-orange in color.</nonidentified>
+			<nonid_notes type="string">This visibly flawed 1 inch diameter gem is trilliant cut. It is transparent and brownish-orange in color.</nonid_notes>
+			<type type="string">Treasure</type>
+			<subtype type="string">Gemstones</subtype>
+			<cost type="string">1500 gp</cost>
+			<isidentified type="number">0</isidentified>
+			<locked type="number">1</locked>
+		</id-00594>
+		<id-00595>
+			<name type="string">Citrine, orange, uncut, large, good, regular</name>
+			<description type="formattedtext"/>
+			<flavor type="string"/>
+			<notes type="formattedtext"/>
+			<text type="formattedtext"/>
+			<nonid_name type="string">Gem, large uncut</nonid_name>
+			<nonidentified type="string">This 1 inch diameter gem is uncut. It is transparent and brownish-orange in color.</nonidentified>
+			<nonid_notes type="string">This 1 inch diameter gem is uncut. It is transparent and brownish-orange in color.</nonid_notes>
+			<type type="string">Treasure</type>
+			<subtype type="string">Gemstones</subtype>
+			<cost type="string">100 gp</cost>
+			<isidentified type="number">0</isidentified>
+			<locked type="number">1</locked>
+		</id-00595>
+		<id-00596>
+			<name type="string">Citrine, orange, sphere, large, good, regular</name>
+			<description type="formattedtext"/>
+			<flavor type="string"/>
+			<notes type="formattedtext"/>
+			<text type="formattedtext"/>
+			<nonid_name type="string">Gem, large sphere</nonid_name>
+			<nonidentified type="string">This 1 inch diameter gem is cut into a sphere. It is transparent and brownish-orange in color.</nonidentified>
+			<nonid_notes type="string">This 1 inch diameter gem is cut into a sphere. It is transparent and brownish-orange in color.</nonid_notes>
+			<type type="string">Treasure</type>
+			<subtype type="string">Gemstones</subtype>
+			<cost type="string">2000 gp</cost>
+			<isidentified type="number">0</isidentified>
+			<locked type="number">1</locked>
+		</id-00596>
+		<id-00597>
+			<name type="string">Citrine, orange, square radiant, large, good, regular</name>
+			<description type="formattedtext"/>
+			<flavor type="string"/>
+			<notes type="formattedtext"/>
+			<text type="formattedtext"/>
+			<nonid_name type="string">Gem, large square radiant</nonid_name>
+			<nonidentified type="string">This 1 inch diameter gem is square radiant cut. It is transparent and brownish-orange in color.</nonidentified>
+			<nonid_notes type="string">This 1 inch diameter gem is square radiant cut. It is transparent and brownish-orange in color.</nonid_notes>
+			<type type="string">Treasure</type>
+			<subtype type="string">Gemstones</subtype>
+			<cost type="string">2000 gp</cost>
+			<isidentified type="number">0</isidentified>
+			<locked type="number">1</locked>
+		</id-00597>
+		<id-00598>
+			<name type="string">Citrine, orange, round brilliant, large, good, regular</name>
+			<description type="formattedtext"/>
+			<flavor type="string"/>
+			<notes type="formattedtext"/>
+			<text type="formattedtext"/>
+			<nonid_name type="string">Gem, large round brilliant</nonid_name>
+			<nonidentified type="string">This 1 inch diameter gem is round brilliant cut. It is transparent and brownish-orange in color.</nonidentified>
+			<nonid_notes type="string">This 1 inch diameter gem is round brilliant cut. It is transparent and brownish-orange in color.</nonid_notes>
+			<type type="string">Treasure</type>
+			<subtype type="string">Gemstones</subtype>
+			<cost type="string">2000 gp</cost>
+			<isidentified type="number">0</isidentified>
+			<locked type="number">1</locked>
+		</id-00598>
+		<id-00599>
+			<name type="string">Citrine, orange, trilliant, large, good, regular</name>
+			<description type="formattedtext"/>
+			<flavor type="string"/>
+			<notes type="formattedtext"/>
+			<text type="formattedtext"/>
+			<nonid_name type="string">Gem, large trilliant</nonid_name>
+			<nonidentified type="string">This 1 inch diameter gem is trilliant cut. It is transparent and brownish-orange in color.</nonidentified>
+			<nonid_notes type="string">This 1 inch diameter gem is trilliant cut. It is transparent and brownish-orange in color.</nonid_notes>
+			<type type="string">Treasure</type>
+			<subtype type="string">Gemstones</subtype>
+			<cost type="string">3000 gp</cost>
+			<isidentified type="number">0</isidentified>
+			<locked type="number">1</locked>
+		</id-00599>
+		<id-00600>
+			<name type="string">Citrine, orange, uncut, large, flawless, regular</name>
+			<description type="formattedtext"/>
+			<flavor type="string"/>
+			<notes type="formattedtext"/>
+			<text type="formattedtext"/>
+			<nonid_name type="string">Gem, large uncut</nonid_name>
+			<nonidentified type="string">This 1 inch diameter gem is uncut. It is transparent and brownish-orange in color.</nonidentified>
+			<nonid_notes type="string">This 1 inch diameter gem is uncut. It is transparent and brownish-orange in color.</nonid_notes>
+			<type type="string">Treasure</type>
+			<subtype type="string">Gemstones</subtype>
+			<cost type="string">500 gp</cost>
+			<isidentified type="number">0</isidentified>
+			<locked type="number">1</locked>
+		</id-00600>
+		<id-00601>
+			<name type="string">Citrine, orange, sphere, large, flawless, regular</name>
+			<description type="formattedtext"/>
+			<flavor type="string"/>
+			<notes type="formattedtext"/>
+			<text type="formattedtext"/>
+			<nonid_name type="string">Gem, large sphere</nonid_name>
+			<nonidentified type="string">This 1 inch diameter gem is cut into a sphere. It is transparent and brownish-orange in color.</nonidentified>
+			<nonid_notes type="string">This 1 inch diameter gem is cut into a sphere. It is transparent and brownish-orange in color.</nonid_notes>
+			<type type="string">Treasure</type>
+			<subtype type="string">Gemstones</subtype>
+			<cost type="string">10000 gp</cost>
+			<isidentified type="number">0</isidentified>
+			<locked type="number">1</locked>
+		</id-00601>
+		<id-00602>
+			<name type="string">Citrine, orange, square radiant, large, flawless, regular</name>
+			<description type="formattedtext"/>
+			<flavor type="string"/>
+			<notes type="formattedtext"/>
+			<text type="formattedtext"/>
+			<nonid_name type="string">Gem, large square radiant</nonid_name>
+			<nonidentified type="string">This 1 inch diameter gem is square radiant cut. It is transparent and brownish-orange in color.</nonidentified>
+			<nonid_notes type="string">This 1 inch diameter gem is square radiant cut. It is transparent and brownish-orange in color.</nonid_notes>
+			<type type="string">Treasure</type>
+			<subtype type="string">Gemstones</subtype>
+			<cost type="string">10000 gp</cost>
+			<isidentified type="number">0</isidentified>
+			<locked type="number">1</locked>
+		</id-00602>
+		<id-00603>
+			<name type="string">Citrine, orange, round brilliant, large, flawless, regular</name>
+			<description type="formattedtext"/>
+			<flavor type="string"/>
+			<notes type="formattedtext"/>
+			<text type="formattedtext"/>
+			<nonid_name type="string">Gem, large round brilliant</nonid_name>
+			<nonidentified type="string">This 1 inch diameter gem is round brilliant cut. It is transparent and brownish-orange in color.</nonidentified>
+			<nonid_notes type="string">This 1 inch diameter gem is round brilliant cut. It is transparent and brownish-orange in color.</nonid_notes>
+			<type type="string">Treasure</type>
+			<subtype type="string">Gemstones</subtype>
+			<cost type="string">10000 gp</cost>
+			<isidentified type="number">0</isidentified>
+			<locked type="number">1</locked>
+		</id-00603>
+		<id-00604>
+			<name type="string">Citrine, orange, trilliant, large, flawless, regular</name>
+			<description type="formattedtext"/>
+			<flavor type="string"/>
+			<notes type="formattedtext"/>
+			<text type="formattedtext"/>
+			<nonid_name type="string">Gem, large trilliant</nonid_name>
+			<nonidentified type="string">This 1 inch diameter gem is trilliant cut. It is transparent and brownish-orange in color.</nonidentified>
+			<nonid_notes type="string">This 1 inch diameter gem is trilliant cut. It is transparent and brownish-orange in color.</nonid_notes>
+			<type type="string">Treasure</type>
+			<subtype type="string">Gemstones</subtype>
+			<cost type="string">15000 gp</cost>
+			<isidentified type="number">0</isidentified>
+			<locked type="number">1</locked>
+		</id-00604>
 	</item>
 </root>

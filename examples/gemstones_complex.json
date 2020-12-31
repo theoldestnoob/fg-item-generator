@@ -317,12 +317,8 @@
 				"base_name" : "Azurite",
 				"item_type" : "Treasure",
 				"subtype" : "Gemstones",
-				"base_cost" : 5,
-				"cost_ceiling" : 1000,
-				"cost_floor" : 1,
-				"cost_whole_num" : false,
+				"base_cost" : 10,
 				"cost_units" : "gp",
-				"weight_whole_num" : false,
 				"modifiers" : {
 					"size": [ "S", "M", "L", "V" ],
 					"quality": [ "F", "G" ],
@@ -339,6 +335,36 @@
 						"name" : "azurmalachite",
 						"desc" : "deep blue in color, shot through with splotches of bright green",
 						"base_cost" : 15
+					}
+				],
+				"nonid_name" : "Gem, |size#name| |cut#name|",
+				"nonid_description" : "This |quality#desc| |size#desc| gem is |cut#desc|. It is |transparency| and |varieties#desc|. |optical_phenomena#desc|",
+				"name" : "|base_name|, |varieties#name|, |cut#name|, |size#name|, |quality#name|, |optical_phenomena#name|",
+				"description" : "",
+				"locked" : 1,
+				"identified" : 0
+			},
+			{
+				"base_name": "Citrine",
+				"item_type" : "Treasure",
+				"subtype" : "Gemstones",
+				"base_cost" : 50,
+				"cost_units" : "gp",
+				"modifiers" : {
+					"size": [ "T", "S", "M", "L" ],
+					"quality": [ "F", "G", "P" ],
+					"cut" : [ "U", "S", "SR", "RB", "T" ],
+					"optical_phenomena" : [ "X" ]
+				},
+				"transparency" : "transparent",
+				"varieties" : [
+					{
+						"name" : "yellow",
+						"desc" : "orangey-yellow in color"
+					},
+					{
+						"name" : "orange",
+						"desc" : "brownish-orange in color"
 					}
 				],
 				"nonid_name" : "Gem, |size#name| |cut#name|",

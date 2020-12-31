@@ -82,7 +82,7 @@
 	</lists>
 	<item>
 		<id-00001>
-			<name type="string">Malformed, , tiny, good</name>
+			<name type="string">Malformed, blue, tiny, good</name>
 			<description type="formattedtext"/>
 			<flavor type="string"/>
 			<notes type="formattedtext"/>
@@ -98,7 +98,7 @@
 			<locked type="number">1</locked>
 		</id-00001>
 		<id-00002>
-			<name type="string">Malformed, , small, good</name>
+			<name type="string">Malformed, blue, small, good</name>
 			<description type="formattedtext"/>
 			<flavor type="string"/>
 			<notes type="formattedtext"/>
@@ -114,7 +114,7 @@
 			<locked type="number">1</locked>
 		</id-00002>
 		<id-00003>
-			<name type="string">Malformed, , medium, good</name>
+			<name type="string">Malformed, blue, medium, good</name>
 			<description type="formattedtext"/>
 			<flavor type="string"/>
 			<notes type="formattedtext"/>
@@ -130,7 +130,7 @@
 			<locked type="number">1</locked>
 		</id-00003>
 		<id-00004>
-			<name type="string">Malformed, , large, good</name>
+			<name type="string">Malformed, blue, large, good</name>
 			<description type="formattedtext"/>
 			<flavor type="string"/>
 			<notes type="formattedtext"/>
@@ -146,7 +146,7 @@
 			<locked type="number">1</locked>
 		</id-00004>
 		<id-00005>
-			<name type="string">Malformed, , very large, good</name>
+			<name type="string">Malformed, blue, very large, good</name>
 			<description type="formattedtext"/>
 			<flavor type="string"/>
 			<notes type="formattedtext"/>
@@ -162,7 +162,7 @@
 			<locked type="number">1</locked>
 		</id-00005>
 		<id-00006>
-			<name type="string">Malformed, , huge, good</name>
+			<name type="string">Malformed, blue, huge, good</name>
 			<description type="formattedtext"/>
 			<flavor type="string"/>
 			<notes type="formattedtext"/>
@@ -178,7 +178,7 @@
 			<locked type="number">1</locked>
 		</id-00006>
 		<id-00007>
-			<name type="string">Malformed, , tiny, good</name>
+			<name type="string">Malformed, azurmalachite, tiny, good</name>
 			<description type="formattedtext"/>
 			<flavor type="string"/>
 			<notes type="formattedtext"/>
@@ -194,7 +194,7 @@
 			<locked type="number">1</locked>
 		</id-00007>
 		<id-00008>
-			<name type="string">Malformed, , small, good</name>
+			<name type="string">Malformed, azurmalachite, small, good</name>
 			<description type="formattedtext"/>
 			<flavor type="string"/>
 			<notes type="formattedtext"/>
@@ -210,7 +210,7 @@
 			<locked type="number">1</locked>
 		</id-00008>
 		<id-00009>
-			<name type="string">Malformed, , medium, good</name>
+			<name type="string">Malformed, azurmalachite, medium, good</name>
 			<description type="formattedtext"/>
 			<flavor type="string"/>
 			<notes type="formattedtext"/>
@@ -226,7 +226,7 @@
 			<locked type="number">1</locked>
 		</id-00009>
 		<id-00010>
-			<name type="string">Malformed, , large, good</name>
+			<name type="string">Malformed, azurmalachite, large, good</name>
 			<description type="formattedtext"/>
 			<flavor type="string"/>
 			<notes type="formattedtext"/>
@@ -242,7 +242,7 @@
 			<locked type="number">1</locked>
 		</id-00010>
 		<id-00011>
-			<name type="string">Malformed, , very large, good</name>
+			<name type="string">Malformed, azurmalachite, very large, good</name>
 			<description type="formattedtext"/>
 			<flavor type="string"/>
 			<notes type="formattedtext"/>
@@ -258,7 +258,7 @@
 			<locked type="number">1</locked>
 		</id-00011>
 		<id-00012>
-			<name type="string">Malformed, , huge, good</name>
+			<name type="string">Malformed, azurmalachite, huge, good</name>
 			<description type="formattedtext"/>
 			<flavor type="string"/>
 			<notes type="formattedtext"/>

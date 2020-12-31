@@ -27,6 +27,9 @@
             "type" : "object",
             "properties" : {
                 "base_name" : { "type" : "string" },
+                "description" : { "type" : "string" },
+                "nonid_name" : { "type" : "string" },
+                "nonid_description" : { "type" : "string" },
                 "item_type" : { "type" : "string" },
                 "subtype" : { "type" : "string" },
                 "base_cost" : { "type" : "number" },
@@ -38,15 +41,14 @@
                 "weight_ceiling" : { "type" : "number" },
                 "weight_floor" : { "type" : "number" },
                 "weight_whole_num" : { "type" : "boolean" },
-                "name" : { "type" : "string" },
-                "description" : { "type" : "string" },
-                "nonid_name" : { "type" : "string" },
-                "nonid_description" : { "type" : "string" },
                 "locked" : { "type" : "integer" },
                 "identified" : { "type" : "integer" },
                 "modifiers" : { 
                     "type" : "object",
-                    "additionalProperties" : { "type" : "array" }
+                    "additionalProperties" : { 
+                        "type" : "array",
+                        "items" : { "type" : "string", "minItems" : 1 }
+                    }
                 },
                 "varieties" : { 
                     "type" : "array",
@@ -55,16 +57,25 @@
                         "properties" : {
                             "name" : { "type" : "string" },
                             "desc" : { "type" : "string" },
+                            "item_type" : { "type" : "string" },
+                            "subtype" : { "type" : "string" },
                             "base_cost" : { "type" : "number" },
-                            "base_weight" : { "type" : "number" }
-                        },
-                        "required": [ "name" ]
+                            "cost_ceiling" : { "type" : "number" },
+                            "cost_floor" : { "type" : "number" },
+                            "cost_whole_num" : { "type" : "boolean" },
+                            "cost_units" : { "type" : "string" },
+                            "base_weight" : { "type" : "number" },
+                            "weight_ceiling" : { "type" : "number" },
+                            "weight_floor" : { "type" : "number" },
+                            "weight_whole_num" : { "type" : "boolean" },
+                            "locked" : { "type" : "integer" },
+                            "identified" : { "type" : "integer" }
+                        }
                     }
                 }
             }
         }
     },
-
     "type" : "object",
     "properties" : {
         "module" : {

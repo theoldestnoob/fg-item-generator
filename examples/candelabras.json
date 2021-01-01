@@ -1,0 +1,96 @@
+{
+    "$schema": "../fg-parametric-items-schema.json",
+    "module" : {
+		"name" : "Noob's Candelabras",
+		"author" : "theoldestnoob"
+    },
+    "items" : {
+		"modifiers" : {
+            "size" : [
+                {
+                    "key" : "S",
+                    "name" : "Small",
+                    "desc" : "small",
+                    "mod_weight" : 0.8
+                },
+                {
+                    "key" : "M",
+                    "name" : "Medium",
+                    "desc" : "medium"
+                },
+                {
+                    "key" : "L",
+                    "name" : "Large",
+                    "desc" : "large",
+                    "mod_weight" : 1.2
+                }
+            ],
+            "material" : [
+                {
+                    "key" : "Fe",
+                    "name" : "Iron",
+                    "desc" : "iron",
+                    "nonid_name" : "Black Metal",
+                    "nonid_desc" : "a dull dark metal",
+                    "mod_cost" : 0.5,
+                    "mod_weight" : 0.8
+                },
+                {
+                    "key" : "Ag",
+                    "name" : "Silver",
+                    "desc" : "silver",
+                    "nonid_name" : "Grey Metal",
+                    "nonid_desc" : "a shiny grey metal"
+                },
+                {
+                    "key" : "Au",
+                    "name" : "Gold",
+                    "desc" : "golden",
+                    "nonid_name" : "Yellow Metal",
+                    "nonid_desc" : "a shiny yellow metal",
+                    "mod_cost" : 2,
+                    "mod_weight" : 1.9
+                }
+            ]
+        },
+        "bases" : [
+            {
+                "base_name" : "Candelabra",
+                "item_name" : "|size#name| |varieties#name| |material#name| |base_name|",
+                "description" : "This is a |size#desc| |material#desc| |base_name|. |varieties#desc|",
+                "nonid_name" : "|size#name| |material#nonid_name| |base_name|",
+                "nonid_description" : "This |base_name| is made of |material#nonid_desc|. |varieties#desc|",
+                "base_cost" : 100,
+                "cost_ceiling" : 200,
+                "cost_floor" : 20,
+                "cost_units" : "gp",
+                "cost_whole_num": true,
+                "base_weight": 3,
+                "weight_ceiling": 5,
+                "weight_floor": 1,
+                "weight_whole_num": false,
+                "item_type": "Treasure",
+                "subtype": "Art Objects",
+                "identified": 0,
+                "locked": 1,
+                "varieties": [
+                    { 
+                        "name": "Functional",
+                        "desc" : "It is unornamented."
+                    },
+                    {
+                        "name" : "Luxury",
+                        "desc": "It is covered in intricate carvings.",
+                        "base_cost" : 1000,
+                        "cost_ceiling" : 10000,
+                        "cost_floor" : 500
+                    }
+                ],
+                "modifiers": {
+                    "size" : [ "S", "L" ],
+                    "material" : [ "Fe", "Au", "Ag" ]
+                }
+            }
+        ]
+    }
+}

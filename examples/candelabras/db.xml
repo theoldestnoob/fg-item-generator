@@ -1,0 +1,282 @@
+<?xml version="1.0" ?>
+<root version="4" release="8|CoreRPG:4">
+	<docs>
+		<blocks>
+			<block_001>
+				<blocktype type="string">header</blocktype>
+				<text type="string">Noob's Candelabras</text>
+			</block_001>
+			<block_002>
+				<frame type="string">text4</frame>
+				<text type="formattedtext">
+					<h>Community Developers</h>
+					<p>Author: theoldestnoob</p>
+				</text>
+			</block_002>
+		</blocks>
+	</docs>
+	<library static="true">
+		<candelabras>
+			<name type="string">Noob's Candelabras</name>
+			<categoryname type="string">Accessories</categoryname>
+			<entries>
+				<docs>
+					<librarylink type="windowreference">
+						<class>referencemanualpage</class>
+						<recordname>docs</recordname>
+					</librarylink>
+					<name type="string">Documentation</name>
+				</docs>
+				<itemlist>
+					<librarylink type="windowreference">
+						<class>reference_list</class>
+						<recordname>lists.items</recordname>
+					</librarylink>
+					<name type="string">Items</name>
+				</itemlist>
+				<itemcostlist>
+					<librarylink type="windowreference">
+						<class>reference_groupedlist</class>
+						<recordname>lists.items_bycost</recordname>
+					</librarylink>
+					<name type="string">Items By Cost</name>
+				</itemcostlist>
+			</entries>
+		</candelabras>
+	</library>
+	<lists static="true">
+		<items>
+			<name type="string">Items</name>
+			<recordtype type="string">item</recordtype>
+			<source type="string">item</source>
+			<columns>
+				<column1>
+					<name type="string">name</name>
+				</column1>
+			</columns>
+		</items>
+		<items_bycost>
+			<name type="string">Items By Cost</name>
+			<recordtype type="string">item</recordtype>
+			<source type="string">item</source>
+			<columns>
+				<column1>
+					<name type="string">name</name>
+					<heading type="string">Name</heading>
+					<width type="number">400</width>
+				</column1>
+			</columns>
+			<groups>
+				<group1>
+					<field type="string">cost</field>
+				</group1>
+			</groups>
+		</items_bycost>
+	</lists>
+	<item>
+		<id-00001>
+			<name type="string">Small Functional Iron Candelabra</name>
+			<description type="formattedtext">This is a small iron Candelabra. It is unornamented.</description>
+			<flavor type="string">This is a small iron Candelabra. It is unornamented.</flavor>
+			<notes type="formattedtext">This is a small iron Candelabra. It is unornamented.</notes>
+			<text type="formattedtext">This is a small iron Candelabra. It is unornamented.</text>
+			<nonid_name type="string">Small Black Metal Candelabra</nonid_name>
+			<nonidentified type="string">This Candelabra is made of a dull dark metal. It is unornamented.</nonidentified>
+			<nonid_notes type="string">This Candelabra is made of a dull dark metal. It is unornamented.</nonid_notes>
+			<type type="string">Treasure</type>
+			<subtype type="string">Art Objects</subtype>
+			<cost type="string">50 gp</cost>
+			<price type="string">50 gp</price>
+			<weight type="number">1.92</weight>
+			<isidentified type="number">0</isidentified>
+			<locked type="number">1</locked>
+		</id-00001>
+		<id-00002>
+			<name type="string">Small Functional Gold Candelabra</name>
+			<description type="formattedtext">This is a small golden Candelabra. It is unornamented.</description>
+			<flavor type="string">This is a small golden Candelabra. It is unornamented.</flavor>
+			<notes type="formattedtext">This is a small golden Candelabra. It is unornamented.</notes>
+			<text type="formattedtext">This is a small golden Candelabra. It is unornamented.</text>
+			<nonid_name type="string">Small Yellow Metal Candelabra</nonid_name>
+			<nonidentified type="string">This Candelabra is made of a shiny yellow metal. It is unornamented.</nonidentified>
+			<nonid_notes type="string">This Candelabra is made of a shiny yellow metal. It is unornamented.</nonid_notes>
+			<type type="string">Treasure</type>
+			<subtype type="string">Art Objects</subtype>
+			<cost type="string">200 gp</cost>
+			<price type="string">200 gp</price>
+			<weight type="number">4.56</weight>
+			<isidentified type="number">0</isidentified>
+			<locked type="number">1</locked>
+		</id-00002>
+		<id-00003>
+			<name type="string">Small Functional Silver Candelabra</name>
+			<description type="formattedtext">This is a small silver Candelabra. It is unornamented.</description>
+			<flavor type="string">This is a small silver Candelabra. It is unornamented.</flavor>
+			<notes type="formattedtext">This is a small silver Candelabra. It is unornamented.</notes>
+			<text type="formattedtext">This is a small silver Candelabra. It is unornamented.</text>
+			<nonid_name type="string">Small Grey Metal Candelabra</nonid_name>
+			<nonidentified type="string">This Candelabra is made of a shiny grey metal. It is unornamented.</nonidentified>
+			<nonid_notes type="string">This Candelabra is made of a shiny grey metal. It is unornamented.</nonid_notes>
+			<type type="string">Treasure</type>
+			<subtype type="string">Art Objects</subtype>
+			<cost type="string">100 gp</cost>
+			<price type="string">100 gp</price>
+			<weight type="number">2.4</weight>
+			<isidentified type="number">0</isidentified>
+			<locked type="number">1</locked>
+		</id-00003>
+		<id-00004>
+			<name type="string">Large Functional Iron Candelabra</name>
+			<description type="formattedtext">This is a large iron Candelabra. It is unornamented.</description>
+			<flavor type="string">This is a large iron Candelabra. It is unornamented.</flavor>
+			<notes type="formattedtext">This is a large iron Candelabra. It is unornamented.</notes>
+			<text type="formattedtext">This is a large iron Candelabra. It is unornamented.</text>
+			<nonid_name type="string">Large Black Metal Candelabra</nonid_name>
+			<nonidentified type="string">This Candelabra is made of a dull dark metal. It is unornamented.</nonidentified>
+			<nonid_notes type="string">This Candelabra is made of a dull dark metal. It is unornamented.</nonid_notes>
+			<type type="string">Treasure</type>
+			<subtype type="string">Art Objects</subtype>
+			<cost type="string">50 gp</cost>
+			<price type="string">50 gp</price>
+			<weight type="number">2.88</weight>
+			<isidentified type="number">0</isidentified>
+			<locked type="number">1</locked>
+		</id-00004>
+		<id-00005>
+			<name type="string">Large Functional Gold Candelabra</name>
+			<description type="formattedtext">This is a large golden Candelabra. It is unornamented.</description>
+			<flavor type="string">This is a large golden Candelabra. It is unornamented.</flavor>
+			<notes type="formattedtext">This is a large golden Candelabra. It is unornamented.</notes>
+			<text type="formattedtext">This is a large golden Candelabra. It is unornamented.</text>
+			<nonid_name type="string">Large Yellow Metal Candelabra</nonid_name>
+			<nonidentified type="string">This Candelabra is made of a shiny yellow metal. It is unornamented.</nonidentified>
+			<nonid_notes type="string">This Candelabra is made of a shiny yellow metal. It is unornamented.</nonid_notes>
+			<type type="string">Treasure</type>
+			<subtype type="string">Art Objects</subtype>
+			<cost type="string">200 gp</cost>
+			<price type="string">200 gp</price>
+			<weight type="number">5</weight>
+			<isidentified type="number">0</isidentified>
+			<locked type="number">1</locked>
+		</id-00005>
+		<id-00006>
+			<name type="string">Large Functional Silver Candelabra</name>
+			<description type="formattedtext">This is a large silver Candelabra. It is unornamented.</description>
+			<flavor type="string">This is a large silver Candelabra. It is unornamented.</flavor>
+			<notes type="formattedtext">This is a large silver Candelabra. It is unornamented.</notes>
+			<text type="formattedtext">This is a large silver Candelabra. It is unornamented.</text>
+			<nonid_name type="string">Large Grey Metal Candelabra</nonid_name>
+			<nonidentified type="string">This Candelabra is made of a shiny grey metal. It is unornamented.</nonidentified>
+			<nonid_notes type="string">This Candelabra is made of a shiny grey metal. It is unornamented.</nonid_notes>
+			<type type="string">Treasure</type>
+			<subtype type="string">Art Objects</subtype>
+			<cost type="string">100 gp</cost>
+			<price type="string">100 gp</price>
+			<weight type="number">3.6</weight>
+			<isidentified type="number">0</isidentified>
+			<locked type="number">1</locked>
+		</id-00006>
+		<id-00007>
+			<name type="string">Small Luxury Iron Candelabra</name>
+			<description type="formattedtext">This is a small iron Candelabra. It is covered in intricate carvings.</description>
+			<flavor type="string">This is a small iron Candelabra. It is covered in intricate carvings.</flavor>
+			<notes type="formattedtext">This is a small iron Candelabra. It is covered in intricate carvings.</notes>
+			<text type="formattedtext">This is a small iron Candelabra. It is covered in intricate carvings.</text>
+			<nonid_name type="string">Small Black Metal Candelabra</nonid_name>
+			<nonidentified type="string">This Candelabra is made of a dull dark metal. It is covered in intricate carvings.</nonidentified>
+			<nonid_notes type="string">This Candelabra is made of a dull dark metal. It is covered in intricate carvings.</nonid_notes>
+			<type type="string">Treasure</type>
+			<subtype type="string">Art Objects</subtype>
+			<cost type="string">500 gp</cost>
+			<price type="string">500 gp</price>
+			<weight type="number">1.92</weight>
+			<isidentified type="number">0</isidentified>
+			<locked type="number">1</locked>
+		</id-00007>
+		<id-00008>
+			<name type="string">Small Luxury Gold Candelabra</name>
+			<description type="formattedtext">This is a small golden Candelabra. It is covered in intricate carvings.</description>
+			<flavor type="string">This is a small golden Candelabra. It is covered in intricate carvings.</flavor>
+			<notes type="formattedtext">This is a small golden Candelabra. It is covered in intricate carvings.</notes>
+			<text type="formattedtext">This is a small golden Candelabra. It is covered in intricate carvings.</text>
+			<nonid_name type="string">Small Yellow Metal Candelabra</nonid_name>
+			<nonidentified type="string">This Candelabra is made of a shiny yellow metal. It is covered in intricate carvings.</nonidentified>
+			<nonid_notes type="string">This Candelabra is made of a shiny yellow metal. It is covered in intricate carvings.</nonid_notes>
+			<type type="string">Treasure</type>
+			<subtype type="string">Art Objects</subtype>
+			<cost type="string">2000 gp</cost>
+			<price type="string">2000 gp</price>
+			<weight type="number">4.56</weight>
+			<isidentified type="number">0</isidentified>
+			<locked type="number">1</locked>
+		</id-00008>
+		<id-00009>
+			<name type="string">Small Luxury Silver Candelabra</name>
+			<description type="formattedtext">This is a small silver Candelabra. It is covered in intricate carvings.</description>
+			<flavor type="string">This is a small silver Candelabra. It is covered in intricate carvings.</flavor>
+			<notes type="formattedtext">This is a small silver Candelabra. It is covered in intricate carvings.</notes>
+			<text type="formattedtext">This is a small silver Candelabra. It is covered in intricate carvings.</text>
+			<nonid_name type="string">Small Grey Metal Candelabra</nonid_name>
+			<nonidentified type="string">This Candelabra is made of a shiny grey metal. It is covered in intricate carvings.</nonidentified>
+			<nonid_notes type="string">This Candelabra is made of a shiny grey metal. It is covered in intricate carvings.</nonid_notes>
+			<type type="string">Treasure</type>
+			<subtype type="string">Art Objects</subtype>
+			<cost type="string">1000 gp</cost>
+			<price type="string">1000 gp</price>
+			<weight type="number">2.4</weight>
+			<isidentified type="number">0</isidentified>
+			<locked type="number">1</locked>
+		</id-00009>
+		<id-00010>
+			<name type="string">Large Luxury Iron Candelabra</name>
+			<description type="formattedtext">This is a large iron Candelabra. It is covered in intricate carvings.</description>
+			<flavor type="string">This is a large iron Candelabra. It is covered in intricate carvings.</flavor>
+			<notes type="formattedtext">This is a large iron Candelabra. It is covered in intricate carvings.</notes>
+			<text type="formattedtext">This is a large iron Candelabra. It is covered in intricate carvings.</text>
+			<nonid_name type="string">Large Black Metal Candelabra</nonid_name>
+			<nonidentified type="string">This Candelabra is made of a dull dark metal. It is covered in intricate carvings.</nonidentified>
+			<nonid_notes type="string">This Candelabra is made of a dull dark metal. It is covered in intricate carvings.</nonid_notes>
+			<type type="string">Treasure</type>
+			<subtype type="string">Art Objects</subtype>
+			<cost type="string">500 gp</cost>
+			<price type="string">500 gp</price>
+			<weight type="number">2.88</weight>
+			<isidentified type="number">0</isidentified>
+			<locked type="number">1</locked>
+		</id-00010>
+		<id-00011>
+			<name type="string">Large Luxury Gold Candelabra</name>
+			<description type="formattedtext">This is a large golden Candelabra. It is covered in intricate carvings.</description>
+			<flavor type="string">This is a large golden Candelabra. It is covered in intricate carvings.</flavor>
+			<notes type="formattedtext">This is a large golden Candelabra. It is covered in intricate carvings.</notes>
+			<text type="formattedtext">This is a large golden Candelabra. It is covered in intricate carvings.</text>
+			<nonid_name type="string">Large Yellow Metal Candelabra</nonid_name>
+			<nonidentified type="string">This Candelabra is made of a shiny yellow metal. It is covered in intricate carvings.</nonidentified>
+			<nonid_notes type="string">This Candelabra is made of a shiny yellow metal. It is covered in intricate carvings.</nonid_notes>
+			<type type="string">Treasure</type>
+			<subtype type="string">Art Objects</subtype>
+			<cost type="string">2000 gp</cost>
+			<price type="string">2000 gp</price>
+			<weight type="number">5</weight>
+			<isidentified type="number">0</isidentified>
+			<locked type="number">1</locked>
+		</id-00011>
+		<id-00012>
+			<name type="string">Large Luxury Silver Candelabra</name>
+			<description type="formattedtext">This is a large silver Candelabra. It is covered in intricate carvings.</description>
+			<flavor type="string">This is a large silver Candelabra. It is covered in intricate carvings.</flavor>
+			<notes type="formattedtext">This is a large silver Candelabra. It is covered in intricate carvings.</notes>
+			<text type="formattedtext">This is a large silver Candelabra. It is covered in intricate carvings.</text>
+			<nonid_name type="string">Large Grey Metal Candelabra</nonid_name>
+			<nonidentified type="string">This Candelabra is made of a shiny grey metal. It is covered in intricate carvings.</nonidentified>
+			<nonid_notes type="string">This Candelabra is made of a shiny grey metal. It is covered in intricate carvings.</nonid_notes>
+			<type type="string">Treasure</type>
+			<subtype type="string">Art Objects</subtype>
+			<cost type="string">1000 gp</cost>
+			<price type="string">1000 gp</price>
+			<weight type="number">3.6</weight>
+			<isidentified type="number">0</isidentified>
+			<locked type="number">1</locked>
+		</id-00012>
+	</item>
+</root>

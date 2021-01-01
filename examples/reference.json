@@ -68,7 +68,7 @@
         "bases" : [
             {
                 "base_name" : "Base Item 1",
-                "name" : "|base_name|, |varieties#name|, Mod: |cost_modifier#name|",
+                "item_name" : "|base_name|, |varieties#name|, Mod: |cost_modifier#name|",
                 "description" : "Description when identified. This |varieties#name| |base_name| has the following cost modifier applied: |cost_modifier#desc|. This is a |varieties#desc|.",
                 "nonid_name" : "Unidentified |base_name|",
                 "nonid_description" : "Description when unidentified. This |base_name| looks |cost_modifier#desc_nonid|. |extra1|",
@@ -89,7 +89,7 @@
                 "extra2" : "extra variable 2",
                 "varieties": [
                     { 
-                        "name": "Variety1",
+                        "item_name": "Variety1",
                         "desc" : "variety with no adjustments"
                     },
                     {

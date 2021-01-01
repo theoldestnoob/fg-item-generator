@@ -110,7 +110,7 @@
 					{ "name" : "Jacinth", "base_cost" : 5000 },
 					{ "name" : "Diamond White", "base_cost" : 6000 }
 				],
-				"name" : "|varieties#name|, |size#name|",
+				"item_name" : "|varieties#name|, |size#name|",
 				"description" : "|size#desc| cut and polished |varieties#name| gemstone",
 				"locked" : 1,
 				"identified" : 1

@@ -271,7 +271,7 @@
 				"transparency" : "opaque",
 				"nonid_name" : "Gem, |size#name| |cut#name|",
 				"nonid_description" : "This |quality#desc| |size#desc| gem is |cut#desc|. It is |transparency| and |color#desc|. |optical_phenomena#desc|",
-				"name" : "|base_name|, |varieties#name|, |cut#name|, |size#name|, |quality#name|, |optical_phenomena#name|",
+				"item_name" : "|base_name|, |varieties#name|, |cut#name|, |size#name|, |quality#name|, |optical_phenomena#name|",
 				"description" : "",
 				"locked" : 1,
 				"identified" : 0

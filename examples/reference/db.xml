@@ -80,11 +80,11 @@
 	</lists>
 	<item>
 		<id-00001>
-			<name type="string">Base Item 1, Variety1, Mod: double</name>
-			<description type="formattedtext">Description when identified. This Variety1 Base Item 1 has the following cost modifier applied: multiply item base_cost by 2. This is a variety with no adjustments.</description>
-			<flavor type="string">Description when identified. This Variety1 Base Item 1 has the following cost modifier applied: multiply item base_cost by 2. This is a variety with no adjustments.</flavor>
-			<notes type="formattedtext">Description when identified. This Variety1 Base Item 1 has the following cost modifier applied: multiply item base_cost by 2. This is a variety with no adjustments.</notes>
-			<text type="formattedtext">Description when identified. This Variety1 Base Item 1 has the following cost modifier applied: multiply item base_cost by 2. This is a variety with no adjustments.</text>
+			<name type="string">Base Item 1, Mod: double</name>
+			<description type="formattedtext">Description when identified. This Base Item 1 has the following cost modifier applied: multiply item base_cost by 2. This is a variety with no adjustments.</description>
+			<flavor type="string">Description when identified. This Base Item 1 has the following cost modifier applied: multiply item base_cost by 2. This is a variety with no adjustments.</flavor>
+			<notes type="formattedtext">Description when identified. This Base Item 1 has the following cost modifier applied: multiply item base_cost by 2. This is a variety with no adjustments.</notes>
+			<text type="formattedtext">Description when identified. This Base Item 1 has the following cost modifier applied: multiply item base_cost by 2. This is a variety with no adjustments.</text>
 			<nonid_name type="string">Unidentified Base Item 1</nonid_name>
 			<nonidentified type="string">Description when unidentified. This Base Item 1 looks expensive. Here is an extra variable.</nonidentified>
 			<nonid_notes type="string">Description when unidentified. This Base Item 1 looks expensive. Here is an extra variable.</nonid_notes>
@@ -97,11 +97,11 @@
 			<locked type="number">1</locked>
 		</id-00001>
 		<id-00002>
-			<name type="string">Base Item 1, Variety1, Mod: half</name>
-			<description type="formattedtext">Description when identified. This Variety1 Base Item 1 has the following cost modifier applied: multiply item base_cost by 0.5. This is a variety with no adjustments.</description>
-			<flavor type="string">Description when identified. This Variety1 Base Item 1 has the following cost modifier applied: multiply item base_cost by 0.5. This is a variety with no adjustments.</flavor>
-			<notes type="formattedtext">Description when identified. This Variety1 Base Item 1 has the following cost modifier applied: multiply item base_cost by 0.5. This is a variety with no adjustments.</notes>
-			<text type="formattedtext">Description when identified. This Variety1 Base Item 1 has the following cost modifier applied: multiply item base_cost by 0.5. This is a variety with no adjustments.</text>
+			<name type="string">Base Item 1, Mod: half</name>
+			<description type="formattedtext">Description when identified. This Base Item 1 has the following cost modifier applied: multiply item base_cost by 0.5. This is a variety with no adjustments.</description>
+			<flavor type="string">Description when identified. This Base Item 1 has the following cost modifier applied: multiply item base_cost by 0.5. This is a variety with no adjustments.</flavor>
+			<notes type="formattedtext">Description when identified. This Base Item 1 has the following cost modifier applied: multiply item base_cost by 0.5. This is a variety with no adjustments.</notes>
+			<text type="formattedtext">Description when identified. This Base Item 1 has the following cost modifier applied: multiply item base_cost by 0.5. This is a variety with no adjustments.</text>
 			<nonid_name type="string">Unidentified Base Item 1</nonid_name>
 			<nonidentified type="string">Description when unidentified. This Base Item 1 looks cheap. Here is an extra variable.</nonidentified>
 			<nonid_notes type="string">Description when unidentified. This Base Item 1 looks cheap. Here is an extra variable.</nonid_notes>
@@ -114,11 +114,11 @@
 			<locked type="number">1</locked>
 		</id-00002>
 		<id-00003>
-			<name type="string">Base Item 1, Variety1, Mod: triple (alternate multiplication)</name>
-			<description type="formattedtext">Description when identified. This Variety1 Base Item 1 has the following cost modifier applied: multiply item base_cost by 3, alternative multiplication form. This is a variety with no adjustments.</description>
-			<flavor type="string">Description when identified. This Variety1 Base Item 1 has the following cost modifier applied: multiply item base_cost by 3, alternative multiplication form. This is a variety with no adjustments.</flavor>
-			<notes type="formattedtext">Description when identified. This Variety1 Base Item 1 has the following cost modifier applied: multiply item base_cost by 3, alternative multiplication form. This is a variety with no adjustments.</notes>
-			<text type="formattedtext">Description when identified. This Variety1 Base Item 1 has the following cost modifier applied: multiply item base_cost by 3, alternative multiplication form. This is a variety with no adjustments.</text>
+			<name type="string">Base Item 1, Mod: triple (alternate multiplication)</name>
+			<description type="formattedtext">Description when identified. This Base Item 1 has the following cost modifier applied: multiply item base_cost by 3, alternative multiplication form. This is a variety with no adjustments.</description>
+			<flavor type="string">Description when identified. This Base Item 1 has the following cost modifier applied: multiply item base_cost by 3, alternative multiplication form. This is a variety with no adjustments.</flavor>
+			<notes type="formattedtext">Description when identified. This Base Item 1 has the following cost modifier applied: multiply item base_cost by 3, alternative multiplication form. This is a variety with no adjustments.</notes>
+			<text type="formattedtext">Description when identified. This Base Item 1 has the following cost modifier applied: multiply item base_cost by 3, alternative multiplication form. This is a variety with no adjustments.</text>
 			<nonid_name type="string">Unidentified Base Item 1</nonid_name>
 			<nonidentified type="string">Description when unidentified. This Base Item 1 looks really expensive. Here is an extra variable.</nonidentified>
 			<nonid_notes type="string">Description when unidentified. This Base Item 1 looks really expensive. Here is an extra variable.</nonid_notes>
@@ -131,11 +131,11 @@
 			<locked type="number">1</locked>
 		</id-00003>
 		<id-00004>
-			<name type="string">Base Item 1, Variety1, Mod: fifth (alternate multiplication)</name>
-			<description type="formattedtext">Description when identified. This Variety1 Base Item 1 has the following cost modifier applied: multiply item base_cost by 0.2, alternative multiplication form. This is a variety with no adjustments.</description>
-			<flavor type="string">Description when identified. This Variety1 Base Item 1 has the following cost modifier applied: multiply item base_cost by 0.2, alternative multiplication form. This is a variety with no adjustments.</flavor>
-			<notes type="formattedtext">Description when identified. This Variety1 Base Item 1 has the following cost modifier applied: multiply item base_cost by 0.2, alternative multiplication form. This is a variety with no adjustments.</notes>
-			<text type="formattedtext">Description when identified. This Variety1 Base Item 1 has the following cost modifier applied: multiply item base_cost by 0.2, alternative multiplication form. This is a variety with no adjustments.</text>
+			<name type="string">Base Item 1, Mod: fifth (alternate multiplication)</name>
+			<description type="formattedtext">Description when identified. This Base Item 1 has the following cost modifier applied: multiply item base_cost by 0.2, alternative multiplication form. This is a variety with no adjustments.</description>
+			<flavor type="string">Description when identified. This Base Item 1 has the following cost modifier applied: multiply item base_cost by 0.2, alternative multiplication form. This is a variety with no adjustments.</flavor>
+			<notes type="formattedtext">Description when identified. This Base Item 1 has the following cost modifier applied: multiply item base_cost by 0.2, alternative multiplication form. This is a variety with no adjustments.</notes>
+			<text type="formattedtext">Description when identified. This Base Item 1 has the following cost modifier applied: multiply item base_cost by 0.2, alternative multiplication form. This is a variety with no adjustments.</text>
 			<nonid_name type="string">Unidentified Base Item 1</nonid_name>
 			<nonidentified type="string">Description when unidentified. This Base Item 1 looks really cheap. Here is an extra variable.</nonidentified>
 			<nonid_notes type="string">Description when unidentified. This Base Item 1 looks really cheap. Here is an extra variable.</nonid_notes>
@@ -148,11 +148,11 @@
 			<locked type="number">1</locked>
 		</id-00004>
 		<id-00005>
-			<name type="string">Base Item 1, Variety1, Mod: add 10</name>
-			<description type="formattedtext">Description when identified. This Variety1 Base Item 1 has the following cost modifier applied: Add 10 to item base_cost.. This is a variety with no adjustments.</description>
-			<flavor type="string">Description when identified. This Variety1 Base Item 1 has the following cost modifier applied: Add 10 to item base_cost.. This is a variety with no adjustments.</flavor>
-			<notes type="formattedtext">Description when identified. This Variety1 Base Item 1 has the following cost modifier applied: Add 10 to item base_cost.. This is a variety with no adjustments.</notes>
-			<text type="formattedtext">Description when identified. This Variety1 Base Item 1 has the following cost modifier applied: Add 10 to item base_cost.. This is a variety with no adjustments.</text>
+			<name type="string">Base Item 1, Mod: add 10</name>
+			<description type="formattedtext">Description when identified. This Base Item 1 has the following cost modifier applied: Add 10 to item base_cost.. This is a variety with no adjustments.</description>
+			<flavor type="string">Description when identified. This Base Item 1 has the following cost modifier applied: Add 10 to item base_cost.. This is a variety with no adjustments.</flavor>
+			<notes type="formattedtext">Description when identified. This Base Item 1 has the following cost modifier applied: Add 10 to item base_cost.. This is a variety with no adjustments.</notes>
+			<text type="formattedtext">Description when identified. This Base Item 1 has the following cost modifier applied: Add 10 to item base_cost.. This is a variety with no adjustments.</text>
 			<nonid_name type="string">Unidentified Base Item 1</nonid_name>
 			<nonidentified type="string">Description when unidentified. This Base Item 1 looks a bit more expensive than normal. Here is an extra variable.</nonidentified>
 			<nonid_notes type="string">Description when unidentified. This Base Item 1 looks a bit more expensive than normal. Here is an extra variable.</nonid_notes>
@@ -165,11 +165,11 @@
 			<locked type="number">1</locked>
 		</id-00005>
 		<id-00006>
-			<name type="string">Base Item 1, Variety1, Mod: subtract 10</name>
-			<description type="formattedtext">Description when identified. This Variety1 Base Item 1 has the following cost modifier applied: Subtract 10 from item base_cost.. This is a variety with no adjustments.</description>
-			<flavor type="string">Description when identified. This Variety1 Base Item 1 has the following cost modifier applied: Subtract 10 from item base_cost.. This is a variety with no adjustments.</flavor>
-			<notes type="formattedtext">Description when identified. This Variety1 Base Item 1 has the following cost modifier applied: Subtract 10 from item base_cost.. This is a variety with no adjustments.</notes>
-			<text type="formattedtext">Description when identified. This Variety1 Base Item 1 has the following cost modifier applied: Subtract 10 from item base_cost.. This is a variety with no adjustments.</text>
+			<name type="string">Base Item 1, Mod: subtract 10</name>
+			<description type="formattedtext">Description when identified. This Base Item 1 has the following cost modifier applied: Subtract 10 from item base_cost.. This is a variety with no adjustments.</description>
+			<flavor type="string">Description when identified. This Base Item 1 has the following cost modifier applied: Subtract 10 from item base_cost.. This is a variety with no adjustments.</flavor>
+			<notes type="formattedtext">Description when identified. This Base Item 1 has the following cost modifier applied: Subtract 10 from item base_cost.. This is a variety with no adjustments.</notes>
+			<text type="formattedtext">Description when identified. This Base Item 1 has the following cost modifier applied: Subtract 10 from item base_cost.. This is a variety with no adjustments.</text>
 			<nonid_name type="string">Unidentified Base Item 1</nonid_name>
 			<nonidentified type="string">Description when unidentified. This Base Item 1 looks a bit less expensive than normal. Here is an extra variable.</nonidentified>
 			<nonid_notes type="string">Description when unidentified. This Base Item 1 looks a bit less expensive than normal. Here is an extra variable.</nonid_notes>

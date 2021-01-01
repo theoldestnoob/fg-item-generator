@@ -26,7 +26,7 @@
             "$id" : "base",
             "type" : "object",
             "properties" : {
-                "base_name" : { "type" : "string" },
+                "item_name" : { "type" : "string" },
                 "description" : { "type" : "string" },
                 "nonid_name" : { "type" : "string" },
                 "nonid_description" : { "type" : "string" },

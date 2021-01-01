@@ -209,15 +209,15 @@ def generate_items(definitions: dict) -> list:
         # parse each unique permutation to build an FGItem
         # varieties can override base item settings, but no other modifier can
         # varieties can not override:
-        #       "name", "description", "nonid_name", or "nonid_description"
+        #       "item_name", "description", "nonid_name", or "nonid_description"
         for mod_combo in perms:
             # name and description defintions are strings of tokens
             # so we substitute in defined words and phrases from the
             # base and modifier definitions
             # all names default to None
             name = None
-            if 'name' in base_item.keys():
-                name = parse_string(base_item['name'], base_item, mod_combo)
+            if 'item_name' in base_item.keys():
+                name = parse_string(base_item['item_name'], base_item, mod_combo)
             desc = None
             if 'description' in base_item.keys():
                 desc = parse_string(base_item['description'], base_item,

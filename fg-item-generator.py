@@ -287,7 +287,7 @@ def generate_items(definitions: dict) -> list:
                 if (mod['mod_type'] == 'varieties'
                         and 'cost_floor' in mod.keys()):
                     cost_floor = mod['cost_floor']
-            if cost_floor is not None and cost < cost_floor:
+            if cost is not None and cost < cost_floor:
                 cost = cost_floor
             # do we drop the cost decimal - default yes
             cost_whole_num = True
@@ -351,7 +351,7 @@ def generate_items(definitions: dict) -> list:
                 if (mod['mod_type'] == 'varieties' and
                         'weight_floor' in mod.keys()):
                     weight_floor = mod['weight_floor']
-            if weight_floor is not None and weight < weight_floor:
+            if weight is not None and weight < weight_floor:
                 weight = weight_floor
             # do we drop the weight decimal - default no
             weight_whole_num = False

@@ -296,10 +296,11 @@ def generate_items(definitions: dict) -> list:
                 if (mod['mod_type'] == 'varieties'
                         and 'cost_whole_num' in mod.keys()):
                     cost_whole_num = mod['cost_whole_num']
-            if cost is not None and cost_whole_num:
-                cost = int(cost)
             cost_str = None
             if cost is not None:
+                cost = round(cost, 2)
+                if cost_whole_num:
+                    cost = int(cost)
                 cost_str = f'{cost} {cost_units}'
             # get base weight - default None
             weight = None
@@ -359,8 +360,10 @@ def generate_items(definitions: dict) -> list:
                 if (mod['mod_type'] == 'varieties' and
                         'weight_whole_num' in mod.keys()):
                     weight_whole_num = mod['weight_whole_num']
-            if weight is not None and weight_whole_num:
-                weight = int(weight)
+            if weight is not None:
+                weight = round(weight, 2)
+                if weight_whole_num:
+                    weight = int(weight)
             # get item type - default None
             item_type = None
             if 'item_type' in base_item.keys():

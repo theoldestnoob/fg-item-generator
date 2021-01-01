@@ -161,7 +161,22 @@ def generate_mod_def(mod_defs: dict) -> ET.Element:
 
 
 def generate_items(definitions: dict) -> list:
+    # build a dict of modifiers with valid (key-containing) entries
+    modifiers_clean = {}
+    for modifier in definitions['modifiers']:
+        modifier_temp = []
+        for entry in definitions['modifiers'][modifier]:
+            if 'key' in entry.keys():
+                modifier_temp.append(entry)
+            else:
+                msg = (
+                    f'Warning! Modifier list {modifier} contains item {entry} '
+                    f'without "key" parameter! Ignoring...'
+                )
+                print(msg)
+        modifiers_clean[modifier] = modifier_temp
     all_items = []
+    # loop through base items and generate all possible unique items from them
     for base_item in definitions['bases']:
         # build 2d array of all varieties and modifiers allowed by the base
         mod_lists = []
@@ -174,7 +189,7 @@ def generate_items(definitions: dict) -> list:
             for base_mod, val in zip(base_mods.keys(), base_mods.values()):
                 mod_vals = []
                 for entry in val:
-                    mod_def = [x for x in definitions['modifiers'][base_mod]
+                    mod_def = [x for x in modifiers_clean[base_mod]
                                if x['key'] == entry]
                     if mod_def == []:
                         msg = (

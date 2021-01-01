@@ -12,6 +12,8 @@
                     "key" : { "type" : "string" },
                     "name" : { "type" : "string" },
                     "desc" : { "type" : "string" },
+                    "nonid_name" : { "type" : "string" },
+                    "nonid_desc" : { "type" : "string" },
                     "mod_cost" : { 
                         "anyOf" : [ { "type" : "number" }, { "type" : "string" } ]
                     },
